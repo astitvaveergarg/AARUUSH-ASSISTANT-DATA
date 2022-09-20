@@ -1,0 +1,21 @@
+﻿EVENT 
+NAME OF THE EVENT: CASINO MANIA 
+
+
+EVENT DISCRIPTION(MENTION IN POINT WISE):-
+1. Firstly all the participants will be given a packet of chips worth 10000 bucks.
+2.It is over the participant as to which table he wishes to join.
+3.Round of poker will be played on two levels i.e professional  & amateur  and people can join any level and leave the table any time he wishes to.
+4.Participants would now make their chips count and their score would be updated.
+5.At the end of 3 days top 9 participants will be eligible to play the final round.
+RULES OF THE EVENT :-
+1.Winner of the hands will be decided on the basis of original poker hands order.
+2.A table can have maximum of 9 participants.
+3.Before leaving the game the player has to return all their chips to the volunteers after making it count.
+
+
+
+
+
+
+JUDGEMENTAL CRITERIA:-The one who has the maximum amount of chips left with him after the end of the stipulated time in the final round will be declared as the winner followed by the runner up

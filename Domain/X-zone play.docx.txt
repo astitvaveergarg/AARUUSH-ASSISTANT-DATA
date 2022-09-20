@@ -1,0 +1,75 @@
+﻿AARUUSH’20
+Event Name: X-Zone Play
+Domain Name: X-Zone
+Date: 1/4/2020- 30/4/2020
+
+
+
+
+X-Zone Play Event Proposal
+
+
+Objective
+
+
+* The X-Zone PLAY Game Competition will provide a unique opportunity for students to showcase their interactive play systems and design.
+* To organise online events which could be conducted on a large scale during the corona virus pandemic
+
+
+Rules and Regulations
+* The game has to be new. 
+* Participants are allowed to rely on their preferred game engines (Unreal, XNA, Unity 3D), devkits and libraries. The games can run on any platform (PC, Mac, console, tablet, PDA, etc.).
+* Participants are allowed to choose any topic 
+* Participants might be asked to present a time sheet of the development time to time
+* The Game must be functional. This implies that reviewers are able to play the game or at least a part of the game in order to have a meaningful play experience. However, a fully finished game is not required; a playable demo or demo level is sufficient.
+* Paper prototypes or non-digital games are not acceptable
+* The maximum size of the game is 110 MB. If your game submission is large and requires more space, instead of submitting the game itself, submit a text document containing a URL that can be used to download the game, e.g., using a file sharing service such as Dropbox or OneDrive. 
+* All the games submission should be mailed to xzone@aaruush.net
+* The last date of the game submission is 25th April, 2020
+
+
+ 
+
+
+
+
+
+
+Judging Criteria
+
+
+Nominees and award winners will be selected based on the following criteria:
+* Originality
+* Creativity
+* Quality 
+* Positioning 
+* Articulation of the game’s contribution
+
+
+Timeline
+* 1st April – The event poster and the registration links will be released.
+* 25th April – The last day for submission.
+* 30th April- The announcement of the winners.
+
+
+Plan of Action
+* Once a participant would register to the event, he/she would be sent a document explaining the game constraints.
+* Once the participant would send us the game design.
+* Five different individuals will play the game and judge the game according to the judging criteria mentioned above.
+* All the marks would be tallied and the person who scores most number of points would be declared as the winner. 
+
+
+
+
+Publicity Plan
+* Online:
+1. Publicity on Social Media Platforms such as Facebook, Twitter, Instagram has to be done with different posters posted at different time intervals to attract proper submission of Papers.
+2. The main focus should be on periodic reminder of the event on social media platforms as the time span between the event and the date of release is more than two months.
+3. Participants would have to be attracted periodically.
+4. Event details should be posted on different portals like www.knowafest.com
+* Offline:
+1. We have the database of participants for a game development workshop that was conducted in SRM-KTR.
+2. Hence, we will call the participants of the workshop and ask them to participate in the event
+Prize Money
+* The winner will be awarded a prize money Rs 1500/-
+* Participation fee for the event would be Rs 50/-

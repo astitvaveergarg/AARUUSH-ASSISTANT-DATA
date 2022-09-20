@@ -1,0 +1,71 @@
+﻿AARUUSH’15
+
+
+ Technical treasure hunt
+SUMMARY:
+* Team selection
+* Starting point – tech park (computer lab)
+* First leg -  4 venues
+* Second leg – 4 venues
+* Third leg – main campus
+* Annexure campus – 4 venues (java, dental ground, basketball court & behind tech park )
+* All the collected clues should be stuck on the board which is in Tp ground , get the final location 
+* Team which reaches the final destination wins.
+
+
+The plan:
+
+
+1. Start  from tech park in some computer lab
+2. The participants will come individually and will be made into groups of four based on the colours which we gave to them 
+3. After that they will have to answer a question on the computer which will lead them to a starting point which can be anywhere in the annex campus there will be multiple starting points and the various teams will go to those points to get the first question..
+4. When the first question is answers the teams will get a piece of EG chart which will have some clue this they have to keep with them and also they will be given a question plus a clue to their next location
+5. The next location will be bio engg block and the teams will be given questions related to the life sciences and biology chemistry etc the locations include 
+* Bio engg block
+* Dental college
+* Medical college
+* Hospital
+6. the question will be such that the teams have an idea of the location is where they have to go and plus there will be numbers in the end which will be the floor no and the room number
+7. the teams when they answer this question will get a EG sheet and another product
+8. we have decided to give the participants various products which will tell them where to go in the 2nd leg like
+* Money for MBA block
+* structure for ARCHITECHTURE
+* a anagram Will be given in which  will tell them which branch to go to and a floor number for the branches in techpark
+* a book with a bookmark on a page to tell them which floor and room to go to
+9. there when the participant reach they will get another question on answering that they will get another EG sheet with a clue and another product
+10. For the 3rd leg THE HUNT will be in the main campus 
+11. We will try targeting the various branches like Civil, Mech, Aero, Auto,   Mechtra, etc.
+12. At the end of each leg the participants will get a EG sheet with clue and products leading them to location after location
+13. The total time for the treasure hunt will be around 6-8 hours
+14. each team will get a map of campus in which they have to mark the location of they have to go and it we will have a stamp or a seal which will be put when they reach the location so that we can avoid any cheating
+15. after the main campus the next product or location clue will refer to java or auditorium or some generic place in the annex campus 
+16. we will have a huge board in the TP Ground on which we will have grids with space for each team after finishing all the locations the teams will have to come to this board stick all the EG pieces on the board and then arrange them to obtain a final clue to a location where the team has to go and then get the final answer and the product 
+17. the team to complete this first and also give the most correct answers will win
+18. all the teams will have a different pattern and a different path which they have to go the number of locations will be the same and the average distance will nearly be equal for all the teams so that there is no biasing
+19. we have tried to involve all the branches which are possible and also all the famous features of the university and the campus so that it is interesting and challenging
+20. the questions will not be very technical but as the teams move forward it will use more IQ and brainstorming to solve the questions which are given 
+21. This uses the creativity of the students plus their knowledge in all the streams of E&T..
+22. it’s fun and technical
+
+
+                  REQUIREMENTS:
+
+
+* Chart papers
+* Sketches
+* Pencils
+* Coloured ribbons
+* Glue
+* Scissors
+* Card boards
+* Stamps
+* Pen
+* Computer lab 
+* Srm maps 
+* Various Products  
+
+
+
+
+                       
+Work done by: M. Veda Rasmi, Pranshu joshi, Vamsi Nath

@@ -1,0 +1,91 @@
+﻿Event 
+Lan Party
+	Domain
+X-Zone
+	
+
+Introduction
+Lan Party is a ‘LAN’ based gaming event. There are four games in here; counter strike 1.6, Dota, NFS MW, FIFA’11. Counter Strike and Dota is team event of 5 persons per team, NFS and FIFA are single player events. The participants should compete through four rounds QUALIFYING, ELIMINATION, SEMIFINALS and FINALS to grab the TITLE. The event goes on for 3 days where on the first day its qualifying round, second day for elimination and third day for semifinals and finals rounds.  
+Arena (IF Any)
+ H:\acads\lanparty.jpg 
+
+
+
+Detailed Description
+COUNTER –STRIKE 1.6
+1. Toss ( selection for T and CT) (1 map, knives only)
+2. Qualifying round – 5 on 5 (1 map)
+3. Elimination round – 5 on 5(2 maps)
+4. Semifinal round - if a team wins one match in a map, that team gets a chance to remove a player from the other team for the next match and so on, vice-versa (2maps)
+5. Final round - 5 on 5 (2 maps).
+6. Maps- dedust2, Inferno, Aztec.
+
+
+DOTA
+
+
+1. Qualifying round – match for 1 hr (selection on score basis).
+2. Elimination round – match for 1.5 hr (selection on score basis).
+3. Semifinal round – complete match.
+4. Final round – complete match.
+
+
+FIFA’11
+
+
+1. Qualifying round – complete match for 8 min.
+2. Elimination round – complete match for 10 min.
+3. Semifinal round – complete match for 12 min.
+4. Final round – complete match for 12 min.
+
+
+
+
+NFS MOSTWANTED
+
+
+1. Qualifying round – knockout match.
+2. Elimination round – circuit match (without NOS).
+3. Semifinal round – sprint match.
+4. Final round – 3 different maps (sprint and circuit).
+
+
+Other Details
+
+1. Rules and Regulations
+   1. Usages of cheat codes are not allowed.
+   2. No damages to the provided system should be done.
+   3. No rematch until there is any mal-function of the system.
+   4. Panelist’s decision will be final.
+   5. Participants can bring their own consoles.
+   6. Participants cannot bring their saved game files
+   7. Game should be neat and clean, decorum should be maintained. 
+   8. Participants must register on or before the first day itself.
+   9. Participants should be present at the place of event else he/she may lose their slot.
+
+
+2. Judging Criteria If Any 
+   1. Elimination on game rounds. 
+   2. The team or person having maximum score in the final round is the winner.
+   3. Panelist’s decisions are final.
+
+
+FAQ
+1. Can the participant change the game settings?
+Yes, but the participants cannot put in their saved games.
+2. Number of participants per team –
+5 (in a team) - for Counter Strike and Dota.
+1 person for NFS and FIFA
+   3. What would be the Event Venue?
+Computer labs in SRM UNIVERSITY,  kattankulathur campus
+   4. Can anyone play twice?
+ Yes, but the participant must re-register. 
+
+
+Contact:
+	Sanjay kumar. H
+Mb : +91 8939047732
+Email : hemsanjay@gmail.com
+	Manu Malladi.
+Mb : +91 8056454838
+Email : manu.malladi555@gmail.com
