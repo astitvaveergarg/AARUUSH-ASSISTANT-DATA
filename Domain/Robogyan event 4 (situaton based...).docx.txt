@@ -1,0 +1,117 @@
+﻿EVENTS PLAN
+
+
+DOMAIN                         : Robogyan
+ORGANIZER NAME    : SWAPNIL
+NAME OF THE EVENT: <insert name here> (Situation based design and implementation event)
+
+
+
+
+
+
+Concept of the Event (Theme and Field of Innovation the Event):
+The event will require the participants to build a basic robot prior to the start of the event and modify them based on the problem statements provided in the forthcoming rounds.
+	
+
+
+
+Round wise description:
+
+
+ROUND 1:
+
+
+ In this round the robots will be inspected to ensure that they adhere to the competition guidelines.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+ROUND 2:
+
+
+
+
+In this round the participants will be provided a task to be completed using their robots. In order to complete this task, modifications will have to be made to the existing robot, 
+
+
+The robots will be judged based on the practicality of the modifications made and time taken to complete the task provided.
+
+
+The participants will be given guidelines based on which they will have to make their robots, thus ensuring that even beginners can complete the task.
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                    
+	
+
+
+
+ROUND 3:
+
+
+
+
+In this round, the participants will be given a problem statement based on which their existing robots will have to be overhauled and modified completely. 
+
+
+The participants will have to add sensory and actuating parts based on the requirements of the problem statement. 
+
+
+The judging will be done based on two criteria. Firstly, a brief presentation made by the participants about the modifications made and then idea behind them. Secondly, the time taken by the robot to complete the task provided.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPECIAL NOTE (if any):

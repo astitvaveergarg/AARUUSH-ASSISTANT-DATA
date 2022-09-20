@@ -1,0 +1,62 @@
+﻿ROBOLYMPIX  DESCRIPTION
+
+
+* It is a 3 days Olympics for robotics enthusiast. It provides a platform for participants all across India to showcase their knowledge and innovation in various fields of robotics. 
+* This flagship provides a plethora of events on the concepts of robotics.
+* There are eight events which will be conducted in three days post Aaruush days.
+* Robolympix consists of 
+1. 3 R-C events
+2. 3 humanoid events
+3. 2 special events
+* Participants from various states, schools, colleges will be participating and contesting with each other for prize money, goodies and certificates.
+* The events are designed with a combination of technicality and fun which can attract a lot of crowd.
+* Participants can participate in multiple events also.
+
+
+
+
+The events are:
+
+
+1. ROBO GO : 
+
+
+This event tests the design of the bot and the skills of the participant to control their bot in a track with turns and boundaries. 
+
+
+2. Maze Runner
+The bot has to solve the maze. This will test the participants understanding in solving mazes based on their knowledge.
+
+
+3. Battle Bot
+To fabricate a bot with offensive and defensive measures attached to it, capable of damaging and knocking the opponent(s) bot out of the game.
+
+
+4. Robo Cup
+It is football themed event incorporating manually controlled robots. The participant robots will be made to compete with each other on a miniature football pitch. The team to score most goals within the game duration will be considered winner. The event will follow a league system where the team compete with each other only once until the finalist remains.
+
+
+5. Staircase to the future
+A robot must walk up a short flight of stairs and then walk down the other side, without falling over.
+
+
+6. Bots R Us
+The event is a classic foot race. The Bots will have to race till the finish line. Fastest bot wins.
+
+
+7. Ant Weight Robowars
+Two robots compete in a head-to-head match following the basics of boxing. Robots are mostly teleoperated, but autonomous control is allowed. Like boxing, the robots are given five full minutes for a round, in which either one of the robots is knocked out or the match time runs out.
+
+
+8. Follow the Q
+Line follower Robot is a machine, which follows a line, either a black line or white line. There are two types of line follower robots: one is black line follower, which follows black line and second is white line follower, which follows white line.
+
+
+
+
+
+
+Sponsors needed: 
+1. Title sponsor
+2. Food and beverage sponsor
+3. Sponsor for every event for arenas and setup.

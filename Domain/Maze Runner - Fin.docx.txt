@@ -1,0 +1,126 @@
+﻿MAZE RUNNER
+The event is  a maze solver involving two simple RC bots. Participants must bring  2 bots which will work cooperatively to solve the provided maze.
+
+
+IMPORTANT DATES
+Last Date for registration and team profile submission-  24th September 2019
+Register at: http://www.tinyurl.com/mazerunnerII
+
+
+
+
+EVENT DESCRIPTION
+
+
+ROUND 1
+* A maze with movable doors is laid out. The participants will have to bring two RC bots that they have built using their technical skills and will have to find the end point of the maze using both bots.
+*  The participants will have to control both the bots simultaneously ensuring that the bots don't meet each other while solving the maze. 
+* The maze will be divided into two sections for the 2 bots. The trigger for a door in section 1 of the maze will be in section 2. So, the second bot will have to push the trigger for bot 1 to pass through the door and vice versa.
+* While traversing through the path both the bots are not supposed to touch the walls, on doing so, a penalty of 10 seconds will be given. Manual tinkering of bots is not allowed in the maze.
+                ROUND 2
+* The top 4 participants will be selected for the semi-finals. The Semi-finals will consist of a different maze which is larger and with greater number of doors. 
+* Here the maze will have black lines in few paths, the bots are supposed to ignore them and travel only in the white spaces. 
+* Here again colliding with the wall will cost them a penalty of 20 seconds.
+                 ROUND 3
+* The top 2 finalists will enter the last round. The maze will be the same as round 2 but candles will be placed randomly in the arena. 
+* The bot made by the participant will have to find the source of the heat and get to the candle and extinguish the flame in any way that it can, for example they can attach a fan or maybe a water sprayer.
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RULES AND REGULATIONS
+•The robot participating in the event can be wired/wireless and must be remotely controlled.
+•The robot mechanism should not damage the arena.
+•Radio systems MUST NOT cause interference to other radio-frequency users.
+•The length of the wire (for wired bots) should be long enough (8-8 meters approx.) to cover the whole field and wire should remain slacked during the run across the field.
+•Participants must arrange their own batteries.
+•Maximum weight - Not more than 7kgs (including battery for wirelessly controlled Robots). However, a tolerance of 5% is acceptable.
+•Only Electrically powered Robots are allowed in the event.
+•Batteries must be sealed, immobilized electrolyte type (gel cell, lithium, NiCad, or dry cells)
+•The electric voltage anywhere in the machine should not be more than 12V DC at any point of time for each robot.
+•Battery can be placed on the robot or can be carried in hand by the robot operator in case of wired robot.
+Control: The robot can be autonomous or manually controlled using a Remote-control system.
+Agility: Robots must be constructed and programmed in a way that its movement is not limited to only one dimension and must move in all directions.
+Violations: Robots that do not abide by the specifications/regulations are not allowed to play. If violations are detected during a running game the team is disqualified for that game. If similar violations occur repeatedly, the team can be disqualified from the tournament.
+Construction: Any robotic parts/building material can be used until the robot meets the above specifications and if the design and construction are primarily the original work of the team as ready-made robots are not allowed to compete in the competition.
+Team Members & Mentors:
+•Number of participants in a team can be up to 4.
+•Each team must have a captain. The captain is the person responsible for communication with referees.
+•Teams must make their own robot. They can't use another team's robot.
+•Team can have a coach as technical advisor. But it's not mandatory to have coach
+•The coach will be seated in a supervisory position around the competition area
+•The coach is not allowed to touch or repair the robot during the competition
+•The coach should not be involved in the programming of the robot.
+•In case of the coach interference with the robot or referee decisions during the competition, the team will risk being disqualified.
+Code of Conduct: Fair Play
+•Robots that cause deliberate interference with other robots or damage to the field will be disqualified.
+•Humans that cause deliberate interference with robots or damage to the field will be disqualified.
+•It is expected that the aim of all teams is to play a fair and clean game.
+Behavior:
+•Participants who misbehave may be asked to leave the competition area and risk being disqualified from the contest.
+•The rules will be enforced at the discretion of the referees, officials, and local law enforcement authorities.
+Organizing Committee:
+•The organizing Committee of this event is the Aaruush Domain Robogyan.
+•All decisions about scoring, game play and timing are made by the OC. Teams should completely respect their vote and decisions. Members of the OC will be from different fields of the robotic science.
+ Round 1:-
+1. The time for completing round 1 is 5 mins.
+2.  If the bots meet each other while solving the maze then they will have to restart. 
+3. Only 3 restarts are allowed. 
+4. If the bots hit the wall then 2 secs will be addedto their total time.
+Round 2:-
+1. The time for completing round 2 is 7 mins.
+2.  Here again if the bots meet each other then they will have to restart, but this time you can restart only twice. 
+3. If the bots hit the wall then 2 secs will be deducted from the time slot. 
+4. And if the bot collides with an obstacle then there is 5 secs deduction.
+
+
+ Round 3:-
+1. The time for completing round 3 is 10 mins.
+2. Here no penalties for the obstacle but 30 points will be awarded for extinguishing a candle.
+3. Minus 20 points for knocking down the candle.
+4. Minus 2 points for touching the wall.
+Participants will be disqualified if they ram down the walls or obstacles.
+
+
+JUDGEMENT CRITERIA
+
+
+1. The top 15 participants will be advancing to the 2nd Round.
+2. Top 4 participants will advance to the last round.
+3. The participants shall be judged based on the time taken by them to complete the task in the first 2 rounds. 
+4. In the last round the Total points gained by the bots will be judged.
+5. In case of tie, the round will be replayed. 
+6. The 3rd Round will end when all the candles are extinguished and the total points will be calculated.
+
+
+SPECIFICATIONS
+1.The dimension of bot must not exceed 30cm*30cm*30cm.
+2.A maximum of 12v battery can be used by the participant.
+3.In round 3, no burst mechanism should be used for extinguishing the fire.

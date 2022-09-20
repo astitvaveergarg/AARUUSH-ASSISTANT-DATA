@@ -1,0 +1,79 @@
+﻿EVENTS PLAN
+
+
+DOMAIN                         : ROBOGYAN
+ORGANIZER NAME    : SWAPNIL
+NAME OF THE EVENT: Robo Soccer
+
+
+
+
+
+
+Concept of the Event (Theme and Field of Innovation the Event):
+It is football themed event incorporating manually controlled robots.
+The participant robots will be made to compete with each other on a miniature football pitch. The robot to score most goals within the game duration will be considered winner.
+The event will follow a league system where the team with least points, from each group gets eliminated until only 2 finalists remain.
+	
+
+
+
+Round wise description:
+
+
+Qualification Round:
+
+
+Technical Inspection
+
+
+In this round the participant’s robot’s size, weight and technical specifications will be checked based on the rulebook. The robots which haven’t adhered to the event rules and regulations will be eliminated. 
+	
+
+
+
+
+
+
+
+
+
+Main Event :
+
+
+
+
+All the teams that clear the technical inspection will qualify to the main event.
+
+
+Game – 
+ Each match will be of 10 minutes, divided into two 5 minute halves. The team to score most goals within this time span will be considered winner of the round.
+
+
+League system – 
+
+
+The teams will be divided into 4 groups randomly. 
+Each team will compete with every other team in the same group exactly once. 
+The top two teams from each group will progress to the next round. (round of 8)
+These 8 teams will compete with one other team based on a random selection. This stage is a knockout stage.
+The four teams to progress will be made to compete with one of the other four, in a knockout round.
+Ultimately, the two remaining teams will compete in the final.
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                    
+	
+
+
+
+
+
+SPECIAL NOTE (if any):

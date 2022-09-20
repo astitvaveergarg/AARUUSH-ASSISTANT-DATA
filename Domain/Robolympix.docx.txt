@@ -1,0 +1,749 @@
+﻿AARUUSH ‘20
+Robolympix IV
+Robolympix have been conducted in the past in Aaruush’08,’09,’15 and they have been pretty successful. Robolympix IV is a newer and more exciting version of the previous Robo Olympics fests that have happened earlier. The fest would stretch over the duration of 3 days and will witness a plethora of events which would represent a few sporting games held in an actual Olympics. The robots will compete in games like weight lifting, ball throwing, racing and many more. The events would comprise of both team events and individual events.
+Multiple events will be conducted on a span of 3 days. Theevents will be in such a way such that a single bot with only minor modifications can attend most of the events so that a single team or participant can partake in multiple events with the same bot. All the events will have to be of either 1 round or 2 rounds. Similar to the Olympics, the first and second will get gold, silver. At the end of the fest. The medals will represent their positions for the cash prize. Each medal will have a different cash prize. In this way, a single participant has the chance to win more than one event with the same bot. 
+Robolympix IV will attract many robotics enthusiasts from inside and outside our college to participate in the event. This event will provide them with an enormous platform for the portrayal of their talents.
+This Three-day robotics fest will help freshers to understand and improve their skill in robotics. 
+The events that can be conducted in Robolympix IV are:
+* 3Basic RC Events
+   * The events are in such a way that one bot without any modifications can participate in all of them.
+* 3 Humanoid Events
+   * Events, in which humanoid bots, which can replicate human motion, participate.
+* 2 Special Events
+   * This special event involves an ant-sized robot.
+   * This special event involves line follower robots.
+
+
+
+
+
+
+The Following are the events, which can be conducted.
+BASIC RC EVENTS
+Name of the event: - Robo Go
+Concept of the event: -
+This event tests the design of the bot and the skills of the participant to control their bot in a track with turns and boundaries. 
+Round wise description: -
+ROUND 1:
+The participants have to race their bots in a 5m track. The top participants with the best time shall proceed to the next round.
+  
+
+  
+
+START        FINISH    
+
+
+
+
+
+
+
+
+ROUND 2:
+The participants have to race their bots in an oval shaped track of 5m. The participants have to cover 2 laps. The participant with the least total time taken for the two laps will be declared the winner. 
+  
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications: -
+1.        Participants must have a bot of 30cm*25cm*20 cm dimension.
+2.        A maximum of 12v battery can be used by the participant.
+3.          The motor used by the participant should not have torque more than 200rpm.
+4.        No extra arm or extensions should be present in the bot.
+5.        The weight of the bot should not exceed 5kg.
+6.          Wheel base maximum 20 cm.
+7.        The bots can be either wired or Wireless
+
+
+Judgement Criteria:
+  Participants will be judged based on the time taken by them to finish the track. The one with the least time taken shall be the winner.
+
+
+Rules And Regulations:
+1. A penalty of two seconds will be awarded if the bot touches the boundary line.
+2. If the bot remains outside of the boundary for more than 10 seconds, then it will have to start from the beginning.
+3. No human interference from participants should be involved in any case.
+4. Any damage to the arena will lead to the disqualification of the participant.
+5. Once the timer starts, it will only stop after the end of the race.
+6. Only 1 team member is allowed to be near the game field while starting the bot. 
+7. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+Venue Requirements: Audi ground/ VIP LANE
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+
+
+Name of the event: Maze Runner
+Concept of the Event:
+The bot has to solve the maze. This will test the participants understanding in solving mazes based on their knowledge.
+Description of event:
+ROUND 1:
+
+
+In this round, the bot has to solve the maze in the least time possible. Time will start the moment the bot enters the maze and will stop only when the bot comes out. Participants with least time shall proceed to the next round.
+
+
+
+
+  
+
+
+
+ROUND 2:
+
+
+In this round, the bots will have to solve a bit more complex maze. When they come out of the maze, they need to sound a buzzer in order to indicate the completion of task. Time will not stop until the buzzer is heard.
+                        
+  
+        
+
+
+
+
+
+
+Specifications:
+1.        Participants must have a bot of 30cm*25cm*20 cm dimension.
+2.        A maximum of 12v battery can be used by the participant.
+3.          The motor used by the participant should not have torque more than 200Nm,
+* we can find the torque by finding out force as mass*acceleration, 
+* where acceleration is velocity/time, 
+* Where velocity is distance upon time.
+4.        No extra arm or extensions should be present in the bot.
+5.        The weight of the bot should not exceed 5kg.
+6.           Participants will be allowed to change the battery only once.
+7.         The bots should incorporate a buzzer. 
+8.          The arena for round one will be 2m*2m.
+9.          The arena for round two will be 3m*3m.
+
+
+Judging criteria:
+The participants will be judged based on the time taken by them to complete the maze and the control and stability of their bot.
+Winners will be decided on the basis of shortest official time which is calculated as:
+ Official Time = Best Run Time + Touch Penalty + Search Penalty 
+Search Penalty = 1/30th of the Search Time, in seconds 
+Touch Penalty= (N/5)*(Best Run Time) Where N = Number of touches during the run.
+ For example, if a bot, after being on the maze for 4 minutes starts a run that takes 20 seconds to reach the destination after being touched twice ; the run will have a Official time of 20 + (2/5)*20+ 1/30th of (4 x 60 seconds) = 36 seconds
+
+
+Rules and regulations:
+1. Once the time starts, it will only stop when the bot solves the maze.
+2. Time will continue even during human interference.
+3. Participants can interfere only once during each round and every successive interference will result in penalty.
+4. Any damage to the arena will lead to the disqualification of the participant.
+5. Participants have to submit their machines to organizers at the time of registration. All contesting machines shall be collected before the maze is unveiled.
+6. Contestants are allowed to: 
+o Replace batteries between runs 
+o Adjust sensors (gain, position etc.)
+o Make repairs
+7. The machine may be checked for its safety before the race and will be discarded if found unsafe for other participants and spectators.
+8. Judges decision shall be treated as final and binding on all.
+9. Only 1 team member is allowed to be near the game field while starting the bot. 
+10. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+
+
+Venue Requirements: Audi ground/ VIP LANE
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the event: Battle Bot
+Concept of the Event:
+To fabricate a bot with offensive and defensive measures attached to it, capable of damaging and knocking the opponent(s) bot out of the game.
+Description of event:
+ROUND 1:
+The arena would be like a traditional sumo wrestling pit- a circular arena with a circular border. It would be a 1 verses 1 round. To win, bots have to push the other bot out of the circle or enforce a knockout. The top team on the points table would make it to the final round.        A total of 10 minutes will be given for the round.                
+
+
+ROUND 2:
+This round is similar to the first round. The qualifying participants will face each other. The last bot standing would be the winner of the Event. This round will have obstacles in the arena. The bots have to avoid them and at the same time attack the other bot. The time limit for this round will be 7 minutes.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Suppose neither bot is knocked out in the given time limit then, as in wrestling, a toss will be there and the winner bot will choose between attack and defence.
+
+
+* Then within a given time limit, one has to attack and knock the other bot out and the other bot will have to defend itself.
+
+
+Specifications:
+1.        Participants must have a bot of 30cm*25cm*20 cm dimension.
+2.        A maximum of 12v battery can be used by the participant.
+3.         The motor used by the participant should not have  more than 200rpm
+4.        No extra arm or extensions should be present in the bot.
+5.        The weight of the bot should not exceed 5kg.
+6.         The arena will be circular and have a 3m diameter.
+7.         The obstacles can be a stack of bricks, some elevated areas, rods etc.
+
+
+Judging criteria:
+1. The bots, which knocks out the other bot first or pushes the bot outside play area within the given time limit will be judged as the winner and will proceed to next round. 
+
+
+Rules and regulations:
+1. There should be no human interferences during the match.
+2. In the 1st round if any bot falls outside arena then it will be considered as knocked out.
+3. At all times, robot behaviour must be non-offensive, and non- harmful to human and other bots.
+4. Any intentional harm to the opponent bot before the round starts will be considered as a penalty.
+5. Only 1 team member is allowed to be near the game field while starting the bot. 
+6. In case of a tie, the time limit for penalty will be 2 minutes 30 seconds.
+7. If the bot which has to defend, tries to attack, then it will be disqualified.
+8. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+Venue Requirements: Audi ground stage/ VIP LANE
+
+
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+HUMANOID EVENTS
+Name of the event: Robo Cup
+Concept of the Event:
+It is football themed event incorporating manually controlled robots. The participant robots will be made to compete with each other on a miniature football pitch. The team to score most goals within the game duration will be considered winner. The event will follow a league system where the team compete with each other only once until the finalist remains.
+
+
+Description of event:
+Game – Each match will be of 10 minutes, divided into two 5-minute halves. The team to score most goals within this time span will be considered winner of the game. The rules of the game will be similar to the rules of football. It will be a one on one match.
+League system – each team will have to bring  one bot. The teams will be divided into 2 groups randomly. Each team will compete with every other team in the same group exactly once. The top two teams from each group will progress to the next round. Qualified teams will compete with one other team based on a random selection. This stage is a knockout stage. Ultimately, the two remaining teams will compete in the final.
+                
+                        3 METER FOOTBALL PITCH
+  
+  
+  
+
+
+
+
+
+
+
+
+
+Specifications:
+1. Bots dimension should be between 40cm to 50cm.
+2. The bots can be autonomous or RC.
+3. Arena will be 3m long and 2m wide
+4. Feet should be no longer than 1/3 of total robot height.
+5. Bots must have only two legs for this competition.
+6. No excessive arms or mechanism should be present.
+
+
+
+
+
+
+Judgement Criteria 
+1. The two participants scoring highest number of goals will be chosen for the next round.
+2. The first and second Rounds must not exceed ten minutes of time.
+3. If the ball goes out of the playing arena, it will be considered as foul of the participant responsible for its last touch inside the arena.
+4. The the bot scoring highest number of goals in the final round will be chosen as the winner of the event.
+5. If the number of goals are zero at the end of the match, then a penalty shoot-out will be there,
+6. Three penalties will be given to each team.
+7. In case of no result again, sudden death will begin.
+Rules And Regulations:
+1. Once the time starts, it will only stop after 10 minutes.
+2. Time will continue even during human interference.
+3. Any damage to the arena will lead to the disqualification of the participant.
+4. Interferencewill be allowed only twice.
+5. Any intentional damage to other participant’s bot will lead to disqualification.
+6. Organising team will not provide with any spare parts or batteries.
+7. Only 1 team member is allowed to be near the game field while starting the bot. 
+8. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+
+
+Venue Requirements: Audi ground/ VIP LANE
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+
+
+
+
+Name of the event: Staircase to the future
+Concept: A robot must walk up a short flight of stairs and then walk down the other side, without falling over.
+Event Description:
+Round 1:
+This round is all about climbing the stairs. Timer starts as soon as the bot passes the starting line. If bot falls off it have to start again from beginning (3 chances will be provided). Top performers will be selected for final round (Maximum time provided will be 5mins).
+Round 2:
+This round challenge the skills of climbing and descending stairs of arbitrary sizes. Timer starts as soon as the bot crosses the starting line (Maximum time provided will be 10mins).The bot have to climb and walk through flat surface and then descend.If bot falls while climbing it have to start from beginning and if bot falls while descending it have to start from middle of flat surface (Total chances provided will be 5).
+
+
+ http://robogames.net/rules/images/stairs1.gif 
+
+
+
+Specifications:
+1. Its dimension should not exceed 50cm.
+2. Its weight must not exceed 5kg.
+3. Both r-c and autonomous bots are allowed.
+4. Both wired and wireless bots are allowed.
+5. Start and finish lines are 10 cm beyond the first and last stair.
+
+
+
+
+
+
+
+
+Judgement criteria:
+The participants will be judged on the basis of time taken by a competitor from starting to crossing the finish line, and the least number of falls or human interference. Start and finish lines are 10 cm beyond the first and last stair.
+
+
+Rules And Regulations:
+1. Once the time starts, it will only stop when the bot finishes the race.
+2. Any damage to the arena will lead to the disqualification of the participant.
+3. In case of a damage, the next try will commence after the last  team has performed.
+4. Any intentional damage to other participant’s bot will lead to disqualification.
+5. If the bot falls, then it will have to start from the beginning.
+6. Only 1 team member is allowed to be near the arena while starting the bot. 
+7. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+
+
+Venue Requirements: Audi ground/ VIP LANE
+
+
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the event: Bots R Us
+Concept: The event is a classic foot race. The Bots will have to race till the finish line. Fastest bot wins
+
+
+Round 1:
+Robots race from starting line to finish line. Number of robots per race will be determined by total number of entrants. Fastest time will pass to the next round. Participants will be divided into groups depending on the number of participants and will be allowed to race. The winners from each league will qualify for the next round.
+
+
+Round 2:
+This round is similar to the first round. The qualifying participants will face each other. The fastest one wins.
+
+
+
+
+  
+
+START        FINISH
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+1. Bots dimensions should be between 40cm to 50cm.
+2. The bots can be autonomous or RC.
+3. Arena will be 4m long and 2m wide.
+4. Feet may be no longer than 1/3 of total robot height.
+5. Bots must have only two legs for this competition.
+6. No excessive arms or mechanism should be present.
+
+
+Judgement criteria:
+The participants will be judged based on the least time taken to finish the race and the manoeuvring control shown by the participants.
+
+
+
+
+Rules And Regulations:
+1. Once the time starts, it will only stop when the bot crosses the finish line.
+2. Any damage to the arena will lead to the disqualification of the participant.
+3. No human interference should be there.
+4. Any intentional damage to other participant’s bot will lead to disqualification.
+5. Points will be deducted if a bot intentionally blocks the way of other robots.
+6. Only 1 team member is allowed to be near the game field while starting the bot. 
+7. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+Venue Requirements: Audi ground/ VIP LANE
+
+
+
+
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPECIAL EVENT
+Name of the event: Ant Weight Robowars
+Concept: Two robots compete in a head-to-head match following the basics of boxing. Robots are mostly teleoperated, but autonomous control is allowed. Like boxing, the robots are given five full minutes for a round, in which either one of the robots is knocked out or the match time runs out.
+
+
+Round 1:
+On the arena, two participants will clash with each other. Participants have to use their weapons in their bots to push the opponent outside the arena or knock them out inside it. Top participants will proceed to the next round. The time limit for this round will be 10 minutes.
+
+
+Round 2:
+This round is same as round 1, the participant has to knock out or push the robot out of the arena within the given time limit.This round will have obstacles in the arena. The bots have to avoid them and at the same time attack the other bot. The time limit for this round will be 7 minutes.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Suppose neither bot is knocked out in the given time limit then, as in wrestling, a toss will be there and the winner bot will choose between attack and defence.
+
+
+* Then within a given time limit, one has to attack and knock the other bot out and the other bot will have to defend itself.
+
+
+
+
+
+
+
+
+
+
+Specifications:
+1. The dimension should be 15cm*15cm*15cm.
+2. The weight must not exceed 350gms.
+3. The bots of the participants will be taken at time of registration for the event, and will only be given at the time of competition.
+4. The bot cannot have weapons using water and electrical lasers
+5. Bots can be wired or wireless.
+6. Arena will be a circular ring of 1m radius.
+7. The obstacles can be a stack of bricks, some elevated areas, rods etc.
+
+
+Judgement criteria:
+A participant will be declared winner only if the opponent’s bot body is entirely outside the arena or is completely knocked out with in a given time limit. 
+Rules and Regulations:
+1. Once the bot moves outside the arena, it will be disqualified.
+2. The referee’s decision will be final and no participant should indulge in any conflict. 
+3. Points will be awarded for pushing opponent’s bot to boundary line or fractionally outside the boundary line.
+4. Only 1 team member is allowed to be near the game field while starting the bot. 
+5. Any participant found increasing the weight of the bot would be disqualified.
+6. The time limit for penalties will be 2 minutes 30 seconds.
+7. If the bot, which has to defend, tries to attack, then it will be disqualified.
+8. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+
+
+
+
+Venue Requirements: Audi ground stage/ VIP LANE
+
+
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate
+
+
+Name of the event: Follow the Q
+Concept:  Line follower Robot is a machine, which follows a line, either a black line or white line. There are two types of line follower robots: one is black linefollower, which follows black line and second is white line follower, which follows white line.
+In this event, we will use the robots, which follow the black line.
+Round 1
+In this round, an autonomous bot has to follow the black line and reach the end covering the whole arena in minimum time. The time limit for this round will be 5 minutes.
+  
+
+
+
+Round 2
+In this round, the participants have to cross the arena, which consist of three checkpoints, the bot has to cover all the checkpoints and reach a black box made at the finish line. After the bot reaches the finish line, it will have to glow a light to indicate the end of the round. Some blocks will be kept in the track and the bot has to avoid them without touching the blocks. The time limit for this round will be 12 minutes.
+                                              
+
+
+SPECIFICATIONS: 
+1. The autonomous bot must fit into the box of dimension 220 mm X 220 mm X 220 mm (lxbxh).
+ 2. Bot must be started individually by only one switch. However, a team may have an on-board switch for the restart. This switch has to be shown to the organizer before the run. 
+3. Bot must have a red LED, which will glow once it reaches the end zone of the arena. 
+4. During the run, the autonomous bot must not damage the arena in any way. It is not allowed to leave anything behind or make any marks while traversing the arena. Any bot found damaging the arena would be immediately disqualified. The final decision is at the discretion of the organizers. 
+5. Bot must have ‘on board’ power supply.
+6. The autonomous bot should not separate or split into two or more units. All bots/units, which are touching each other or are in the starting point, will be considered as one bot. 
+7. The Machine cannot be constructed using readymade ‘Lego kits’ or any readymade mechanism. However, they can make use of readymade gear assemblies. Violating this clause will lead to disqualification of the team.
+8. The arena for round 1, will be expanding over 2.5meters.
+9. The arena for round 2, will be 3 meters in size.
+10. The arrows in the figure indicates the “CHECKPOINT”.
+11. The white boxes in the figure represents the blocks that should be avoided by the bots.
+
+
+Rules and Regulations:
+ 1. Teams will be given 1 minute for calibration. If any team is found to alter its code after depositing its bots, then it will be immediately disqualified from the competition. They are however allowed to make any other hardware changes.
+ 2. Only one autonomous bot per team is allowed. 
+3. When the autonomous bot starts, the team will be penalised 2 second each time the robot has interference by the team members
+4. At the start of the task, the bot will be placed at the starting point. Only 1 team member allowed to be near the game field while starting the bot. 
+5. Run will start only when organizers give the signal. 
+6. The starting procedure of the bot should be simple and should not involve giving bot, any manual force or impulse in any direction. 
+7. A timer will only stop when the buzzer or the light glows after reaching the end point/ black box.
+8. Only one member is allowed to control the bot and the controller should be informed prior to the competition to the organising team.
+Judging Criteria:
+For round 1
+1. The participants with the least timing will proceed to the next round.
+
+
+For round 2
+1. 25 points will be awarded as it crosses any of the checkpoints but it will be counted only once for each checkpoint. 
+2. 5 points will be awarded if the bot glows the LED.
+3. 20 points will be awarded if the bot takes a U-turn for avoiding the blocks without touching.
+4. 5 points will be deducted if the bot enters the white region.
+Scoring: 
+* A = 25 points * (Number of checkpoints covered during  Run) 
+* B = 20 points * (Number of blocks it avoids by taking a U-turn without touching) 
+* L = 5 points if the LED glows 
+* C = 5 points will be deducted if the bot enters the white region.
+* Total =  A+B+L-C
+
+
+Venue Requirements: Audi ground/ VIP LANE
+Team Specifications: 
+A team may consist of a maximum of 4 participants. Students from different educational institutes can form a team. 
+Eligibility: 
+All students with a valid Student identity card of their respective educational institutes are eligible to participate.
+Event Requirements:
+1. Cones
+2. Cushioning material
+3. Marking tapes
+4. Vinyl tapes
+5. Cardboards
+6. Shoe boxes
+7. Tyres
+8. Safety nets
+9. PVC pipes
+10. Wooden planks
+11. Thermacols
+12. Stop watches
+13. Tables
+14. Chairs
+15. Awnings/Shades
+Registration
+* Registration Link
+   * The registration will be done using the registration link that will be provided in the poster.
+   * Once the participant has registered, he or she will get a mail regarding the payment procedures.
+   * The payment is done through GOOGLE PAY, PAYTM or ACCOUNT TRANSFER.
+
+
+* Townscript
+   * The Event will be live on Townscript and can be registered there.
+
+
+* The registration fees per team will be as follows:
+   1. For RC events.
+* 500Rs for one event.
+* 800Rs for two events.
+* 1200Rs for all the three events.
+   1. 500for Ant weight RoboWars.
+   2. 500 for follow the Q
+   3. For Humanoid events.
+* 500Rs for one event.
+* 800Rs for two events.
+* 1200Rs for all the three events.
+* Once registration is complete, the participant will receive an email regarding complete Robolympix IV details and the confirmation ticket.
+Roadmap
+* All the events have to be released 5 Months Prior.
+* A short Robolympix video both prior to the event and post event have to be released.
+* Registration process will start as soon as the event is released 
+* The Posters will be uploaded along with the event content.
+* The online portal will be active until 1 week before Robolympix IV.
+* During Robolympix IV, registered participants will have to participate in the events
+
+
+Plan during Robolympix IV
+
+
+* DAY 1
+   * The inaugural will be on this day and will start at 9am.
+   * The participants have to register at 10.00 am.
+   * Round 1 of robo Go, maze solver, Battle Bots, robo Cup, Staircase To The Future, follow the Q will commence on this day at 12:00 noon.
+   * All the registered participants will have to confirm their presence by 10:00am.
+   * The participants will be informed of the venues during confirmation of their presence.
+   * The timings of the events will be from 12am to 7pm.
+   * Lunch time will be from 2:00 pm to 3:00 pm.
+   * All the events will be conducted simultaneously.
+   * The finalists from all the events will be informed on call, by 10:00pm.
+   * End of Day 1
+
+
+
+
+* DAY 2
+   * Round 1for Bots R Us race and Ant Weight Robowars will commence on this day.
+   * Round 2 for the previous events will commence.
+   * The Finalists who were called previously will have to assemble together by 10:00am at the respective venues.
+   * The timings of the events will be from 10:00am to 5pm.
+   * Lunch time will be from 2:00 pm to 3:00 pm.
+   * All the events will be conducted simultaneously.
+   * End of Day 2
+
+
+* DAY 3
+* The remaining rounds will be commencing on this day.
+* The events will start from 10:00 A.M to 2pm.
+* Valedictory ceremony will start at 3:00 pm.
+
+
+
+
+Publicity Strategy
+* With the main participation aimed at external, online publicity in event websites like Dare2Compete will be beneficial.
+* External Publicity in colleges. Certain colleges from where students have participated in Aaruush events have to be targeted mainly for publicity.
+* The campus ambassadors can be reached for publicity in their own colleges
+* Calls and Mails to the respective HODs and Tech Team heads of different colleges can be done.
+* For Internal publicity, the printed posters can be stuck up on the notice boards.
+* The Respective HODs and faculty members from departments can be contacted for publicity.
+* The departmental WhatsApp groups can be targeted.
+* Other Instagram pages with a sizable number of followers other than the Aaruush page can be contacted.
+* Tech Teams relevant to the competition can be contacted.
+
+
+Accommodation
+
+
+* The Participants those who want accommodation can be accommodated in BEL Block or the hostels.
+Prizes Plan
+* The prizes for the events will be similar to the Olympics with medal like objects for Gold, Silver.
+* For winning the different positions, the participant will be awarded with a Gold, Silver.
+* For winning in the Humanoid events, the prize money should be 20k per event.
+* For the RC Events, each Gold Medal/1st prize should be worth 13k, Silver/2nd prize being 7k.
+* For the Ant weight Robowars, the prize money should be 20k.
+* For Follow the Q, the prize money should be 25K.
+Budget:
+1. Prize money:
+1. R-C events:
+* First prize for all R-C events                                     13000*3 = 39000
+* Second prize for all R-C events                                  7000*3 = 21000 
+2. Humanoid events:
+* Prize money for all the events                 20000*3 = 60000
+3. Ant weight robowars:
+* Prize money                                                         20000
+4. Follow the Q
+* Prize money                                                         25000
+
+
+TOTAL PRIZE MONEY = 165000Rs
+2. Banners                                                                3000
+3. Certificates                                                                2000
+4. Arena setup                                                                     8000
+TOTAL =        178000
+
+
+*from registration
+Expected teams:
+1. For R-C events  -  20 teams per event = 20*500*3 =           30000
+2. For Humanoid events – 20 teams per event = 20*500*3 = 30000
+3. For ant weight robowars – 15 teams = 500*15 =                  7500
+4. For Follow the Q -  25 teams = 500*25  =                              12500
+
+
+
+
+Total money =           80000

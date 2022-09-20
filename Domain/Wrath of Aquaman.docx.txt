@@ -1,0 +1,105 @@
+﻿WRATH OF AQUAMAN
+Aquaman has become the King of Oceans. But humans have disturbed his peaceful rule. So the Mighty King puts across a set of challenges for his competitors to prove their abilities and ascend the mighty Neptunian Throne, Holding the Spear of Neptune – to be the Conquer the Sea.
+ ROUND 1
+Contenders would face their mighty challenge to reach the Royal Aquarena. They need to be agile to participate in the challenge
+ROUND 2
+Here in this round they need to prove that they are the fastest in water.
+God of Oceans is not just the fastest but also the fastest while avoiding obstacles simultaneously.
+ROUND 3
+One can be proved supreme above others only by his strategies. Here contenders need to prove their abilities completing the challenges strategically.
+ROUND 4
+Once you have proved yourself it’s all about gearing up and getting ready for the ultimate battle.
+
+
+ROUND 5
+Sudden challenges are the ones that show the actual capability of a true conqueror. It’s a secret round but the King would drop a clue “all FIFA lovers get ready to kick it off”.
+
+
+
+
+
+
+ROUNDS DESCRIPTION
+ROUND 1    (DESIGNING AND FABRICATION)
+In the first round the participants will be designing their own bot as per the rules given. 
+The length and width of the bot should be max. 0.65X0.49 sq. foot.
+The bot must have at least 2 motors (1400 to 3000 rpm) or a max. of 4 motors (same specs.).
+There will be no restrictions on the designs.
+You can use a 3-cell 12V li-po battery or any other battery with similar specs.
+The bot can be wired or wireless controlled.
+The fabrication of the bot should be done during the event.
+
+
+ROUND 2
+There will be an oval shaped track.
+In this round there will be some wires immersed inside the water and at certain intervals these wires come out obstructing the path using servos.
+The points would be awarded based on the relative distance from the finish line.
+
+
+ROUND 3
+In this round there will be obstacles which will appear and disappear at regular intervals.
+The points would be deducted when you touch the obstacle.
+ The obstacles are straws which will be connected to servos and they come out at regular intervals.
+The participants need to observe the interval pattern and complete the course.
+
+
+ROUND 4
+This round is will be an open course where there will be 5 LED’s mounted on each platform and these will be programmed to turn on at regular intervals.
+All 5 LED’s will be of different colors and will carry different points.
+The boats will be given specific time to stay in the pool and you need to collect as many points as possible.
+
+
+ROUND 5
+In this round two bots will be assigned separate goal posts and there will be three different coloured balls having different points. The bots will have to push the balls into the goal posts and once they do so with one of the balls they can score by the same ball only after they have scored using other two balls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL RULES
+1. The length and width of the bot should be max 0.69x0.49 sq. foot.
+2. The bot must comprise of at least two motors.
+3. The motors should be in the range of 1400-3000 rpm.
+4. In each round there will be a gap of at least 0.98 foot between two obstructions.
+
+
+Round wise rules
+1. The boat must be of the given specifications.
+2. The one who completes three laps of the track first will be awarded the first position in the point table.
+3. In this round each time the boat gets trapped in the string 2 points will be deducted.
+4. Here each time the boat is successful in avoiding the collision with the moving obstacle 5 points will be awarded.
+5. Each time the boat is able to come close to the blinking LEDs of different colours different bonus points will be awarded.
+6. Secret round, rules to be disclosed on the spot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARENAS: C:\Users\Somnath\Desktop\Aaruush '16\Plot & Web-content\Aquaman 1.jpg 
+
+
+ C:\Users\Somnath\Desktop\Aaruush '16\Plot & Web-content\Aquaman 2.jpg
