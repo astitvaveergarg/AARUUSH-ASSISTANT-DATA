@@ -1,0 +1,73 @@
+Yuddhame
+          
+1) What is your committee/domain/team about?
+Yuddhame is the domain of Aaruush that concentrates on the branch of Computer Science. It deals with the CSE related fields like testing software and hardware skills, web designing, operating systems, mobile apps, android, distributed computing, and networking and communication techniques. Yuddhame conducts various year-round events related to these fields.
+
+2) Work profile:
+Yuddhame conducts events that revolve around testing software and hardware skills, web designing, operating systems, mobile apps, android, distributed computing, and networking and communication techniques.
+
+3) Why is your committee/domain/team important in Aaruush?
+Aaruush is a national level techno-management fest which attracts students and companies from all over India. What attracts the students are the uniqueness of the event and the technologies used, most of which require computers for its proper functioning. Yuddhame inspires young students to explore the field of computer science by conducting events on various domains, thereby helping Aaruush to attract more participants.
+
+4) What kind of events do you conduct?
+We conduct technical events related to the CSE domains of software and hardware, web designing, mobile apps, android development etc. Our events range from Coding Competitions and Marathons, UI/UX designing challenges, Hackathons and Ideathons to name a few. We always try that the participants always get to learn something new in the field of CSE related to these domains through our events.
+
+5) Number of events per edition you conduct?
+5 events - 3 Domain Events + 1 Domain Academics+ 1 Flagship Event
+Flagship event for Aaruush’22- La Casa de Code
+6) What makes your committee/domain/team different from other ones?
+Our domain always tries to come up with new and out of the box ideas for events which not only raise the technical bar of Aaruush each edition, but also presents an incredible opportunity for all the participants to learn about the vast field of Computer Science in a fun and interesting way.
+
+7) Events conducted in this edition, their highlights, brief description, no of participants, winners, duration and dates of the event.
+1 event – Domain Academics
+Topic: Human Perception and Virtual Reality- What’s the connection?
+
+Highlight- Yuddhame focuses on new technologies and their advantages. We invited our guest speaker for the event Mr. Prem Anand Balachandran who is also the founder and CEO of a XR/AR/VR based company named Bala Aatral Solutions Pvt. Ltd. 
+
+Description- The speaker gave a detailed demonstration on the topics ‘Human Perception and Virtuality Reality’, ‘Role of VR in gaming and entertainment’, ‘VR applications in different industries’, ‘Difference between AR, VR, MR’, ‘Job opportunities in this field’, ‘The string theory frame work and reality’, ‘XR in gaming and entertainment’. The participants got the opportunity to expand their knowledge on AR/VR and its future. The demonstration was followed by a Q & A session.
+
+Participants - 130
+Duration - 2hours
+Date - 1st July, 2022
+
+Past Domain Events
+
+Aaruush 22:
+1) Domain Academics - Virtual Reality and Human Perception - What’s the connection 
+
+Aaruush 21:
+1) CodeYuddh
+2) Design Dot Com
+
+Aaruush 20:
+1) Delimiter’s Dungeon
+
+Aaruush 19:
+1) Domain Academics - Hybrid Application Development on Ionic Platform
+2) Bits N Bytes
+3) Codewars
+4) CoderByte
+5) Algo-Rythm
+
+Aaruush 18:
+1) Domain Academics - Wonders in Java Programming
+2) Code Blooded
+3) Crypt-o-Sutra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

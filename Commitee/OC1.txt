@@ -1,0 +1,7896 @@
+AARUUSH
+
+EVENT REPORT
+
+2017- 2022
+
+AARUUSH, SRMIST 
+
+‘HACKTRACK 2017’ 
+
+Handled By 
+
+Aaruush Organising Committee 
+
+Event Name 
+
+Hacktrack 
+
+Date 
+
+18-09-17 and 
+19-09-17 
+
+Venue 
+
+T.P. Ganesan 
+Auditorium 
+
+Total Turnout 
+
+220 
+
+Event Description   
+
+On the 18th and 19th of September, 2017, the Aaruush team organized a workshop on ethical hacking 
+“Hacktrack”. The much-anticipated event was hosted by Mr. Sunny Vaghela, an eminent figure in the 
+world of network security and intrusions. The event garnered a lot of interest from the participants and 
+this fact shone through as there was quite a crowd for the workshop. 
+The first day was an introductory session, meant to ease the participants into the field of hacking while 
+the second aimed to foray them into the intricacies of the same. 
+The first day started off with a host bringing out the Guest Speaker, after chronicling his life and 
+accomplishments. Mr. Vaghela came out to copious applause and wasted no time in delving into the 
+content at hand. He shared some amusing anecdotes related to his own professional path and regaled 
+the audience with some of his cases. He spoke of the technical aspects of hacking and proceeded to 
+debunk the misconceptions attributed to it. While sharing his own professional repertoire, he cast a light 
+at the inner workings of the big commercial websites and organizations. He shared some real life 
+examples showcasing the rising influence of the internet on our lives and also warned the participants 
+of the repercussions that hacking may have.   
+Mr. Vaghela talked about the various algorithms and strategies adopted by organizations to safeguard 
+themselves. After a short analysis, he taught the target audience some methods to override the 
+aforementioned safety tactics. 
+The second day of hacktrack was much more technical and inclined towards the more complex facets 
+of hacking. The guest speaker did another demonstration, this time overriding an offline software. This 
+was followed by an in-depth session on Trojan viruses and how to use them to invade other computer 
+systems. He went on, expanding on the global trends in the field of antiviruses. He then extended his 
+hacking demonstrations to the Kali Linux platform. Mr. Vaghela then ended his session with a few 
+words of encouragement for the participants and passed the torch to Mr. Saksham, who went on to 
+speak on the phenomenon of CCTV camera hacking. He followed this up with a hands-on CCTV 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+camera hacking example, inviting a great response. The next session covered OTP hacking, which was 
+followed by another demonstration. He briefly explained OTP brute forcing before bringing the 
+workshop to an end. 
+
+Guests 
+
+Photo 
+
+Sunny Waghela 
+
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘WEBENCH POWER TOOL WORKSHOP 2017’ 
+
+Handled By 
+
+Aaruush Organizing Team 
+
+Event Name 
+
+Webench Power tool 
+Workshop 
+
+Date 
+
+18/09/2017 
+
+Venue 
+
+UB-711,712 
+
+Total Turnout 
+
+200 
+
+Event Description   
+
+The event took place in UB-711,712 Labs on 18th September 2017. The event was supposed to start at 
+9000 hrs but due to some delay it started at 1100 hrs. 
+It  was  a  workshop  conducted  by  the  Texas  Instruments  on  their  electrical  design  tool  i.e.  Webench 
+.Intially, the trainers helped the participants to register themselves on the Texas instruments website and 
+get a verification link on their email to use the tool. It is basically an online tool, which is quite light-
+weight and enables electrical experts design a sustainable electrical circuit which has stood pass all the 
+tests of environment conditions, and overall stability etc.  
+Each participant was given individual attention by the trainers present on the venue and after explaining 
+all the hidden powers of Webench participants were provided with PDF files to practice their skills on 
+the tool and if they were unable to solve the question the trainers personally approached them and helped 
+them out. 
+The participants were not that active throughout the event as many  topics were not explained properly 
+and as a result they were not able to get a hold to the basics. This was basically because of a series of 
+errors committed by the  organizing committee  in fulfilling the  needs of the  event. There  was a lunch 
+break at 1 pm after which most of the particpants left. 
+After the break the session continued and was concluded at 5pm. 
+
+Guests 
+
+Photo 
+
+Texas Instruments 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘GUEST LECTURE BY MIRA ERDA 2017’ 
+
+Handled By 
+
+Aaruush Organising Team 
+
+Event Name 
+
+GUEST LECTURE BY 
+MIRA ERDA 
+
+Date 
+
+18/09/2017 
+
+Venue 
+
+Mini Hall 1 
+
+Total Turnout 
+
+280 
+
+Event Description   
+
+On the 18th September 2017, the Aaruush team invited Ms. Mira Erda to enlighten and 
+motivate the students. Vadodara's young racer Mira Erda will become the first Indian female 
+driver to compete in one of the highest classes of Formula Racing in the country after signing 
+up for the Euro JK series in the upcoming JK Tyre- FMSCI National Racing Championship. 
+Mira started racing at the age of 9, and she has since dreamt of becoming a Formula 1 racer. 
+She talked about how her family supported her dreams and the misogyny she faced on the 
+track. She spoke of how she proved herself to be equal to “bigger and stronger boys” and 
+winning the Formula 4 Rookie Champion of the Year during the annual FMSCI awards. Her 
+message to the audience was very inspiring and motivating and garnered the attention of the 
+attendees. Interestingly, Mira who is preparing for her Twelfth Class boards, will have a 
+packed season as she plans to not only race in the National Championship but also in national 
+rallies and international karting competitions 
+
+Guests 
+
+Photo 
+
+Mira Erda 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Unconference
+
+Date
+
+18/09/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+250
+
+Event Description
+
+Unconference was just a platform where people discussed their views on a
+common interest of topic and provide rostrum to the society. It was
+participation driven forum. And to elevate it higher there was a
+captivating deliberation and an indelible debate between the guests and the
+individuals. This discussed the confusion between job security and job
+satisfaction. Students found an interface with successful dignitaries where
+they could ask all their questions related to their doubts about the white
+collar corporate world. They were enlightened about what awaited them after
+the four years of college life.
+
+AARUUSH, SRMIST 
+
+‘Expert Talks 2017’ 
+
+Handled By 
+
+Aaruush Organising Committee 
+
+Event Name 
+
+SLINGSHOT 
+
+Date 
+
+18th September 
+2017 
+
+Venue 
+
+Mini-Hall 2, T.P 
+Ganeshan Auditorium 
+
+Total Turnout 
+
+150 
+
+Event Description   
+
+On 18th of September 2017, standing up to the expectations, AARUUSH’17 conducted the an event 
+called Slingshot. The major aim of the event was to provide a platform for the volunteers to interact 
+with a few prominent entrepreneurs of our country like Mr. Rakesh Murali, co-founder of Stratonik and 
+Nelson J Vasanth, founder and CEO of honey technologies and startup mechanics Mr. Richard Louise 
+and Mr. Satish. 
+The speakers focused on channelizing a way for the participants towards success. 
+
+Making it a really helpful interaction session, the speakers discussed about the struggles that they faced 
+in their life alongside the out-of-the-box ways that they had to adopt to face what couldn’t be avoided. 
+Disclosing their weaknesses in front of the participants in order to encourage them to opt for 
+‘Smartwork’ than ‘Hardwork’, was one of parts that motivated the audience. 
+
+After a brief individual introductory session, the event continued with a panel discussion where all the 
+speakers like Mr. Prasanth, CIO Arimugham and Dharaneetharan, Director of Social Eagle came 
+together for the good of the participants. Sharing their personal experiences on ‘How to build a 
+successful start-up’. The speakers discussed how they started from the scratch to what they are now. 
+The event was made as informative by the speakers to grab the attention of the participants with their 
+points.  
+
+After a short lunch break, the event resumed with a questionnaire session followed by a pitching 
+session afterwards which gave the participants a platform to present their startup ideas in front of the 
+respected entrepreneurs. The event ended with an announcement for the best startup ideas which 
+pumped up the anticipation of the people. 
+
+Overall, the session was really informative and motivational for the future entrepreneurs of our country. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guests 
+
+Photo 
+
+FGS and Fame 
+
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Slingshot (Shark
+Tank)
+
+Date
+
+18/09/2017-19
+/09/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+150
+
+Event Description
+
+Slingshot was an event that provided a platform to the participants to put
+forward their ideas of start-ups and how they wish to go about with it.
+This was an interface of the budding and established entrepreneurs who
+presented about how to realise their plans. This was also a place where
+they got a shot at having an investor who is willing to fund their ideas.
+
+Guest -  C. K. Kumarvel of Naturals and Rajendran Dandapani of Zoho
+
+AARUUSH, SRMIST 
+
+‘GUEST LECTURE 2017’ 
+
+Handled By 
+
+AARUUSH Organising Committee 
+
+Event Name 
+
+Guest Lectures 3 
+
+Date 
+
+17th September, 
+2017 
+
+Venue 
+
+MBA Seminar Hall 
+
+Total Turnout 
+
+200 
+
+Event Description   
+
+A guest lecture was organized by the Aaruush team on 17th of September 2017  which was 
+headed by Mr. Harsh Songra (CEO and Co-Founder, MyChild App). He motivated the 
+participants by his effective interaction. He started his journey by coding at the age of 10 and 
+developed his first app when he was 15. He was diagnosed with dyspraxia, a neurological 
+disorder that affects motor skills and at the age 11 he had already suffered from the major 
+disorders since he was 2 years old. Mr. Songra has received seed funding from investors like 
+Pankaj Jain, a partner in Silicon Valley-based venture capital fund 500 Startups, and Pallav 
+Nadhani, co-founder of FusionCharts and a member of the first Forbes India 30 under 30 List. 
+Songra has garnered global support and praise, with mention of Facebook CEO Sheryl 
+Sandberg's blog last year. 
+The session turned out to be humorous and interactive. The participants and the hosts posed 
+questions which were answered by the speakers with different perspective for better 
+understanding of the audience. The hosts concluded the session with a vote of thanks to the 
+audience. Mr. Songra was appreciated and awarded with a memento by Mr.V.K Ponniah. 
+
+Guests 
+
+Photo 
+
+Mr.Harsh Songra 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+‘LANSTORM 2017’ 
+
+Handled By 
+
+X-Zone 
+
+Event Name 
+
+Lanstorm 
+
+Date 
+
+12/08/2017 and 
+13/08/2017 
+
+Venue 
+
+UB 710, CDC (I, 
+II) 
+
+Total Turnout 
+
+200 
+
+Event Description   
+
+Day 1: 
+The event started at around 10-00 hrs. There were registration desks setup for the students to 
+register for the particular games. The games were CS-Go FIFA-15, COD 4 and Blur. The 
+entry tickets were also being sold at the venue. Th event took place in four labs, one for each 
+game. CS Go and COD were played in teams of 5. CS-Go started quite late due to late server 
+establishment. The Playtonia team provided the server for CS Go. The event was paused for 
+a while due to power cut-off. There were some technical issues which due to which the round 
+one of CS Go did not complete on the first day. There was shortage of controllers for FIFA but 
+the participants managed it among themselves. Other games went smoothly. The event 
+ended at 17-00 hrs. 
+Day 2: 
+The event was scheduled to start by 09-00hrs but due to day one’s attendance and technical 
+issues the event was delayed by half an hour. The flow of students was exceptionally slow 
+and irregular in the starting hours. Due to the efficient work plan and documentation all the 
+students were called and informed about the round timings. The whole event occupied three 
+different labs each laboratory hosted a different game. The games hosted were COD-4, Blur , 
+Fifa-15 and CS-GO. The day started late for the event coordinators but in time became a 
+hectic schedule to overcome. There were many pro shows for round two and hence the 
+documentation was also a bit slow. Even after these major setbacks the event was a major hit 
+among the participants. The majority taking part were first years but there was a surprisingly 
+large number of second and third year partakers too.  
+The event caught pace in the later half and all the teams were accommodated well. All 
+proceedings were smooth till the end from there on. In the end there were two major issues 
+faced. The students qualified for multiple events had multiple places to be present causing 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+huge gaps and waits for everyone. Technical issues due to the specifications of PCs provided 
+caused a major time-lapse. The stated reasons caused the event to run longer and the event 
+ended at 1800hrs. All of these issues were handled with ease and constant support of the 
+organizer helped the coordinators to perform their best 
+
+Guests 
+
+Photo 
+
+Playtonia and Nvidia 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+QUADCOPTER WORKSHOP 2017 
+
+Handled By 
+
+WORKSHOP COMMITTEE 
+
+Event Name 
+
+Venue 
+
+QUADCOPTER 
+WORKSHOP 
+
+Date 
+
+BIO-TECH BLOCK & 
+ESB SEMINAR HALL 
+
+Total Turnout 
+
+16-09-17 and 
+17-09-17 
+
+210(including 
+spot 
+registration),
+177(no spot 
+registration) 
+
+Event Description   
+
+             On 16th & 17th September, QUADCOPTER WORKSHOP was conducted by the WORKSHOP 
+
+COMMITTEE. This workshop was conducted over the span of two days. The speaker for the 
+workshop was Mr.Vipul from ROBOKART, which is an organization that provides robotic 
+parts of all types. 
+
+             The  event  started  with  Mr.  Vipul  explaining  what  the  two  day  workshop  would  be  about.  A 
+general discussion  on  drones and Quad copters ensued with and technical  specifications were 
+explained.  After  a  short  break,  various  parts  of  a  quadcopter  were  explained  in  detail. 
+Components  were  distributed  and  participants  were  taught  to  code  in  Arduino  IDE.  The 
+microchips were also coded to function when the quadcopter would be assembled 
+On the second day Mr. Vipul divided the students in the groups and gave them the kits to work 
+with.  After  distributing  the  kits  they  were  asked  to  assemble  it.  After  assembling,  Mr.  Vipul 
+taught them how to set and program the flight control. They were asked to assemble it on the 
+entrance of ESB Block and from there they were taken for a flight test where they were asked to 
+control and land the copter. This part of workshop was highly engaging for the participants. 
+
+Guests 
+
+Photo 
+
+MR VIPUL(Robokart) 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘COGNITIVE COMPUTING USING IBM WATSON 2017’ 
+
+Handled By 
+
+Workshops 
+
+Event Name 
+
+Venue 
+
+Cognitive 
+Computing using 
+IBM Watson 
+
+ESB Seminar Hall , 
+Main Campus 
+
+Event Description   
+
+Date 
+
+16/09/2017 
+
+Total Turnout 
+
+200 
+
+On 16th September 2017, Aaruush organized a workshop on Artificial Intelligence known as 
+“Cognitive Computing using IBM Watson” at ESB seminar Hall in the main campus of SRM 
+University. The workshop was hosted by Raj Lawrence and Sachin Dev who are currently 
+working in IBM and have about 25 years of experience in the IT industry. The hosts showed a 
+number of motivational videos related to computing that filled the audience with enthusiasm. 
+Sir Raj Lawrence started the session with the need of innovative computer developers in India 
+using statistics. As the session progressed, he also explained the basics of AI, the need of AI in 
+today’s generation and how AI is going to affect the masses in the future. Sir’s humorous way 
+of conducting the session kept the audience mesmerized. The session was then taken over by 
+Sir Sachin Dev who demonstrated the technical aspects of AI and demonstrated the working 
+and applications of IBM’s AI – Watson. They also introduced the cloud platform bluemix and 
+demonstrated its use telling the participants about the one-month free access of bluemix at the 
+IBM official website. But as the event progressed to its last few hours, the participants started 
+losing interest and the workshop became less interactive. The workshop progressed towards 
+the end where the participants were distributed certificates after the workshop.   
+
+Guests 
+
+Photo 
+
+IBM 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘CONFERENCE-MAKE IN INDIA 2017’ 
+
+Handled By 
+
+Event Name 
+
+Conference 
+
+Date 
+
+16/09/2017 
+
+Venue 
+
+CRC Seminar Hall  Total Turnout 
+
+150 
+
+Event Description   
+
+On 16th September 2017, the Aaruush organizing committee held a conference inviting Mr 
+Debashish Mitra, Mr Vineeth Mohan Majgaonkar,Mr Dinesh Tandon and Mr Paneerselvam to 
+inform students about “The Make in India Campaign”. The conference was held in CRC 
+seminar hall. 
+The event began with the emcees welcoming everyone and giving an introduction about “The 
+Make in India” campaign. After the introductions, they invited Mr Debashish Mitra to share his 
+inputs regarding “The Make in India” campaign. His speech stressed on the fact of the need of 
+increasing production in our country. He also mentioned the dominance and milestone of 
+Indian pharmaceutical sector and also the contribution of the pharmaceutical industry towards 
+“Make in India”.  
+Next the emcees called upon Mr Vineeth Mohan Majgaonkar . He concentrated his speech on 
+smart technology and smart production in our country. He also mentioned with the initiative of 
+make in India it was going to bring about major technological advancement in our country. 
+Finally, Mr Paneerselvam was invited to the stage and put his inputs on the similar issue. He 
+initially explained what “Make in India” truly means and then went to on how it will affect our 
+economy in the long run. He emphasized on the fact that it was an initiative that will boost the 
+Indian youth population and provide enormous opportunities and employment scopes in this 
+nation. 
+After the pleasing speeches of all the guests the conference then moved on to an interactive 
+session with the audience. There was a successful interactive session as all the questions 
+were perfectly answered by the guests.  Later, they were felicitated by presenting the 
+mementoes by AARUUSH team.  
+
+Guests 
+
+Mr.Debashish Mitra, 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Photo 
+
+Vinee Mohan Majgaokar 
+
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘GUEST LECTURE 2017’ 
+
+Handled By 
+
+Event Name 
+
+Guest Lecture By 
+Suneet Tuli 
+
+Date 
+
+16/09/2017 
+
+Venue 
+
+C.R.C Seminar Hall  Total Turnout 
+
+300 
+
+Event Description   
+
+On 16th September 2017, a lecture as given by Mr. Suneet Singh Tuli on “Growth of Internet”. 
+Suneet Singh Tuli is the co-founder of DataWind. He graduated from Toronto University in 1990 in 
+Applied Sciences in Engineering. The event was in a video conference format as the guest 
+speaker was not present in the country at the moment.  The presentation was highly 
+informative and the speaker talked about the success he gained within the first 5 years of 
+starting his company DataWind. The speaker then went on to explain the advantages of 
+internet access and how it can help with poverty in India. The event then concluded with a 
+Q&A session and a vote of thanks to the guest speaker. 
+
+Guests 
+
+Photo 
+
+Mr.Suneet Tuli 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘WEDNESDAY SPEAKS 2017’ 
+
+Handled By 
+
+Envision 
+
+Event Name 
+
+Wednesday Speaks – 
+Machine Learning 
+
+Date 
+
+30/08/2017 
+
+Venue 
+
+TP 401,402 
+
+Total Turnout 
+
+123 
+
+Event Description   
+
+On August 30 2017 the Aaruush organizing committee hosted the Wednesday Speaks event at TP 401-
+402. 
+ The session began with an introduction by an emcee making way for today’s speaker and a light brush 
+up on the topic. The speaker, Dr. M. Pushpalatha is a professor of department of Computer Science and 
+is specialized on wireless networks. There were a few glitches but the volunteers were well prepared. 
+The teacher provided a good guide for beginners with the help of a ppt. The speaker was adept and 
+provided real life examples to simplify concepts and make it easy for beginners. It was a tad too long 
+but nevertheless absorbing. The event came to a close with a vote of thanks by an emcee. 
+
+Guests 
+
+Photo 
+
+Dr.M.Pushpala A 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Robowars
+
+Date
+
+16/09/2017-
+17/09/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+198
+
+Event Description
+
+The Robo wars saw metals against metal, steel against steel behind them
+stood their brilliant minds, a major attraction that could not be missed.
+
+It was a competition that was between robotics enthusiasts.
+
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Motor Bike
+Hauling Workshop
+
+Date
+
+16/08/2017-17
+/08/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+186
+
+Event Description
+
+The Motor Bike Hauling Workshop focused on the power of creation and
+encouraged the students to make their own automobiles and focused on the
+career opportunities of the same.
+
+AARUUSH, SRMIST 
+
+‘WEDNESDAY SPEAKS 2017’ 
+
+Handled By 
+
+Event Name 
+
+Venue 
+
+WASTEWATER 
+TREATMENT USING 
+CONSTRUCTED 
+WETLAND TECHNIQUE 
+
+ESB SEMINAR HALL, 
+Main campus 
+
+Event Description   
+
+Date 
+
+09/08/2017 
+
+Total Turnout 
+
+102 
+
+On 9th of August, Wednesday talks by Aarush committee organized a seminar on 
+"WASTEWATER TREATMENT USING CONSTRUCTED WETLAND TECHNIQUE". It 
+was conducted in the New Seminar Hall, Main campus. There was a delay in the 
+commencement of session. There was a short introductory speech preceding the 
+event.  The event was headed by Dr. J. S Sudarsan specialized in the field of civil 
+engineering with Environmental engineering who had installed the Automatic weather 
+station (AWL) at SRM university .The event began with an introduction on waste 
+water. He further explained about the necessity of research on waste water treatment 
+and it proceeded on to statistical data about the wetland techniques and its 
+implementation.  Further discussion took place and the event concluded with a 
+question answer session with the organizer regarding any doubts based on the topic 
+discussed. 
+
+Guests 
+
+Photo 
+
+Dr.J.S.Sudarsan 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘DOMAIN ACADEMICS-ARCHITECTURE 2017’ 
+
+Handled By 
+
+Event Name 
+
+Venue 
+
+DOMAIN ACADEMICS-
+ARCHITECTURE 
+
+Date 
+
+10th 
+AUGUST,2017 
+
+CRC SEMINAR HALL, 
+MAIN CAMPUS 
+
+Total Turnout 
+
+159 
+
+Event Description   
+
+On the 10th of August, Architecture, Domain Academics under Aaruush, conducted an event 
+chronicling the upcoming concepts pertaining to the field of product design and architecture. 
+The event was graced by renowned graphic designer and architecture extraordinaire Mr. 
+Hariesh , whose expertise and personable presence regaled the students. What followed was 
+a rich and in-depth session in which the orator presented his view on life and shed light on the 
+skills required to succeed in the field of design and adapting to professional life. This was 
+followed by a showcasing of a few of the dignitary’s projects which were explained at length 
+by the same. 
+The guest speaker shared few principles that he adhered, which were inspiring as well as 
+witty. Then he urged the students to be passionate about their work and not to afraid of risking 
+it,  when the situation demands so. 
+As the event progressed, the dignitary explained the challenges he had faced in life and how, 
+as a designer, he dealt with them. The event ended with a huge round of applause as the 
+guest speaker thanked everyone for being a wonderful audience. 
+
+Guests 
+
+Photo 
+
+Ar.Hariesh K Sankaran 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘DOMAIN ACADEMICS 2017’ 
+
+Handled By 
+
+ROBOGYAN AND HUMANOID 
+
+Event Name 
+
+DOMAIN ACADEMICS 
+
+Date 
+
+09-08-2017 
+
+Venue 
+
+TP 401,402 
+
+Total Turnout 
+
+117 
+
+Event Description   
+
+Session 1:  
+The event started at 9:30 pm in the Seminar Hall, 12th floor, TP. Firstly, the stage was took by the 
+Humanoid team of SRM University. They talked about what robotics is and the basics of robotics. A 
+video was played depicting the famous company robots till now. They also told about the laws of 
+robotics and the basic electronic components required to build a humanoid robot. A fun activity was 
+conducted by the Humanoid team to keep the session interactive. Finally, they told about some 
+mechanical and coding stuffs related to robotics with which the first session got over at 12:30 pm. 
+
+Session 2: 
+The second session started at 1:30 pm. At first they demonstrated a robot made by the Humanoid team. 
+Then they talked about the various equipments used to make that robot like sensors, motors etc. They 
+gave a brief description of the working mechanism of the robot. They talked about Arduino 
+microcontroller and its basic coding with an example. They also showed a video which depicted 
+various robots in action made by the students of SRM. A fun activity was performed which kept the 
+session lively. Finally, the Robogyan team taught the students how to make an AquaBot at home with 
+basic materials which costed maximum 150. The students were also told about the upcoming 
+workshops on Robotics. The session got over at 4:30 pm. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+‘SHUTTER UP 2017’ 
+
+Handled By 
+
+Initiatives 
+
+Event Name 
+
+Shutter up 
+
+Date 
+
+06/08/2017 
+
+Venue 
+
+Tech Park Stairs 
+
+Total Turnout 
+
+200 
+
+Event Description   
+
+On 6th of August 2017,an event named “Shutter Up” was held at Tech park 
+stairs.The event involved photographical skills and the participants 
+thoroughly enjoyed every bit of it.The event was a success and it broughts 
+smiles on everyone’s face. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+‘KONSTRUCTION-DOMAIN ACADEMICS 2017’ 
+
+Handled By 
+
+Event Name 
+
+Venue 
+
+Konstruction-
+Domain Academics 
+
+Date 
+
+3rd AUGUST,2017 
+
+Structural Testing 
+Lab, Main Campus 
+
+Total Turnout 
+
+123 
+
+Event Description   
+
+On the 3rd of August,2017, Konstruction, a domain of Aaruush, conducted an educative 
+event under the title “Domain Academics”. The event focused on a major topic of civil 
+engineering, namely Cyclic Loading of Stress Bearing Structures. The topic was 
+explored in detail by Mr. Pradeep, a faculty from the Civil Engineering Department. 
+After a delay of 45 minutes, the event started with a detailed overview of the 
+aforementioned topic. There was a large and unanticipated turnout which was 
+somewhat quenched by dividing the participants into 2 slots of 60 students each. 
+The theoretical explanation was followed by a practical session wherein a load bearing 
+structured was showcased by the faculty and the use of an LVDT was discussed. 
+Finally, the faculty informed the students about many other events conducted by the 
+Civil Engineering department and the Konstruction domain and encouraged them to 
+actively participate in the forthcoming events. 
+
+Guests 
+
+Photo 
+
+Mr.S.Pradeep 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘WEDNESDAY SPEAKS 2017’ 
+
+Handled By 
+
+Initiatives 
+
+Event Name 
+
+Wednesday Speaks-
+skills required 
+for 21st century 
+
+Date 
+
+02/08/2017 
+
+Venue 
+
+T.P. 401-402 
+
+Total Turnout 
+
+107 
+
+Event Description   
+
+On 2nd August 2017, an event named ‘Wednesday Speaks-Skills Required for 21st 
+century’ took place at Tech Park, room no. 401-402.In the event the 
+speaker, Dr.T.Mythili, talked about various skill sets and career defining 
+abilities required for the modern world hustle.The event was equally 
+interesting and interactive. Thus, the event was great success. 
+
+Guests 
+
+Photo 
+
+Dr. T. Maithily 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+‘QUADCOPTER OVERVIEW 2017’ 
+
+Handled By 
+
+Event Name 
+
+Venue 
+
+Quadcopter 
+Overview 
+
+ECE SEMINAR HALL, 12th 
+floor, TECH PARK 
+
+Date 
+
+03.8.2017 
+
+Total Turnout 
+
+128 
+
+Event Description   
+
+On 3rd August,2017, the SCRO club in collaboration with the Aaruush Machination and Electrizite 
+committee conducted a seminar on remote-controlled Quadcopters. The session started at 1700 
+hrs, on time as per the schedule, introducing with the basics of various flying drones. Discussion 
+then moved forward towards differentiating a drone, a UAV, and a quadcopter from each other. 
+Then the organisers moved on and explain the necessary parts used in the construction of a drone, 
+the basics of the propeller directions, the balancing and control of the machine, etc. The session was 
+very interactive with the organizers having brought all the parts of a drone, dissembled. They 
+circulated the parts for the students to have a first-hand experience of the motors and sensors used 
+in its construction. They also very efficiently attended to all the students’ doubts until there were 
+none left. After all of this, they concluded the session with an interactive quiz, the winners of which 
+would be qualified for the final round in the event of Aaruush X1. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘GUEST LECTURE 2017’ 
+
+Handled By 
+
+Event Name 
+
+Guest Lecture 
+
+Date 
+
+01/08/2017 
+
+Venue 
+
+ESB Seminar Hall  Total Turnout 
+
+50-60 
+
+Event Description   
+
+On 1st August 2017, the Aaruush organizing committee held a Guest Lecture inviting 
+Professor L.S. Ganesan (Dept. Of Management Science, IIT Madras) to inform students how 
+to “Make Informed and Well Judged Career Choices”. The guest lecture was held in the ESB 
+Seminar Hall. 
+The Event began with the emcee welcoming everyone and giving an introduction about 
+Aaruush. After the introductions she invited Haroon Rashid (Secretary, AARUUSH) to speak 
+about Aaruush. His speech stressed on the question why it was important to make right 
+career decisions and what ill-effects and wrong decisions can have on students’ life. 
+The emcee next invited V.M. Ponniah (Financial Advisor) to share his knowledge on the topic. 
+In his speech sir spoke that India is a young country and has a lot of potential. He also warned 
+if this potential is not properly used, it can turn into a potential disaster. His speech was very 
+well received by the crowd 
+Next the emcee gave introduction about the guest, Professor L.S.Ganesan. She shed light on 
+his career and invited him to enlighten the student. In his address professor talked about his 
+past experiences and told how students go for choices they are attracted to but they are not 
+suited for it. Next the guest took a MCMF (My Choice My Future) assessment of a volunteer, 
+Siddhant Keshari. Based on the assessment he showed how someone is suited for a 
+particular profession. In the end of his lecture, professor asked everyone to make choices 
+what they think are right and be the best in the respective field. After the lecture we had a 
+question round from the audience. Professor was praised for his lecture and even received a 
+standing ovation from the crowd. 
+At the end, the guest was thanked for his presence and presented with a memento. 
+
+Guests 
+
+Professor L.S.Ganesan 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Photo 
+
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+‘DOMAIN ACADEMICS 2017’ 
+
+Handled By 
+
+Bluebook 
+
+Event Name 
+
+Domain Academics 
+
+Date 
+
+01/08/2017 
+
+Venue 
+
+Room no. 701/A, 6th 
+floor, Biotech 
+block 
+
+Total Turnout 
+
+Session 1 – 42 
+Session 2 - 68 
+
+Event Description   
+
+Session 1: 
+On 1st of August, the bluebook domain of Aaruush organizing committee organized the event 
+– ‘Appearances Are Deceptive’ which was held at room no. 701 in the Biotech block. The 
+preparation of the event was finished by 10:00 AM and the event began well within the 
+specified time without any delays. As the name suggests, the event was about optical 
+illusions. The volunteers sat in rows with their respective laptops and started interacting with 
+the participants who entered the room in groups of 2 or 3. The enthusiasm of the emcees had 
+the participants captivated and the participants were fascinated to watch and learn about 
+optical illusions. There was a total of 13 volunteers who were allotted a number of slides in a 
+power point presentation. Their task was to explain their part about illusions to the participants 
+as the event progressed. The volunteers took full initiative that kept the participants 
+mesmerized throughout the event. 
+
+Session 2: 
+The second event organized by Aaruush was ‘Organodissectum’ which was hosted by Dr. 
+Veereshwaran, Deputy Director (A.H) Rtd. The event began well within the specified time and 
+commenced at 14:00 hrs. In this event, Sir Veereshwaran explained about the various internal 
+organs of a goat in detail and carried out the dissection of these internal organs  . The organs 
+included heart, eyes, kidneys and brain. The crowd mostly consisted of B.tech and M.Tech 
+students and were amazed by the knowledge that they gained during the event. The crowd 
+observed the processes with utmost attention and concentration. Sir even cracked a couple of 
+jokes during the lecture to lighten up the mood. Sir involved the participants in the event and 
+kept them intrigued with a series of questions. Sir even asked a couple of students to perform 
+the dissection with him. The poor lighting conditions and low visibility from the back benches 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+led to the accumulation of students in the front seats which led to chaotic circumstances. Due 
+to years of expertise of Dr. Veereshwaran in this field, dissection turned out to be successful 
+and the students learned a great deal from him. 
+
+Guests 
+
+Photo 
+
+ 
+ 
+ 
+ 
+         
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Canoe Challenge
+
+Date
+
+05/08/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+138
+
+Event Description
+
+Aaruush Concrete Canoe Challenge under the Konstruktion domain along with
+the American Society Of Civil Engineers (ASCE) and Indian Concrete
+Institute (ICI)  aimed to deliver an on-field experience where the
+participants had to build their concrete canoe in order to compete with
+fellow challengers from all over India. This was conducted o test how well
+one’s canoe functions in an actual race but also how effective the design
+is.
+
+AARUUSH, SRMIST 
+
+WEDNESDAY SPEAKS 2017 
+
+Handled By 
+
+Team Aaruush  
+
+Event Name 
+
+Wednesday Speaks 
+
+Date 
+
+12.04.2017 
+
+Venue 
+
+MBA Seminar Hall 
+
+Total Turnout 
+
+60 
+
+Event Description   
+
+The first session of Wednesday speaks for Aaruush’17 was held on 12th 
+April,2017. The topic of Wednesday speaks was “Artificial intelligence in 
+real time application”. Dr.V.Ganapathy was invited to enlighten the 
+audience with his wide array of knowledge and experience. He is graduate of 
+Madras university (1964) and at present he is working as a professor in 
+department of information technology at SRM university . He has been 
+working on artificial intelligence since 1993 . In his presentation he 
+spoke on many topics, some of the important topics are listed below: - 
+Traditional Programming - Machine learning - Intelligent machines - 
+Artificial neural network - Turing Test - Fuzzy network - Revolutionary 
+computation Students got an overview about the topic and he also 
+highlighted the areas where they could develop their knowledge and skills. 
+Towards the end, a momento was presented by Dr.A. Rathinam 
+(Convener,AARUUSH). He commended the presentation and encouraged all the 
+students to work towards honing their skills based on the suggestions 
+offered by Dr.V.Ganapathy. The programme ended with an exciting photo 
+session. 
+
+Guests 
+
+Photo 
+
+Dr.V.Ganapathy 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+DOMAIN ACADEMICS 2017 
+
+Handled By 
+
+YUDDHAME and ONLINE 
+
+Event Name 
+
+Venue 
+
+DOMAIN 
+ACADEMICS 
+
+Date 
+
+12&13th April 
+2017 
+
+5 th Floor Web 
+Systems Lab Tech 
+Park 
+
+Total Turnout 
+
+124 
+
+Event Description   
+
+SUMMARY OF DAY 1 –  
+The workshop of the Android App Development was conducted by YUDDHAME 
+Domain on 12 and 13th, April 2017. The idea behind it was to pursue the 
+goal of effective technology integration for students. It commenced at 
+01:00 p.m. at Tech Park 5th Floor Web Systems Lab. The systems were 
+provided by the organizing team for all those who didn’t bring their own. A 
+presentation was given by the organizing Team Member. The event was well 
+organized and all the necessary arrangements were made. The event had no 
+registration fees and it concluded by 5p.m. EVENT NAME Android App 
+Development TIMINGS 01:00 PM – 05:00 PM HANDLED BY(COMMITTEE/DOMAIN) 
+YUDDHAME and ONLINE DATE 12&13th April 2017 VENUE 5 th Floor Web Systems 
+Lab Tech Park TOTAL TURNOUT Around 30 MEANS OF ADVERTISING Social Media, 
+Mass Communication EVENT NAME GUEST LECTURE TIMINGS 12:00 PM – 1:00PM DATE 
+13th April 2017 VENUE BIOTECH BLOCK , Room No-601 TOTAL TURNOUT Around 60 
+MEANS OF ADVERTISING Social Media EMINENT PERSONALITIES/JUDGES Mr. 
+Badhrinath Soundararajan (SDET AMAZON , Founder of OPENGYAN) HANDLED 
+BY(COMMITTEE/DOMAIN) YUDDHAME and ONLINE 
+
+ SUMMARY OF DAY 2 – 
+
+ Guest Lecture on the topic,” New Technologies Related to the school of 
+Computing” was given by Mr. Badhrinath Soundararajan (SDET AMAZON, Founder 
+of Open Gyan ) . It commenced at 12:00 PM, Biotech block, Room No-601. The 
+event began with the introduction of the guest lecturer, Mr. Badhrinath 
+Soundararajan. He introduced himself, talking about his areas of interest 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and the years of experience he had in his field. Further as the lecture 
+continued, he shared a lot of ways in which the students could improve 
+their coding. Overall the lecture was very interactive. The session ended 
+with a personal interaction round where the students were welcomed to ask 
+any questions. 
+
+Guests 
+
+Photo 
+
+Mr. Badhrinath Soundararajan (SDET 
+AMAZON , Founder of OPENGYAN) 
+
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2017
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Robotics Club
+
+Date
+
+1/4/2017
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+142
+
+Event Description
+
+It was a group made of students enthusiastic about robotics all the nuances
+related to the subject. By bringing together people with similar interests,
+this club was created with a motive to provide a ground for students who
+believed in the power of creating robots with the help of AI and ML.
+
+AARUUSH, SRMIST 
+
+WEDNESDAY SPEAKS 2018 
+
+Handled By 
+
+INITIATIVES 
+
+Event Name 
+
+WEDNESDAY SPEAKS 
+
+Date 
+
+3/10/2018 
+
+Venue 
+
+T.P. 401/402 
+
+Total Turnout 
+
+120 
+
+Event Description   
+
+The initiatives team conducted Wednesday Speak session on ‘Doctor-
+Patient Relationship’ in TP 401 and 402. Dr. O Gambhir Singh, 
+professor was gratefully introduced to the crowd. He shared his 
+knowledge and experience in the field of medicines, health care and 
+medical treatments. The speaker spoke on common points that every 
+patient should know and rights of every patient. He concluded by 
+telling common medical practices and how they affect patients. At the 
+end Question and round was round was held. 
+
+Guests 
+
+Photo 
+
+Dr. O Gambhir Singh 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+WEDNESDAY SPEAKS 2018 
+
+Handled By 
+
+INITIATIVES 
+
+Event Name 
+
+LIGHT & PHOTONICS 
+– UBIQUITOUS ROLE 
+IN REVOLUTIONIZING 
+OUR WORLD 
+
+Date 
+
+14/03/2018 
+
+Venue 
+
+T.P. 401/402 
+
+Total Turnout 
+
+120 
+
+Event Description   
+
+The First Wednesday Speaks of Aaruush’18 commenced at 5:30 pm in TP-
+401,402. The event began with paying homage to the legend, Stephen 
+Hawking and was carried forward by Dr. Shanti Prince, Professor of 
+ECE Department on the topic, “Light and Photonics - Role in 
+Revolutionizing our World.” She gave an overview on 5 major real-
+world applications of optics and photonics, “Imaging, Computing, 
+Material Processing, 3D Printing, Energy and Communication, Science 
+and Research.” The future of Photonics in the fields of Health care 
+and Communication were highlighted. The well-organized event ended 
+with an Interactive Q&A session and a group photograph with the 
+Speaker. 
+
+Guests 
+
+Photo 
+
+Dr. Shanti Prince 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+DOMAIN ACADEMICS 2018 
+
+Handled By 
+
+ONLINE and DIGITAL DESIGN 
+
+Event Name 
+
+ DOMAIN ACADEMICS 
+
+Date 
+
+29/3/2018 
+
+Venue 
+
+TP 401 4021 
+
+Total Turnout 
+
+40` 
+
+Event Description   
+
+Day 1 of the Domain academics of Aaruush’18 commenced at 11:10 am in Tech Park Room 
+No. 501-502. The event began by introducing the speaker Mr. Iyappan, Sr. Associate Data 
+Scientist(ORMAE), who gave a brief overview about the major fields of technologies which 
+occupy the spotlight today, namely Big Data, Machine Learning, Data Science, etc. He clearly 
+explained the correlation of data science with mathematics and coding. Furthermore, he 
+guided us about the current industry and briefed us about the role of data science and data 
+analytics. 
+On the second day, the event started at 1:10 pm. The event started with the session of Snehit 
+Sagi. The session covered all the basics about UI and UX designing and their applications. 
+The speaker next made comparison between Photoshop and Sketch. Proctor also covered 
+effects of psychology on graphic designing. The session ended with a task where the 
+participants had to design a login window in 3 minutes on a piece of paper. 
+The second session of the day was given by Harkirat Thapar and Uday Mallikarjun. They 
+showed basic application of Photoshop and Adobe After effects. The event ended at 4:00 pm  
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2018 
+
+Handled By 
+
+INITIATIVES 
+
+Event Name 
+
+Venue 
+
+‘STANDING OUT, 
+STANDING TALL’ A 
+GUIDELINE TO MAKE A 
+DIFFERENCE IN YOUR 
+PROFESSIONAL CAREER 
+
+TECH PARK, ROOM NO: 
+401, 402 
+
+Event Description   
+
+Date 
+
+21/03/2018 
+
+Total Turnout 
+
+127 
+
+This edition of Wednesday Speaks was centered on the topic of Standing Out 
+and Standing Tall which focused on various relevant themes like ethics, 
+education and character development. The Guest lecture for the event was 
+Prof. G. Augustine Maniraj Pandian who is a professor in the Department of 
+Civil Engineering, SRMIST. His words stressed on the importance and the need 
+for the students to step-up in their pursuit for building their character and 
+imbibing core values like Accountability and Integrity. His lecture 
+fascinated the students and livened up the atmosphere, thus leading to a 
+zealous and interactive question answer session. The event ended with Rathnam 
+sir felicitating Mr. Augustine and closing the curtains to an enjoyable 
+evening. 
+
+Guests 
+
+Photos 
+
+Prof. G. Augustine Maniraj Pandian 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+DOMAIN ACADEMICS 2018 
+
+Handled By 
+
+MACHINATION 
+
+Event Name 
+
+MACHINATION DOMAIN 
+ACADEMICS 
+
+Date 
+
+29/3/2018 
+
+Venue 
+
+CRC ROOM 108 
+
+Total Turnout 
+
+25 
+
+Event Description   
+
+The aim of the event was for the audience to understand the mechanics and the dynamics of a Formula-
+E racing car brought to the students by 4Ze- the official EV Formula Student team of SRMIST. There 
+was a separate discussion on the electrical and mechanical domains at different locations for better 
+clarity .Mr. Venkata Yoganand Konda, the electrical power train engineer of 4Ze racing handled the 
+electrical domain during the classroom session of the event. Then students were taken to the fabrication 
+bay for a hands-on experience. The latest 4ze Racing chassis was on display and the instructor helped 
+the participants understand better what they had learned in the seminar. The event was concluded after 
+a satisfactory demonstration. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+WEDNESDAY SPEAKS 2018 
+
+Handled By 
+
+INITIATIVES 
+
+Event Name 
+
+REVIEW OF SHAPE 
+ALLOYS 
+
+Date 
+
+29/03/2018 
+
+Venue 
+
+T.P. 401/402 
+
+Total Turnout 
+
+100 
+
+Event Description   
+
+On 28th March, 2018, Team AARUUSH organized another Wednesday Speaks in Tech 
+Park. The event started around 5:30pm. Dr. G Murali (Professor or HOD 
+Mechatronics) gave a very informative presentation including very practical 
+examples that helped the students understand better. All the organisers 
+were present during the conduction of the event . The speaker gave a video 
+presentation of real life examples of shape memory alloys . The session  
+gave a detailed knowledge about how these can be used in engineering 
+applications and their overall use . Finally the event came to an end by 
+presenting a memento. The speaker was glad for a beautiful interactive 
+session at the end. The event came to a satisfactory conclusion. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2018 
+
+Handled By 
+
+TEAM AARUUSH 
+
+Event Name 
+
+ARDUNIO 
+
+Date 
+
+02/04/2018 
+
+Venue 
+
+Total Turnout 
+
+160 
+
+Event Description   
+
+Ardunio was conducted by Team Aaruush on 2nd April 2018. The event was a grand 
+success and saw great response from the audience.  
+
+Guests 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+WEDNESDAY SPEAKS 2018 
+
+Handled By 
+
+INITIATIVES 
+
+Event Name 
+
+Wednesday Speaks 
+(Concepts Of State 
+Estimation And Its 
+Applications) 
+
+Date 
+
+4/4/2018 
+
+Venue 
+
+T.P. 401/402 
+
+Total Turnout 
+
+115 
+
+Event Description   
+
+On 4th April, 2018, Team AARUUSH organized another Wednesday Speaks in Tech 
+Park. The event started around 5:30pm.DR R jega eesan was the speaker.The 
+event was a great success. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2018 
+
+Handled By 
+
+AARUUSH WORKSHOP COMMITTEE 
+
+Event Name 
+
+AERODYNAMICS ASPECT 
+OF AUTOMOBILE DESIGN 
+
+Date 
+
+06/04/2018 
+
+Venue 
+
+ESB SEMINAR HALL 
+
+Total Turnout 
+
+180 
+
+Event Description   
+
+On 06th April, 2018, Team Aaruush organized an Extra Mural Lecture on 
+“Aerodynamic Aspect on Automobile design” in the ESB Seminar Hall. The 
+speaker for the event was Prof. V. Babu whose research interests include high 
+performance computing, supersonic combustion, simulation of flows using 
+lattice Boltzmann method, numerical simulation of flows using CFD and 
+prediction of noise from subsonic and supersonic jets. Many students from 
+mechanical, automobile and aerospace department came for the lecture, finding 
+their interest in the topic. The session was very interactive and 
+interesting. The event for the day came to an end by 12:00 pm as scheduled 
+after a Q&A session. 
+
+Guests 
+
+Photos 
+
+Dr V. Babu 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2018
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Web Development
+Workshop
+
+Date
+
+2/8/2018
+
+Venue
+
+SRMIST
+
+Total Turnout
+
+180
+
+Event Description
+
+Team Aaruush conducted a workshop that focused on Web Development. In an
+attempt to bring together all the front and back end developers these
+workshops focused on creating websites using ML.
+
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+PR 
+
+Event Name 
+
+Emcee Training 
+Workshop 
+
+Date 
+
+11/08/2018 
+
+Venue 
+
+AARUUSH ROOM 
+
+No. of Participants  60(approx.) 
+
+Description Event   
+
+On 11 August 2018 an Emcee Training Workshop was organized for all the 
+interested participants. All the participants were asked to assemble in the 
+Aaruush Room at 10:00 AM. The session started with formal introduction 
+about the organisers and then the participants had to introduce themselves. 
+After that they were given tips and tricks on how to improve their speaking 
+and how to entertain the crowd while they were anchoring. The participants 
+were divided into pairs and they had to speak on a selected topic for a 
+specified time. At the end of session the participants were asked to 
+perform an activity where the crowd had to follow order given by the 
+organisers like clap, click, tap, etc. in succession. The event ended 
+around 12:15 PM.    
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+WORKSHOP COMMITTEE 
+
+Event Name 
+
+Machine Learning 
+
+Date 
+
+16/08/2018 
+
+Venue 
+
+MINI HALL 1 
+
+No. of Participants  330(approx.) 
+
+Description Event   
+
+On the 7th and 8th of September 2018, the Workshop committee conducted a 
+workshop on the topic ‘Machine learning‘. The session was handled by 
+our guests who imparted their knowledge to a crowd of aspiring 
+engineering. They were quite interactive with the crowd and briefed 
+the crowd about machine learning concepts in much detail. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+TEAM ENVISION 
+
+Event Name 
+
+TEACH BOT 
+
+Date 
+
+16/08/2018 
+
+Venue 
+
+TP 401 
+
+No. of Participants  200(approx.) 
+
+Description Event   
+
+The event began with the release of the Aaruush Tech Fest trailer which was 
+shown to the audiences. The workshop was conducted by Team Envision and it 
+was about the Bootstrap Framework used for Web Development. In the 
+workshop, the participants were taught how to create an Image gallery using 
+Navbar and Bootstrap. The event was bought to an end with the participants 
+being how to make a Google form and then linking the statistics and finally 
+how to create a website all together.  
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+X-ZONE 
+
+Event Name 
+
+MINI LANSTORM 
+
+Date 
+
+18/08/2018 
+
+Venue 
+
+TP 4TH FLOOR 
+
+Total Turnout 
+
+350 (approx) 
+
+Event Description   
+
+On the 18th and 19th of August 2018, the X-Zone domain hosted Mini-
+Lanstorm. The event was welcomed with hearty participation and there 
+was a mob waiting for registrations. The seating was swift, and 
+different areas and times were allocated for each game. But due to 
+stress on the registrations the event was delayed by two hours. The 
+preliminary rounds were conducted in the specified locations, namely 
+CS:GO & Rainbow Six: Siege in the lab whereas PUBG in 401-402. It was 
+followed by a lengthy yet fun session of gaming, where the games were 
+streamed online for everyone to view. The day ended with all events 
+being left at the quarter-final stage. 
+
+Guests 
+
+Photo 
+
+Dhruv Sehgal 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+YUDDHAME 
+
+Event Name 
+
+DOMAIN ACADEMICS 
+
+Date 
+
+21/08/2018 
+
+Venue 
+
+TP 4TH FLOOR 
+
+Total Turnout 
+
+190 (approx) 
+
+Event Description   
+
+On the 21st of August 2018, the YUDDHAME conducted its domain 
+academics on the topic ‘Wonders In JAVA Programing‘. The seating was 
+swift and the session was cheered up by Mrs. Kayalvizhi Jayavel. She 
+was very interactive with the crowd. And briefed the crowd about UML 
+diagrams and some basic OOPS concepts. Besides this she also 
+introduced a platform named Alice to the participants to learn 
+programing in a much simpler IDE. The session was concluded by 
+distributing feedback forms among the audience. 
+
+Guests 
+
+Photo 
+
+Kayalvizhi Jayavel 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+FUNDAZ 
+
+Event Name 
+
+Creative reading 
+
+Date 
+
+23/08/2018 
+
+Venue 
+
+MECHANICAL SEMINAR 
+HALL 
+
+Total Turnout 
+
+50 (approx) 
+
+Event Description   
+
+The event was scheduled to start at 10 AM but was delayed by 30 minutes. 
+There was little to no engagement during the delay. At 3:00 PM, the host 
+‘Nizamudeen Anvar’ arrived. At 3:05 PM, the event began with the 
+introduction of the host. The introduction of the session was made 
+interactive by a series of questions to clear the doubt on whether learning 
+is painful and pleasurable experience and the plight of exam was discussed. 
+The importance of creative learning and challenges to learning was 
+discussed. Furthermore, learning styles and study tips were discussed to 
+enhance participants learning skill and concentration. A small activity on 
+memorization through storytelling was done to display how to memorize facts 
+and unrelated things which was followed by a discussion on mind mapping to 
+connect related facts in a way grasp the basic and scope of an idea. The 
+audience then filled a feedback form and the OC advertised a quiz conducted 
+by Aaruush. The event ended at 4:30 PM with a photo session with the host. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+YUDDHAME 
+
+Event Name 
+
+Game Development 
+Workshop 
+
+Date 
+
+22/08/2018 
+
+Venue 
+
+MBA SEMINAR HALL 
+
+Total Turnout 
+
+150 (approx) 
+
+Event Description   
+
+The Workshops committee conducted a workshop on game development at 
+MBA seminar hall. The event started off with the cataloguing of MSI 
+products, wherein the speaker spoke about the MSI products. The 
+session then moved on to Unity’s part, where they chronicled their 
+achievements and spoke on Unity’s operations and touched a bit on 
+graphical rendering. The event ended with an interactive session. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+CSI/ 
+
+Event Name 
+
+Tech Rally 
+
+Date 
+
+17/08/2018 
+
+Venue 
+
+MECHANICAL SEMINAR 
+HALL 
+
+Total Turnout 
+
+800 (approx) 
+
+Event Description   
+
+Aaruush’18 organized a TECH-RALLY at 5:00 pm in Tech Park lane. The main 
+motto of this stunt show was to excite and entertain those how have 
+interest in car racing. Stunt show was started with cars of Volkswagen 
+motor-sports India who came in the campus to impress  with car stunts. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+AARUUSH TEAM 
+
+Event Name 
+
+Tech FAIR 
+
+Date 
+
+24/08/2018 
+
+Venue 
+
+AARUUSH CIRCLE 
+
+Total Turnout 
+
+250 (approx) 
+
+Event Description   
+
+On 24th August 2018, the AARUUSH TEAM carried out an event named “TECH FAIR” 
+at Aaruush circle, SRMIST, at 05:30 pm. The event mainly focused on giving 
+students a glimpse of all the domains and committees of AARUUSH’18. Many 
+lively games and quizzes were conducted to make the event interesting and 
+attractive.  All the committees and domains came together to make the event 
+successful. This event embarked the glory of AARUUSH’18 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Bluebook, Fundaz, Praesentatio 
+
+Event Name 
+
+Aaruush Junior 
+
+Date 
+
+25/08/2018 
+
+Venue 
+
+AARUUSH CIRCLE 
+
+Total Turnout 
+
+127 (approx) 
+
+Event Description   
+
+The event Aaruush Junior commenced at 10:30 am on 25th August 2018 in BioTech 
+Seminar Hall and was jointly organized by various domains such as 
+Bluebook,Fundaz,Praesentatio. The event began by lighting the lamp of 
+knowledge to inspire the students who came from different schools in order 
+to participate in and learn about subjects like Faraday’s cage,Elephants 
+toothpaste reaction,surface tension,etc.The event covered a wide range of 
+topics from atomic oxidation to viscosity and intended to bring forth the 
+inventiveness among the students of classes 9th-12th. Most of the experiments 
+discussed were performed in front of the students. This was followed by a 
+group activity in which students made boats out of bottles, motors and ice 
+cream sticks. After that, a musical performance was undertaken, much to the 
+delight of everyone involved. Finally, after sharing their feed backs, the 
+students and their faculty were handed goody bags and a group photo was 
+taken. The event wrapped up to a closure. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By Workshop Committee Event Name Automotive Overhauling Workshop Date 05/09/2018 - 06/09/2018 Venue Mechanical Hanger, Main Campus Total Turnout 250-300 (approx) Event Description  On the 5th of September 2018, the Workshops committee conducted an Automotive Overhauling Workshop at Mechanical Hanger, Main Campus. This was a two day event.  Day 1: The event started off by showing an interactive video on automobiles and how they work to the participants. Various car engines were displayed in the hall for the better understanding of the students. The dismantling and assembling of the engines was also done in addition to various other interactive things.  Day 2: The day 2 was started with an interactive video session on the vehicle cooling system, types of sensors used in automobiles, simultaneously with the dismantling and assembling of engines in the nearby hall. The engine specifications was a BMW 3 series car was also shown during the video session which proved to be even more attractive. Guests  Photo     AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+HIGHLIGHTS 
+
+Event Name 
+
+LUMINARY HOURS-
+AUBREY DE GREY 
+
+Date 
+
+07/09/2018 
+
+Venue 
+
+MINI HALL 1 
+
+No. of Participants  50(approx.) 
+
+Description Event   
+
+ The seating was swift, though the venue was changed from Mini Hall 2 to 
+Mini Hall 1. The guest connected to audience through Skype. The guest 
+introduced himself as resident of California and was researching about 
+longevity. He discussed the ways to increase the life span of humans. 
+Various methods were discussed from ‘too complex to comprehend’ to ‘failed 
+experiments’ to ‘shows hope’ and how other organisms do it. Due to Network 
+issues, the event lost its charm. The event ended with vote of thanks from 
+the Organizing team. 
+
+Guests 
+
+Photo 
+
+Prabhu Chawla 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By Workshop Event Name Hacktrack Date 07/08/2018 & 08/09/2018 Venue ESB Seminar Hall Total Turnout 220(approx.) Event Description  HACKTRACK! This Workshop was conducted on 7 and 8 of September. This Workshop was a "Ethical Hacking workshop" Organised by Workshop Committee. There were about220 participants in the workshop. On day 1 the first half was intoduction on hacking, and the 2nd half was about basics of hacking . The Second day was about hacking public servers and CCTV camera hacking. Each day had its own theme based on which questions were asked in the competition by participants.The 2 day workshop consisted live hacking sessions,various website hacking and penetration testing . The workshop was concluded with offering internships to some participants who hacked highest number of websites. Guests  Photo             AARUUSH, SRMIST  Event Report 2022  Handled By WORKSHOP Event Name Workshop on Data Analytics and Smart Grids Date 07/09/2018 Venue CRC Seminar Hall Total Turnout 30 Event Description   On 7th September 2018 Team AARUUSH organized a workshop on Data Analytics using smart Grids. The timings of the workshop was 9:00 to 3:00pm. The speaker was B.Saravan. The workshop gave a brief idea about Data analytics and grids. The speaker also gave an idea on the R language and its usage. The Grid system was explained in a good manner and many technical terms were too explained.     Guests  Photo           AARUUSH, SRMIST  Event Report 2022  Handled By HIGHLIGHTS Event Name UNCONFERENCE Date 8 SEPTEMBER 2018 Venue MINI HALL 2 Total Turnout 80-100 Event Description   The highlights team conducted an unconference in mini hall 2 in TP Ganesha Auditorium. Mr Apar Gupta,Mrs Ankita Anand,Mrs Dhanya Menon,Mr Sumrit Shahi,Mr Srinivatsan Sankar was gleefully introduced to the crowd. There were two agendas of the day right to privacy in digital world and choice of Indian youth career or passion. All the panellist came forward and put up their views regarding the respective topics. The Anchor put up some valid questions for each and every panellist which they answered with a lot of enthusiasm. The event concluded after the question answer session. Guests Apar Gupta Photo     AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Progate Learning
+Weekend
+
+Date
+
+3-5/04/2020
+
+Total Turnout
+
+150
+
+The Progate Learning Weekend was conducted by Team Aaruush from 3/04.2020
+to 5/04/2020. The event was a grand success and saw a great response from
+the audience.
+
+Guests
+
+Photo
+
+Progate India
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Code Matrix
+
+Date
+
+27/05/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+1033
+
+TheCode Matrix was conducted by Team Aaruush on 27/05/2020. The event was a
+grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+HackerEarth
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Challenges And
+Opportunities With
+Hybrid Electric
+Vehicles
+
+Date
+
+13/6/2020
+
+Total Turnout
+
+674
+
+The Challenges And Opportunities With Hybrid Electric Vehicles was
+conducted by Team Aaruush on 13/6/2020. The event was a grand success and
+saw a great response from the audience.
+
+Guests
+
+Photo
+
+Mr. Vatsal Shah
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Online Design
+Challenge
+
+Date
+
+16/06/2020- 5
+/07/2020
+
+Total Turnout
+
+301
+
+The Online Design Challenge was conducted by Team Aaruush from 16/06/2020to
+5/07/2020. The event was a grand success and saw a great response from the
+audience.
+
+Guests
+
+Photo
+
+DS Solidworks
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Domain Academics
+
+Date
+
+20/6/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+165
+
+The Domain Academics was conducted by Team Aaruush on 20/6/2020. The event
+was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Dr. Saikat Ghosh
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Workshop - The
+Digital You
+
+Date
+
+28/6/2020
+
+Total Turnout
+
+606
+
+The Workshop - The Digital You was conducted by Team Aaruush on 28/6/2020.
+The event was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Mr. Varun Jain
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Domain Academics
+
+Date
+
+27/6/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+160
+
+The Domain Academics was conducted by Team Aaruush on 27/6/2020. The event
+was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Dr. Shobha Var Aman
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Lead
+
+Date
+
+11/07/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+502
+
+The Lead was conducted by Team Aaruush on 11/07/2020. The event was a grand
+success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Ms. Kena Shree
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Digital
+Transformation
+Robotics
+
+Date
+
+13/07/2020-15/
+07/2020
+
+Total Turnout
+
+504
+
+The Digital Transformation Robotics was conducted by Team Aaruush from
+13/07/2020 to 15/07/2020. The event was a grand success and saw a great
+response from the audience.
+
+Guests
+
+Photo
+
+Ms. Kausalya Balan
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Domain Academics
+
+Date
+
+19/07/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+140
+
+The Domain Academics was conducted by Team Aaruush on 19/07/2020. The event
+was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Dr. Rajagopalan Vasudevan
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Effective Synergy
+Of Army And Youth
+
+Date
+
+26/07/2020
+
+Total Turnout
+
+140
+
+The Effective Synergy Of Army And Youth was conducted by Team Aaruush on
+26/07/2020. The event was a grand success and saw a great response from the
+audience.
+
+Guests
+
+Photo
+
+Colonel Prabir Sengupta
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Domain Academics
+
+Date
+
+9/8/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+130
+
+The Domain Academics was conducted by Team Aaruush on 9/8/2020. The event
+was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Eric Finnas Dahl Rom
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Anchor Away
+
+Date
+
+12/9/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+137
+
+The Anchor Away was conducted by Team Aaruush on 12/9/2020. The event was a
+grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Kavea R Chavali
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+Career Options And
+Opportunities
+Post-Covid
+
+Date
+
+21/09/2020
+
+Total Turnout
+
+368
+
+The Career Options And Opportunities Post-Covid was conducted by Team
+Aaruush on 21/09/2020. The event was a grand success and saw a great
+response from the audience.
+
+Guests
+
+Photo
+
+Mr. M. Arvi  Kumar
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+NASA Space Apps
+Bootcamp
+
+Date
+
+27/09/2020
+
+Total Turnout
+
+508
+
+The NASA Space Apps Bootcamp was conducted by Team Aaruush on 27/09/2020.
+The event was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+SRMSAT Space Systems Laboratory
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Venue
+
+Event Description
+
+International
+Space Apps
+Challenge
+
+Date
+
+2/10/2020 -
+9/10/2020
+
+Total Turnout
+
+836
+
+The International Space Apps Challenge was conducted by Team Aaruush from
+2/10/2020 to 9/10/2020. The event was a grand success and saw a great
+response from the audience.
+
+Guests
+
+Photo
+
+Prof. Annapurni Subramaniam
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Luminary Addresses
+
+Date
+
+9/10/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+312
+
+The Luminary Addresses was conducted by Team Aaruush on 9/10/2020. The
+event was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Deepali Pant joshi
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Luminary Addresses
+
+Date
+
+8/10/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+335
+
+The Luminary Addresses was conducted by Team Aaruush on 8/10/2020. The
+event was a grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Mr. Shams Aalam
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+E- Simulate
+
+Date
+
+23/01/2020-25/
+01/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+1100
+
+The E- Simulate was conducted by Team Aaruush from 23/01/2020 to
+25/01/2020. The event was a grand success and saw a great response from the
+audience.
+
+Guests
+
+Photo
+
+The Institute of Engineering and
+Technology (IET)
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Week of Learning
+
+Date
+
+31/01/
+2020-11/02/202
+0
+
+Venue
+
+Event Description
+
+Total Turnout
+
+300
+
+The Week of Learning was conducted by Team Aaruush from 31/01/ 2020 to
+11/02/2020. The event was a grand success and saw a great response from the
+audience.
+
+Guests
+
+Photo
+
+OneplusatSRM
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Event Name
+
+Teach Bot
+
+Date
+
+16/03/2020
+
+Venue
+
+Event Description
+
+Total Turnout
+
+170
+
+TheTeach Bot was conducted by Team Aaruush on 16/03/2020. The event was a
+grand success and saw a great response from the audience.
+
+Guests
+
+Photo
+
+Team Envision
+
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Quality Assurance/Initiatives 
+
+Event Name 
+
+AARUUSH ALUMNI 
+TALKS 
+
+Date 
+
+05/08/2019 
+
+Venue 
+
+CRC SEMINAR HALL 
+
+No. of Participants  45(approx.) 
+
+Description Event   
+
+On  the  5th  of  August,  2019  the  event  “Aaruush  Alumni  Talks”  was 
+organized.  The  guest  invited  to  the  event  was  Aman  Johri,  an 
+Inspirational young Entrepreneur who gave an interesting speech on Life 
+changing  Tips  and  Career  Prospects.  He  elaborated  further  on  his 
+personal  life  experiences  which  made  him  stood  where  he  is  now.  The 
+event was very interactive. The importance of passion and confidence 
+in one’s life goals were depicted by some of the real-life experiences 
+Aman Johri has triumphed through. The event ended with a group photo. 
+
+Guests 
+
+Photo 
+
+Aman Johri  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Team Envision 
+
+Event Name 
+
+TEACH BOT 
+
+Date 
+
+06/08/2019 
+
+Venue 
+
+TP 303 
+
+No. of Participants  20(approx.) 
+
+Description Event   
+
+On  6th  august,  envision  organized  an  event  on  web  development.  The 
+audience  were  asked  to  install  GAIUS  Browser  developed  by  Gaius 
+Network.  A  short  introduction  on  HTML  and  CSS  was  given  which  is 
+analogous to foundation of house and decorating the house respectively. 
+The  HTML  tags  such  as  body,  audio,  header  and  template  tags  were 
+discussed in detail through the GAIUS Browser. A short introduction on 
+Java script was given as analogous to lighting and wiring of the house. 
+The JavaScript elements such as ids and class were discussed. Web pages 
+created by AARUUSH were shown as examples. The advantages of GitHub as 
+a version controller to help web developers to keep track about their 
+work were discussed. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By   Quality Assurance/Robogyan Event Name Domain Academics Date 06/08/2019 Venue Tech Park 401 & 402 Total Turnout 60 approx Event Description   On 6th August, 2019 an event named "Domain Academics" was conducted. The topic of this event was “Underwater Robotics”. The main motto of the event was to know the working and functioning of machines under water. The event was very informative. The event comprised of all the technical information and use of various components in making up of Autonomous Underwater Vehicle. The event ended with a group photo. Guests Team AUV Photo           AARUUSH, SRMIST  Event Report 2022  Handled By Initiatives Event Name Wednesday Speaks Date 07/08/2019 Venue TP 401-402 Total Turnout 22 Event Description   On 7th August 2019, the regular event “Wednesday Speaks” was conducted the Creatives domain. The topic of the event was “Brain Computer Interface for Future Learning”. The event started off with an interactive session on different perspective of learning. Followed by some fun activities. The event concluded on the speaker describing people into categories as extrovert and introvert. Guests Mr. R. Rajkumar Photo             AARUUSH, SRMIST  Event Report 2022  Handled By Workshops Event Name Web Writing with Dhruv Sehgal Date 08/08/2019 Venue G.D Naidu hall,Mechanical B block Total Turnout 180 (approx) Event Description   On 8th August, Workshops Committee had a workshop on Web writing with Dhruv Sehgal. He is an Indian actor and writer known for his work in Filter Copy and Little Things. The event started with the topic ‘writing for web’ which the speaker further elaborated with the definition of 'objective of a plot' and 'a structure of writing', the speaker then illustrated from stories and movie plots to make the session more relatable. He gave a brief explanation about the reality and truth that a story must have. He also quoted himself saying “let the art be above you”, which inspired the audience in writing stories and drafts with confidence and endurance. The event ended by 19:45 with an interactive Q&A session and Certificate  distribution. Guests Dhruv Sehgal Photo     AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Workshops 
+
+Event Name 
+
+Venue 
+
+Web Writing with 
+Dhruv Sehgal 
+
+Date 
+
+08/08/2019 
+
+G.D Naidu 
+hall,Mechanical B 
+block 
+
+Total Turnout 
+
+180 (approx) 
+
+Event Description   
+
+On 8th August, Workshops Committee had a workshop on Web writing with Dhruv 
+Sehgal. He is an Indian actor and writer known for his work in Filter Copy 
+and Little Things. The event started with the topic ‘writing for web’ which 
+the speaker further elaborated with the definition of 'objective of a plot' 
+and 'a structure of writing', the speaker then illustrated from stories and 
+movie plots to make the session more relatable. He gave a brief explanation 
+about the reality and truth that a story must have. He also quoted himself 
+saying “let the art be above you”, which inspired the audience in writing 
+stories and drafts with confidence and endurance. The event ended by 19:45 
+with an interactive Q&A session and Certificate  distribution. 
+
+Guests 
+
+Photo 
+
+Dhruv Sehgal 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By XZone Event Name Mini Landstorm Date 11/08/2019 & 12/08/2019 Venue TP 401/402 & 3rd floor lab Total Turnout 170(approx.) Event Description   Day-1:  Xzone domain organized Mini Lanstorm at 10:30 in Tech Park 401/402 & 3rd floor lab. The event was a novel experience for the gamers. The seating was swift, and different areas and times were allocated for different games like FIFA, PUBG, CS:GO and FORTNITE. There were around 5 to 7 rounds of each game.It proved to be a truly entertaining afternoon for everyone involved.  DAY-2:  On the day-2 semifinals and final rounds were conducted between the participants of all the games. After the finals the announcement were made and the winners were awarded with the prize money decided by the domain. Guests Sai Krishna and Rakesh Photo     AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Machination 
+
+Event Name 
+
+Tech Trek 
+
+Date 
+
+Venue 
+
+Total Turnout 
+
+Day 1 : CRC 202 
+Day 2 : CRC 202 
+Day 3 : PG102 
+Day 4 : PG102 
+Day 5 : Automation 
+Lab 
+
+19/08/2019-
+23/08/2019 
+
+Day 1 : 18 
+(approx) 
+Day 2 : 14 
+(approx) 
+Day 3 : 24 
+(approx) 
+Day 4 : 20 
+(approx) 
+Day 5 : 15 
+(approx) 
+
+Event Description   
+
+Day – 1: 
+
+On 19th August 2019, the first day of the 5-day long workshop “Tech 
+
+Track” was  conducted by Machination on the topic “Hydraulic, Pneumatic and 
+PLC”. The speakers for  the event were Mr. Sanjay and he was helped by his 
+colleague Mr. Ram Prasad. The event  
+the topic along with a short video. The speaker  
+automated industries like food processing and pharmaceutical 
+
+started with brief introduction of 
+
+talked about how 
+
+manufacture using pneumatic system. In the end, participants were 
+
+given live  demonstration. 
+
+Day-2: 
+
+On 20th August 2019, the second day of the 5-day long workshop “Tech 
+
+Track” was  conducted by Machination on the topic “Hydraulic, Pneumatic and 
+PLC”. The speaker  
+topics discussed on Day 1. The participants  
+of pneumatic and the benefits of the pneumatic over the  
+
+continued with detailed explanation of the 
+
+were taught about the basics 
+
+electrical and 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hydraulic system. Further, at the end, they gave the demonstration of   the 
+pneumatic system and explained its different parts. 
+
+Day-3: 
+
+Aaruush’19 organized an event ‘TECH TRACK’. The main motive of this 
+
+event was to 
+
+give a clear idea about the hydraulics and use of hydraulics in heavy 
+equipment. Mr. Sanjay kumar kar explained about the importance of 
+
+hydraulics in 
+
+industries. The event was terminated with a lab session. 
+
+Day-4: 
+
+On 22 August 2019, in collaboration with Rexroth Bosch Group 
+the 4th day was  event held. The event commenced with the basic on the 
+topic Programmable Logic   Controller (PCL) and its applications were 
+explained in detail with the help  
+working principle of PLC were shown as well to   give the 
+participants an insight on the PCL Machine. The day ended with 
+discussion on the timings, venue and topics that will be 
+
+of a presentation. Demos of 
+
+continued the next   day. 
+
+Day-5: 
+
+On 23rd August, 2019, Machination domain held the day 5 event of 
+
+the 5-day long          
+commenced with an informative and practical  
+working of Hydraulics, Pneumatics and PLCs by Mr. Sanjay  
+Kar. Furthermore, he elaborated in more detail on the working of 
+
+workshop ‘Tech Track’. The session 
+
+Kumar 
+
+introduction on the 
+
+Standard cylinder, Single-Axis Electric Actuator, Pneumatic and 
+Electro   Pneumatic Kit. The workshop was interactive throughout. It 
+was then wrapped up   a 10-minute Exit Test, vote of thanks and 
+facilitations given to the Speaker. 
+
+Guests 
+
+Photo  
+
+Mr. Sanjay Kumar Kar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Machination 
+
+Event Name 
+
+Tech Trek 
+
+Date 
+
+Venue 
+
+Total Turnout 
+
+Day 1 : CRC 202 
+Day 2 : CRC 202 
+Day 3 : PG102 
+Day 4 : PG102 
+Day 5 : Automation 
+Lab 
+
+19/08/2019-
+23/08/2019 
+
+Day 1 : 18 
+(approx) 
+Day 2 : 14 
+(approx) 
+Day 3 : 24 
+(approx) 
+Day 4 : 20 
+(approx) 
+Day 5 : 15 
+(approx) 
+
+Event Description   
+
+Day – 1: 
+
+On 19th August 2019, the first day of the 5-day long workshop “Tech 
+
+Track” was  conducted by Machination on the topic “Hydraulic, Pneumatic and 
+PLC”. The speakers for  the event were Mr. Sanjay and he was helped by his 
+colleague Mr. Ram Prasad. The event  
+the topic along with a short video. The speaker  
+automated industries like food processing and pharmaceutical 
+
+started with brief introduction of 
+
+talked about how 
+
+manufacture using pneumatic system. In the end, participants were 
+
+given live  demonstration. 
+
+Day-2: 
+
+On 20th August 2019, the second day of the 5-day long workshop “Tech 
+
+Track” was  conducted by Machination on the topic “Hydraulic, Pneumatic and 
+PLC”. The speaker  
+topics discussed on Day 1. The participants  
+of pneumatic and the benefits of the pneumatic over the  
+
+continued with detailed explanation of the 
+
+were taught about the basics 
+
+electrical and 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hydraulic system. Further, at the end, they gave the demonstration of   the 
+pneumatic system and explained its different parts. 
+
+Day-3: 
+
+Aaruush’19 organized an event ‘TECH TRACK’. The main motive of this 
+
+event was to 
+
+give a clear idea about the hydraulics and use of hydraulics in heavy 
+equipment. Mr. Sanjay kumar kar explained about the importance of 
+
+hydraulics in 
+
+industries. The event was terminated with a lab session. 
+
+Day-4: 
+
+On 22 August 2019, in collaboration with Rexroth Bosch Group 
+the 4th day was  event held. The event commenced with the basic on the 
+topic Programmable Logic   Controller (PCL) and its applications were 
+explained in detail with the help  
+working principle of PLC were shown as well to   give the 
+participants an insight on the PCL Machine. The day ended with 
+discussion on the timings, venue and topics that will be 
+
+of a presentation. Demos of 
+
+continued the next   day. 
+
+Day-5: 
+
+On 23rd August, 2019, Machination domain held the day 5 event of 
+
+the 5-day long          
+commenced with an informative and practical  
+working of Hydraulics, Pneumatics and PLCs by Mr. Sanjay  
+Kar. Furthermore, he elaborated in more detail on the working of 
+
+workshop ‘Tech Track’. The session 
+
+Kumar 
+
+introduction on the 
+
+Standard cylinder, Single-Axis Electric Actuator, Pneumatic and 
+Electro   Pneumatic Kit. The workshop was interactive throughout. It 
+was then wrapped up   a 10-minute Exit Test, vote of thanks and 
+facilitations given to the Speaker. 
+
+Guests 
+
+Photo  
+
+Mr. Sanjay Kumar Kar 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By Initiatives Event Name Wednesday Speaks Date 21/08/2019 Venue Tech Park (TP 404 & 405) Total Turnout  Event Description   On 21st August, 2019 Wednesday Speaks was held on the topic ‘The Rise of Automation and it’s Future’ was conducted. The event covered the types of Industrial Revolutions which lead to the 4th industrial revolution (current). Various control systems such as manual control, pneumatic control, hard wired logic control, programmable logic controllers were discussed in detail. Different aspects of automation were discussed in detail. Further the speaker expanded on how the automation had until now benefited the industries but during the 4th Industrial Revolution, it will benefit the individual. The event ended with a group photo.  Guests Dr. K.A Sunitha Photo     AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Quality Assurance/Electrizite
+
+Event Name
+
+Domain Academics
+
+Date
+
+22/08/2019
+
+Venue
+
+Tech Park 401 &
+402
+
+Total Turnout
+
+267 approx
+
+Event Description
+
+On 22nd August, 2019 an event named "Domain Academics" was conducted. The
+topic of this event was “A Smart Approach to subsystem design”. The main
+motto of the event was to know how to design a circuit using software. The
+event was informative. The event comprised of all the technical information
+and use of various components in creating the circuits. The event ended
+with a group photo
+
+Guests
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Team Envision
+
+Event Name
+
+TEACH BOT
+
+Date
+
+22/08/19
+
+Venue
+
+Tech Park, 404
+
+Total Turnout
+
+135(approx.)
+
+Event Description
+
+On 22 July 2019, in collaboration with SRMKZILLA, Team Envision organized
+Teach Bot, a Machine Learning workshop. The event commenced with a
+presentation of the general overview of Machine Learning, followed by an
+introduction to the general computer languages required in Machine
+Learning. This was succeeded by an interactive session in which a member of
+the organizing committee explained the basics of coding in Machine Learning
+using Python language. The event finished with a small quiz, and a group
+photograph.
+
+Guests
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Initiatives
+
+Event Name
+
+WEDNESDAY SPEAKS
+
+Date
+
+28/08/2019
+
+Venue
+
+TP 401,402
+
+Total Turnout
+
+130 (approx.)
+
+Event Description
+
+On 28th august, Aaruush conducted its weekly event-“Wednesday Speaks”. This
+event featured a lecture by Professor Nikunj Panchal.  After a brief
+introduction which showcased his accolades, the professor began sharing his
+life experience. The session was short but was truly inspiring. After going
+over some applied problems and sharing some in-depth applications, the
+lecturer catered to some questions from the audience before bringing the
+session to a close. The event concluded at 19:00hrs and post that was a
+felicitation ceremony and a group photo.
+
+Guests
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Public Relations
+
+Event Name
+
+Colosseum
+
+Date
+
+9/8/2019 &
+10/8/2019
+
+Venue
+
+Biotech block (6th
+floor), Java Green
+
+Total Turnout
+
+230
+
+Event Description
+
+On 9th and 10th August 2019, the Aaruush Public Relations committee hosted
+the Colosseum event.
+DAY 1:
+Day 1 of the 2-day event commenced at 10:00 am on 6th floor, Biotech block
+in different classrooms. Colosseum, basically a competition-based event
+consisted a total of 4 sub events which took place simultaneously. The
+events were namely; British Parliamentary Debate, Tale with a Twist,
+Elevator Pitch and Blackout Poetry. On the first day the preliminary rounds
+were held and the finalists were called for the finals on the second day.
+
+DAY 2:
+
+Day 2 of the 2-day event commenced at 11:00 am on 6th floor, Biotech block
+in different classrooms. For all the preliminary rounds held on Day 1, the
+final rounds were organized on Day 2. The event got over by 2:45 pm.
+
+Guests
+
+Dhruv Sehgal
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Initiatives
+
+Event Name
+
+SEMINAR
+
+Date
+
+10/09/2019
+
+Venue
+
+ESB Seminar Hall
+
+Total Turnout
+
+250
+
+Event Description
+
+On the occasion of World Suicide Prevention Day (10th September),
+Initiatives committee conducted an event ‘Seminar’. This event featured an
+interactive session by Dr. R Arul Sarvanan, who is an Associate professor
+at the Department of Psychiatry. After a brief introduction about himself
+and his medical experience, the professor began sharing his views on the
+most cited risk factors that led to suicides. The session was mainly
+focused on the modern world problems faced by the young generation, to make
+them understand how beautiful life is and give them a new vision for hope.
+While going over some applied problems and sharing some in-depth, the
+professor interacted with the crowd and catered to some questions from the
+audience before bringing the session to a close. The event concluded at
+19:15hrs and post that was a felicitation ceremony and a group photo
+
+Guests
+
+Viraj Ghelani, Zoe Siddarth,
+Deepshikha Anand, Mukund Padmanabhan
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Domains
+
+Event Name
+
+Tech Fair
+
+Date
+
+12/09/2019
+
+Venue
+
+Aarush Circle
+
+Total Turnout
+
+190
+
+Event Description
+
+On 12th September, 2019 an event named "Tech Fair" was conducted. The event
+was organized by various domains. The domains conducted a lot of games and
+exciting prizes was distributed along with food token. The event was ended
+with a group photo.
+
+Guests
+
+Photo
+
+Rakesh, Thomas
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Challenges and championship
+
+Event Name
+
+Turbo Drift
+
+Date
+
+27/01/19
+
+Venue
+
+Audi grounds
+
+Total Turnout
+
+250
+
+Event Description
+
+The event organized by the committee “Challenges & Championships” was based
+on the challenge of competing with others with the help of a radio control
+car by comleting 3 laps within least time. There were 4 rounds and each
+rounds had 3 laps to complete. Three teams were announced as winners out of
+12 teams.
+
+Guests
+
+Photo
+
+OSA - The Optical Society
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Workshops
+
+Event Name
+
+PHOTOGRAPHY
+WORKSHOP
+
+Date
+
+25/09/2019
+
+Venue
+
+CRC Seminar Hall
+
+Total Turnout
+
+200
+
+Event Description
+
+On the 25th of September, 2019 the Photography Workshop by “Nikon” was
+organized. The Speaker invited to the event was Mr. Joel, a talented and
+well-versed photographer who works as a senior executive, Sales and
+technical officer at NIKON India, who was an Indian National Football
+player before. The session commenced with a brief introduction by Mr. Joel
+to what photography is, its basics and how it has evolved over the years
+with vastly growing technologies such as “Mirrorless Cameras”. The event
+was interactive. He elaborated on the Fundamentals of the Exposure Triangle
+which is Made of The Aperture, ISO and Shutter Speed which defines and is a
+main requirement for a good photograph. The event ended with a Q&A session
+which was then followed by a group photo and hands on session with the
+Cameras.
+
+Guests
+
+Nikon
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Workshop
+
+Forensic
+Investigation
+
+Date
+
+26/09/19 and
+27/09/19
+
+Biotech Seminar
+Hall
+
+Total Turnout
+
+96
+
+Event Name
+
+Venue
+
+Event Description
+
+DAY 1
+
+On 26th of September a workshop called forensic investigation was conducted
+where the speaker explained the students about the various crime scenes and
+also how to detect a fingerprint . The workshop was   basically about the
+mystery cases  and moreover there were several activities conducted for the
+students. The participants were given cases and were asked to solve them .
+Altogether the workshop was interactive.
+
+DAY 2
+
+On the second day of workshop the speaker focused on the theory behind DNA
+fingerprinting, wound patterns , PCR . They also discussed about how
+parental genetic screening is done and emphasized on the analysis of
+wounds. Altogether the session was quite interesting where students showed
+a lot of interest. The workshop ended with the distribution of
+certificates.
+
+Guests
+
+Department of Genetic Engineering
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Workshops
+
+Event Name
+
+Industrial
+Automation:
+Industry 4.0
+Workshop
+
+Date
+
+28/09/2019
+
+Venue
+
+CRC Seminar hall
+
+Total Turnout
+
+211
+
+Event Description
+
+On 28th September, Aaruush organized a workshop on Industrial Automation:
+Industry 4.0. The workshop was conducted by Bosch and Bosch-Rexroth were
+the audience was given basic theoretical as well as practical knowledge on
+the fourth industrial revolution. In the first half of the session the
+audience were given theoretical knowledge about automation and how machines
+can be control from electrical gadgets, in the second half the audience
+were given a practical knowledge on how to control various machines through
+gadgets like smart-phones and tablets. The workshop also gave an insight
+into the applications of Internet of Things inside an Industry and how it
+is used to improve the quality of work. At last the session concluded and
+certificates were distributed.
+
+Guests
+
+Bosch, Rexroth
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Challenges and championship
+
+Event Name
+
+Autonomous robot
+challenge
+
+Date
+
+27/9/19 and
+28/9/19
+
+Venue
+
+Architecture block
+
+Total Turnout
+
+200
+
+Event Description
+
+Autonomous robot challenge was based on the challenge of reaching the
+finish line by avoiding all the obstacles within minimum time. There were
+15 teams out of which three teams were given prizes for the best robot to
+complete the challenge within minimum time. The teams were judged by Mr.
+Srinivathan Sir.
+
+Guests
+
+Rohith, Rahul
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+All domains
+
+Event Name
+
+Hoverush
+
+Date
+
+27/9/19 and
+28/9/19
+
+Venue
+
+Fablab
+
+Total Turnout
+
+250
+
+Event Description
+
+DAY 1:
+
+The event Hoverush which is a flagship event took place in the fablab where
+seven teams participated. The participants were provided with three
+tarpulian sheets which was basically a map with two spiral circles
+interconnected.
+
+DAY 2:
+
+On 28/09/19 event had its second session were six teams participated.
+During the event two teams were disqualified due to improper working of the
+equipments. The best team who completed the challenge won the event.
+
+Guests
+
+OSA - The Optical Society
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+X ZONE
+
+Event Name
+
+LANSTORM
+
+Date
+
+29/09/2019
+
+Venue
+
+TP416,TP415
+
+Total Turnout
+
+500
+
+Event Description
+
+Aaruush’19 organized an event ‘LANSTORM’. In this event four online games
+were played PUBG, CSGO, FIFA, BLUR.About more than 50 students participated
+in this event .The event was really interesting as there was a fresh
+competition. The number of participants was more in PUBG than any other
+games.
+
+Guests
+
+LIC, OnePlus
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Aaruush e-summit
+
+Date
+
+29/09/2019
+28/09/2019
+
+Venue
+
+MBA Seminar hall
+
+Total Turnout
+
+200
+
+Event Description
+
+DAY 1:
+The event organized on 28th October, 2019 in MBA Seminar was really helpful
+to those who are planning of start ups . The event focused on providing
+knowledge about the entrepreneurship world, the basic steps which should be
+taken while entering in the world of start-ups. 8 Special guests were
+invited who were the founder of their start-ups and shared their knowledge
+and stories about entrepreneurship.
+DAY 2:
+On 29th October 2019 at MBA seminar hall day 2 of the summit was held. The
+chief guest
+was Mr. Arun Kumar, he addressed students about the Do's and Don'ts of
+being an
+
+entrepreneur and also told about the precautions to be taken during
+
+startups.
+
+Guests
+
+Parth Shah, Pankaj Raut, Nikunj
+Panchal, Jayendran GS, Vivek
+Srinivasan, Balram Nair, Bharat
+Kapoor,
+
+Photo
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+WORKSHOPS
+
+Event Name
+
+MICROSOFT AZURE
+WORKSHOP
+
+Date
+
+28/09/19 -
+29/09/19
+
+Venue
+
+BIO-TECH BLOCK
+
+Total Turnout
+
+119
+
+Event Description
+
+DAY-1
+On 28th Sept 19 the event Microsoft Azure Workshop was organized. On the
+day 1 of the event due to poor internet connection they couldn’t start the
+workshop on time and therefore it was very much delayed . The servers were
+off for most of the time, which led to comparatively less hands on training
+and more theory sessions on that day.
+Day-2
+On 29th Sept 19 the event was started with better internet connection and
+they taught participants about the cloud storage and the working of azure
+and the participants had the hand on experience. This day was concluded
+with the a question answer session by the speaker.
+
+Guests
+
+Photo
+
+Microsoft, Infispark
+
+AARUUSH, SRMIST
+
+Event Report 2019
+
+Handled By
+
+Konstruction
+
+Event Name
+
+Venue
+
+Event Description
+
+National Concrete
+Canoe Challenge
+
+Date
+
+05/10/2019 –
+06/10/2019
+
+T.P. Ganeshan
+Auditorium
+
+Total Turnout
+
+150
+
+On 5th October, the event began with an introduction of Aaruush and was
+inaugurated by chief guests who encouraged the participants with
+motivational words and shared his technical experience. Refreshments were
+provided to participants at the end of inauguration ceremony. The first
+round was cube compression test where the weights and compressive strengths
+were checked and tested of 3 cubes of the canoe’s primary built material.
+Then a presentation about the canoes of each team were taken by the judges
+and questions were asked to test the knowledge of the respective teams. The
+canoes were checked if they fall under the guidelines and then time attack
+race was held in a 70 metre race track. This concludes day 1 of NCCC.
+On the second day of the event, another round of presentation and canoe
+race were conducted. The award ceremony was held to present best teams with
+awards. A group photo with the winners concluded the event.
+
+Guests
+
+ASCE
+
+Photo
+
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Quality Assurance/Initiatives 
+
+Event Name 
+
+WEDNESDAY SPEAKS 
+
+Date 
+
+10/07/2019 
+
+Venue 
+
+TP 401 & 402 
+
+No. of Participants  40(approx.) 
+
+Description Event   
+
+ On 10th July 2019, an event was organised on the topic ‘Mobile Phones: Boon 
+Or  Bane’.The  main  motto  of  this  event  was  to  create  awareness  among  the 
+students  over  the  use  of  mobile  phones.  The  event  started  with  a  short 
+introduction.  The  speaker  for  the  event,  Mr.  D.I.Ravindran  discussed  about 
+the mobile addiction succeeded by an interactive question answer session with 
+the audience. The event ended with a group photo session 
+
+Guests 
+
+Photo 
+
+Mr. D. I. Ravidran 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AARUUSH, SRMIST  Event Report 2022  Handled By Initiatives Event Name WEDNESDAY SPEAKS Date 10/07/2019 Venue TP 401,402 Total Turnout 40 (approx.) Event Description   On 10th July 2019, an event was organised on the topic ‘Mobile Phones: Boon Or Bane’.The main motto of this event was to create awareness among the students over the use of mobile phones. The event started with a short introduction. The speaker for the event, Mr. D.I.Ravindran discussed about the mobile addiction succeeded by an interactive question answer session with the audience. The event ended with a group photo session.  Guests Mr. D.I Ravidran Photo             AARUUSH, SRMIST  Event Report 2022  Handled By Team Aaruush Event Name T-Submits Date 12/07/2019-13/07/2019 Venue Tech park Ramajuna Conference Hall Total Turnout 46 Event Description   DAY1 – The 4th edition of T-Summit started on 12th July 2019, at SRMIST, Chennai. In this edition, 24 colleges participated for 2 days of intense discussion about the expositions of their respective fests and the way forward for each. Every college was represented by specific members of their organizing team. The summit began with an inaugural ceremony attended by eminent personalities like Dr.Rajagoapla Chidambaram, Dr.Vikram Chandra Thakur, and Dr. Atul Gurtu. The event was also graced by three of the four patrons of AARUUSH The director Engineering and technology SRMIST Dr.Muthamizhchelvan, The financial advisor Dr.V.M.Ponnaih and The convenor of Aaruush Dr. A Rathinam. Each of the guests gave inspiring speeches to all present and shared their ideas of accomplishment and success. There was a presentation given by the chief guest Dr.Rajagoapla Chidambaram and he gave very inspiring thoughts in the same. The presentation was on the topic “Technology is Power”. The first session began with a presentation session wherein each college had to briefly explain their fests and the various flagships events in them. After the lunch break, the delegates gathered in the Ramajuna conference hall to start the discussions. The sessions were moderated by Mr. Ratin Arora, an alumnus of SRMIST. The next order in the queue was the discussion of agendas that would later form part of the resolutions. At the end of day 1, a total of 8 agendas were discussed. The next order in the queue was the solution room were each college had to tell about the problems they were facing in their tech-fests and the solutions to the problems were to be discussed the next day. With this, day 1 was adjourned with agenda 9 kept for day 2.  DAY 2- The second day of T-summit started at 10:00 am on 13th July 2018. The last agenda in the resolution session was discussed first. The operative mandate session commenced just after the discussion of agenda 9 where the delegates had to brainstorm new ideas for the agendas discussed previously. There was a 15 minutes break where the refreshments were served to the delegates. In the second part of the operative mandate session, the remaining agendas were discussed and the committee was dispersed for lunch. After an hour the committee sat for the solution session to get the solutions on the problems raised by different colleges in solution room session of day 1. Each one of them was awarded 1 minute of time to put forward their solutions for the problem agenda, followed by a buzzer from the mentor. The next session was the voting session which was divided into two halves one was the resolution session and the other was operative mandate session. For passing a particular clause in both the sessions there was a specific voting percentage allotted to both, for the resolution session it was 50% and for the operative mandate session it was 75% initially which was reduced to 60% in the further rounds of discussions. Also there was an opinion raised for the formation of T-Council which was answered very positively. Finally, after the voting session the formal documents were made and the 4th edition of T-Summit came to an end. Guests Dr. Rajagopala Chidambaram Photo             AARUUSH, SRMIST  Event Report 2022  Handled By Digital Design Event Name Domain Academics Date 16/07/2019 Venue Tech Park-405&406 Total Turnout 50 Event Description  On 16th July, 2019 the digital design domain organized and event “Domain Academics”. The topic of the event was “Advanced Photography and Post Processing”. The event was quite knowledgeable as the speakers shared great knowledge about the Exposure Triangle, Shutter speed and various other interesting aspects of photography. The event started with basic photography aspects and ended with post processing-meaning how to purely edit a photograph and make it look like a natural beauty. Overall, the event was wonderful and for someone whose interest is in photography, such events are very useful.  Guests Swarnava Mukherjee, Nilanjan Sardul Photo             AARUUSH, SRMIST  Event Report 2022  Handled By Team Envision Event Name Cyber Security and Ethical Hacking Date 16/07/2019 Venue TP 401 402 Total Turnout 49 (approx) Event Description   The event was organised by team Envision about Cyber Security and Ethical Hacking. The three speakers talked about Cyber Security, data science, machine learning and Ethical Hacking. The event got delayed by 15 minutes. The first speaker Shubham spoke about cyber security and pentesting. The next speaker Sachit spoke about data science and machine learning. And the last speaker Anmol spoke about hacking and information gathering. The session ended by 19:05 with a group photo. Guests Team Envision , sector:443 Photo     AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Quality Assurance/Initiatives 
+
+Event Name 
+
+WEDNESDAY SPEAKS 
+
+Date 
+
+17/07/2019 
+
+Venue 
+
+TP 401 & 402 
+
+No. of Participants  60(approx.) 
+
+Description Event   
+
+On 17th July, 2019 an event named "Wednesday Speaks" was organized. The Topic 
+of the event was “The power of Words and Its Ascendancy”. The main motto of 
+this event is to create awareness on how words are powerful in our day to day 
+life. The event was very interactive and various activities were carried out 
+describing the importance of patience in one’s life. The necessity of water 
+in today’s scenario was also depicted by some of the interesting activities 
+catching the eye of the audience. The event ended with a group photo.  
+
+Guests 
+
+Photo 
+
+Dr. Anderleen Diana Philimis 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Quality Assurance/Initiatives 
+
+Event Name 
+
+WEDNESDAY SPEAKS 
+
+Date 
+
+31/07/2019 
+
+Venue 
+
+TP 401 & 402 
+
+No. of Participants  45(approx.) 
+
+Description Event   
+
+On  31st  July,  2019  the  event  "Wednesday  Speaks"  was  organised.  The 
+topic of the event was “Satellite : A Tool For Disaster Mitigation And 
+Management”. The motive of this event was to create awareness on how 
+satellites  can  help  people  in  discovering  more  resources,  and  the 
+responsibilities  for  dealing  with  all  humanitarian  aspects  of 
+emergencies. The event was very interactive. The necessity of satellite 
+in today’s scenario was also depicted by some of the interesting real 
+life examples. The event ended with a group photo. 
+
+Guests 
+
+Photo 
+
+Dr. A. Vijay 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Lanstorm
+
+Date
+
+8/10/2020 to
+12/10/2020
+
+Venue
+
+Zoom Meet
+
+Total Turnout
+
+590
+
+Event Description
+
+The Lanstorm was conducted by Team Aaruush from 8th to 12th of
+October 2020. The event was a grand success and saw a great response
+from the audience.
+
+Guests
+
+Playmonk, Playtonia
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Machine Learning
+Challenge
+
+Date
+
+9/10/2020 to
+10/10/2020
+
+Venue
+
+Zoom Meet
+
+Total Turnout
+
+160
+
+Event Description
+
+The Machine Learning Challenge was conducted by Team Aaruush on 9th
+and 10th of October 2020. The event was a grand success and saw a
+great response from the audience.
+
+Guests
+
+Nikhil Analytics
+
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Venue
+
+Event Description
+
+Cognitive
+Computing
+Workshop
+
+Zoom Meet
+
+Date
+
+10/10/2020 to
+11/10/20202
+
+Total Turnout
+
+1658
+
+The workshop was conducted by Team Aaruush on 10th and 11th of
+October 2020. It was a technical workshop on Cognitive Computing. The
+event was a grand success and saw a great response from the audience.
+
+Guests
+
+Ms. Pradeepthi Duggaraju
+
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+Highlights 
+
+Event Name 
+
+Luminary Addresses 
+(Evolution of 
+Women Leaders) 
+
+Date 
+
+10/10/2020 
+
+Venue 
+
+Zoom Meet 
+
+No. of Participants  434 
+
+Event Description   
+
+On 10 october 2020 the event “Luminary Address” was held. The guest 
+of honour was Ms Bhargavi Sunkara, head, Assest Servicing Technology, BNY 
+Mellon Technology, India. The event started with the formal welcome speech, 
+followed by a small speech by Ms Poovammal, who spoke about the gender 
+equality and opportunities provided by SRM. Ms Bhargavi started with her 
+early life, how she was not a very ambitious person and how certain events 
+in her life, made her want to succeed in life and become independent. She 
+gave an inspiring speech about how much ups and downs she had in her life 
+and how she worked hard to achieve her goals. She also told us the 
+importance of reading books, meditating and exercising. The session ended 
+with a questionnaire session. 
+
+Guests 
+
+Photo 
+
+Ms. Bhargavi Sunkara 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Digital Marketing 
+Workshop 
+
+Date 
+
+11/10/2020 – 
+12/10/2020 
+
+Venue 
+
+Zoom Meet 
+
+No. of Participants  1106 
+
+Event Description   
+
+On the 11th and 12th of October an event named “Digital marketing workshop” 
+was conducted in a zoom meeting. The event was about digital marketing and 
+entrepreneurship. The speaker of the event was one of the top industry 
+professionals- Mohit Rathi, founder of ‘Just Web Infotech’. He holds 
+exceptional expertise in digital marketing and sales management using 
+Google Ads. He is an entrepreneur by profession, he believes in guiding 
+young minds towards a successful market. It was an exceptionally astute 
+workshop on understanding the art behind the management of the online 
+market. The workshop gave hands- on experience and insights into digital 
+marketing, SEO, and Google Ads. It inspired budding students to enter the 
+world of digital market and sales and unlock their true potential. He gave 
+creative research-based strategic learning ideas on marketing and Google 
+Ads. There was also a giveaway of two free fundamental courses. He guided 
+us to design our own website from scratch and how to collaborate with 
+respected authorities. The speaker also explained practically with content 
+creation that a well-designed website can be made using WordPress with zero 
+knowledge about programming. He also used a few good examples like Facebook 
+and Google in order to explain his points on Digital Marketing and Career 
+opportunities. The concept of search engine optimization was introduced 
+along with several career opportunities in the field of digital marketing. 
+The event was very informative and had an enlightening question and answer 
+session. 
+
+Guests 
+
+Photo 
+
+Mr. Mohit Rai 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+Team Aaruush 
+
+Event Name 
+
+Capture the Flag 
+
+Date 
+
+17/10/2020 
+
+Venue 
+
+Online 
+
+Turnout 
+
+502 
+
+Event Description   
+
+Capture the Flag was conducted by Team Aaruush on 11th October, 2020. The 
+event was a grand success and saw a great response from the audience. 
+
+Guests 
+
+Sector:443, InfySEC, Zybeak 
+Technologies 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Unconference-
+Career
+Satisfaction V/s
+Sustainable
+Career
+
+Date
+
+11/10/2020
+
+Venue
+
+Zoom Meet
+
+Total Turnout
+
+633
+
+Event Description
+
+The Unconference was conducted by Team Aaruush on 11/10/2020. It was
+conducted on Career Satisfaction and Sustainable Career, where
+students could get a clarity for their goal. The event was a grand
+success and saw a great response from the audience.
+
+Guests
+
+Mr. Anuj Tiwari
+Mr. Gaurang Sanghvi
+Ms. Disha Chhabra A
+Ms. Eshika Fyzee
+
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+Challenges and Championship 
+
+Event Name 
+
+Cyber Security And 
+Ethical Hacking 
+
+Date 
+
+25/10/2020 
+
+Venue 
+
+Zoom 
+
+No. of Participants  613 
+
+Event Description   
+
+On 25 th October, 2020, a webinar was conducted on the topic ‘Cyber 
+Security and Ethical Hacking’. Mr. Vinod Senthil, a Cyber security 
+consultant, Tedx Organizer, Serial Entrepreneur (infySEC), and 
+Educationalist with over 15 years of experience, holding 13 world records 
+was the speaker. The event started with a warm welcome of the speaker and 
+the participants by the host. The speaker, Mr. Vinod Senthil thanked 
+everyone for inviting him and also instructed the participants to be active 
+in the chat section to make the event more interactive. The speaker 
+explained about Trojans and Ransomware attacks and how they are affecting 
+our lives. According to him, there are only two kinds of people – those who 
+know they have been hacked and those who don’t know. He explained various 
+attacks that happened over the years and also added that with everything 
+going online in 2020, the number of attacks have increased tremendously 
+thus opening more doors for advanced cyber security. He also talked about 
+various website which can tell you if you are hacked or not. Three demos 
+were also included in the session. He showed us how phishing attacks worked 
+where the attacker manages to impersonate a website and make the URL look 
+exactly like the actual URL. Further he showed us how to break a password 
+from a wireless network and how to break a windows password. It only took 
+him a few seconds to hack a password of 6 letters using a cyber-security 
+tool. The demo concluded with the speaker explaining the need to create 
+stronger passwords. The webinar ended with a Q&A session where the speaker 
+briefly answered the questions from the audience. 
+
+Guests 
+
+Photo 
+
+Vinod Senthil 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+X-Zone 
+
+Event Name 
+
+Domain Academics 
+
+Date 
+
+31/10/20 
+
+Venue 
+
+Zoom Meet 
+
+No. of Participants  200 
+
+Event Description   
+
+On 30th October 2020, An event was organized by X-Zone Domain on the topic 
+“ESPORTS AS A CARRER”. The speaker of the event was Santhosh Palavesh, CEO 
+at UMM Digital, COO at Playmonk, CIO at Belfrics Global, Member of the 
+board of advisor of the Africa advancement forum. The event started with a 
+warm welcome and a brief introduction to the speaker. The speaker gave 
+crisp information about upcoming Software where youth can make a career and 
+also earn money by playing games.  
+Further, the session was continued by telling about the live streaming of 
+games and upcoming opportunities for youth to make esports a career. The 
+speaker also gave a presentation about his upcoming software “PLAY MONK”, 
+where participants can play any games, also one can organize a game, and 
+battle with other participants around the world, the software will most 
+probably be launched by December and also added that in next 5 Years, and 
+this software can be used in Olympics. The event ended up with a Q&A 
+session where the speaker cleared all the doubts of the attendees. 
+
+Guests 
+
+Photo 
+
+Santosh Palavesh 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+        
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2020 
+
+Handled By 
+
+Aaruush 2020 
+
+Event Name 
+
+Wednesday Speaks 
+
+Date 
+
+04/11/2020 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  120 
+
+Event Description   
+
+On 4th november, Wednesday,2020, an online event 
+‘Wednesday talks’ through zoom meeting was hosted. Dr. S. Chandravathanam, 
+an assistant professor, department of chemistry at SRMIST, KTR, was the 
+speaker and the topic was ‘Transitioning to solar energy - Bright or dim?’.  
+She provided the participants with keen insights on how the Solar Energy is 
+acquired and then converted for the benefitial use. She gave some useful 
+points on how the solar energy could be used to conserve non-renewable 
+energy and how the solar power cells could be used for a long term. The 
+participants were also very keen to know all about it and the even turned 
+out to be successful. 
+
+Guests 
+
+Photo 
+
+Dr. S. Chandravathanam 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST
+
+Event Report 2020
+
+Handled By
+
+Team Aaruush
+
+Event Name
+
+Wedesday Speaks-
+Covid Vaccine -
+How Close We
+Are?
+
+Date
+
+18/11/2020
+
+Venue
+
+Zoom Meet
+
+Total Turnout
+
+130
+
+Event Description
+
+Wednesday Speaks is a series of sessions conducted by team Aaruush, between
+SRMIST’s renowned Professors and the student group with a goal to bring
+together multiple perspectives and educate students in multiple
+disciplines. This session of Wednesday Speaks was conducted on 18 November
+2020. The event was a grand success and saw a great response from the
+audience.
+
+Guests
+
+Dr. Melvin George A
+Dr. Satyajit Mohapatra
+
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Team Aaruush 
+
+Event Name 
+
+E-Simulate 
+
+Date 
+
+10/02/2021-
+12/02/2021 
+
+Venue 
+
+Online 
+
+Turnout 
+
+190 
+
+Event Description   
+
+E-Simulate was conducted by Team Aaruush between 10th February and 12th 
+February, 2021. The event was a grand success and saw a great response from 
+the audience. 
+
+Guests 
+
+The Institution of Engineering and 
+Technology (IET) 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Highlights 
+
+Event Name 
+
+Kargil –  
+EK Dharmyudh 
+
+Date 
+
+26/07/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  253 
+
+Event Description   
+
+On 26th July, an event named "KARGIL - EK DHARMYUDH" was conducted in a 
+zoom meeting. The event was about Kargil. The speaker of the event was Lt 
+Col Manoj Kumar Sinha. The retired Gallantry Awardee talked about tales of 
+valor and gallantry and shared his first-hand experiences of the war. The 
+webinar was highly motivating and inspirational and left the audience 
+spellbound. He also spoke about his experience on the frontlines and 
+educated the audience about the history of the hostilities at the border. 
+The event ended with a QnA session with the audience. 
+
+Guests 
+
+Photo 
+
+Lt Col Manoj Kumar Sinha 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Role of Data 
+Analytics and IOT 
+in Cyber Security 
+
+Date 
+
+23/08/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  358 
+
+Event Description   
+
+On 23rd August 2021 Role of Data Analysis and IoT workshop in Cyber 
+Security was conducted by Aaruush along with Skill vertex in zoom meeting. 
+The guest speaker of the event was Mr. Akshay, currently working with PwC 
+India, who gave a brief explanation about Cybersecurity in IoT, and Mr. P. 
+Ashtoush who, told us about data science. The main topics covered under 
+this webinar were the momentous role of data analysis and IoT in cyber 
+security. The workshop was about the most controversial and well-informed 
+topic is trending in the field of technology, making participants excited 
+and enthusiastic to know more about it. They told how IoT makes things easy 
+in home automation devices, smart cities, and devices. And also how 
+artificial intelligence and data science making life easier and faster. The 
+event finally ended with a brief Q&A session. 
+
+Guests 
+
+Photo 
+
+Mr. Akshay 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+X-Zone 
+
+Event Name 
+
+Mini-Lanstrom 
+
+Date 
+
+28/08/21-
+30/08/21 
+
+Venue 
+
+Discord 
+
+No. of Participants  965 
+
+Event Description   
+
+Day-1: On 28th August, Mini-Lanstorm was organized via discord server by X-
+Zone. The games were BGMI (Battle Grounds Mobile India), Valorant, CODM 
+(Call Of Duty Mobile). Round 1 matches started at around 5 pm. BGMI and 
+CODM were finished on time by 7 pm whereas, valorant went on till 10 pm. 
+
+Day-2: Round 2 of valorant started at 10.30 am because each match takes a 
+lot of time to be completed. BGMI and CODM were as scheduled and started at 
+5 pm.  
+
+Day-3: Finals of all the games were conducted and streamed on the discord 
+server, and the winners were announced. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Challenges and Championships 
+
+Event Name 
+
+Code Matrix 
+
+Date 
+
+29/08/21 
+
+Venue 
+
+HackerEarth 
+
+No. of Participants   
+
+Event Description   
+
+Codematrix was a coding competition held on the 29th of August, by 
+Challenges and Championships, using the HackerEarth platform. The whole 
+event was comprised of two rounds. Round 1 was based on the MCQ questions. 
+Those who cleared round 1 were called for round 2 on the same day. In the 
+second round, participants were given various questions to solve coding-
+related problems. Participants were asked to solve each round in the given 
+amount of time. They were scored based on their solutions for the given 
+questions. The final winners were declared on the basis of the score 
+obtained in Round 2, then the time is taken to get that score in Round 2, 
+and then use the Round 1 score as the 3rd instance to do a tiebreaker. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Public Relations 
+
+Event Name 
+
+Anchor Away 
+
+Date 
+
+04/09/21 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  357 
+
+Event Description   
+
+On 4th September, an event, “Anchor Away” was conducted by Public Relations 
+using zoom meetings. The event focused on the Art of Public Speaking and 
+also about different Styles of Speech. The speaker of the event was 
+Jyothika Shetty, an internationally published author; she is a speaker and 
+also a great Mentor. The speaker was very knowledgeable about the topic, 
+and she motivated the audience to grab every opportunity and be confident 
+in all aspects of life. The webinar left the audience with an urge to learn 
+more. She also assigned a few audiences on-the-spot topics to speak on; 
+this turned out to be the best part of the session. The event finally ended 
+with a Q&A session with the audience 
+
+Guests 
+
+Photo 
+
+Ms. Jyothika Shetty 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Team Aaruush 
+
+Event Name 
+
+T-SUMMIT 5.0 
+
+Date 
+
+11/09/21-
+12/09/21 
+
+Venue 
+
+Zoom Meet 
+
+No. of Participants  640 
+
+Event Description   
+
+DAY 1- 
+
+The 5th edition of T-Summit started at 10:00 am on the 11th of September, 
+2021, at the ZOOM online meet. 26 colleges participated in this edition 
+with 2 representatives from each college speaking about their fest. It 
+began with the inaugural ceremony where the chief guest Dr. V. K. Saraswat, 
+special guest and mentor Dr. Atul Gurtu gave their inspiring speeches. 
+Followed then by the speeches of The financial advisor Dr. V. M. Ponniah 
+and The convenor of Aaruush, Dr. A Rathinam. The first session started with 
+the introduction of the Moderator Mr. Avirup Roy Chowdhury. The rules and 
+procedure for the session were explained by the moderator followed by a Q&A 
+session. The presentation session began where colleges introduced their 
+fests and flagship events with a small informative powerpoint presentation. 
+Once all the presentations were complete a small break was given to the 
+participants and videos on the previous edition of T-Summit and Aaruush 
+were played. After the short break, moderators explained about the 
+resolution briefing. The resolution session began with the rules and 
+procedure for this session and then followed by the announcement of 4 
+agendas that were chosen by most colleges based on which the 
+representatives had to speak about what their college has done for these 
+agendas. When all colleges were done presenting, day 1 was adjourned. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DAY 2- 
+
+The second day of T-Summit 5.0 started at 10:20 am on 12th September 2021. 
+It began with the Operative Mandate session where the delegates had to 
+discuss their future plans and initiatives for the agendas discussed on Day 
+1. Following the completion of this session, the committee dispersed for a 
+lunch break at 12:15 pm. After an hour, the event resumed and rules for the 
+voting session were explained. There were 8 clauses under each agenda, as 
+per the points discussed in the operative mandate session. Each voting 
+round consisted of 4 clauses. To pass a particular clause, the voting 
+percentage allotted was 50%+1. Finally, after the voting session, the 
+formal documents were made followed by the vote of thanks speech by Dr. A 
+Rathinam and Dr. V.M. Ponniah. The 5th edition of the T-Summit, then came 
+to an end. 
+
+Guests 
+
+Photo 
+
+Dr. V. K. Saraswat 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Domain Academics 
+Machination 
+
+Date 
+
+15/09/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+272 
+
+Event Description   
+
+On 15th of September 2021, A Domain Academics on the topic – “Machination” 
+was conducted by Workshop. Swagatam Mitra was the guest speaker. 
+
+Guests 
+
+Swagatam Mitra 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Vimanaz 
+
+Event Name 
+
+Aerospanza 
+
+Date 
+
+18/09/2021- 
+05/10/2021 
+
+Venue 
+
+Zoom Meet 
+
+Turnout 
+
+164 
+
+Event Description   
+
+Inaugural ceremony:  
+On 19th September, an event "Aerospanza Inaugural Ceremony '' was conducted 
+by domain Vimanaz. The event focused on the opportunities space travel 
+provides to young aspiring adults. The event started with a small speech 
+from the convenor of Aaruush Dr. A Rathinam. The speaker of the event was 
+Dennis Silin, Exodus Space, CEO as well as a great Mentor, and Sunny 
+Kabrawala, founder and director of STAR aerospace private Limited. The 
+speakers were very knowledgeable about the topic and they motivated the 
+audience to grab every opportunity and be confident in all aspects of life. 
+The webinar was highly informative and interactive and left the audience 
+with an urge to learn more. The speakers talked about their life 
+experiences and spoke about how even average grades in schools and colleges 
+can’t stop you from doing something great in life. Finally, the inaugural 
+concluded with the vote of thanks given by the organizer of Vimanaz Miss 
+Edha Ray.  
+
+Round 1: On 18th September, the problem statements were launched and sent 
+to the participants. 2 companies gave the problem statements. The 2 
+companies were Star and Exodus. The problem statements were jumbled and 
+then the participants were asked to choose the problem statement they want 
+to work for. After the selection, they were divided into 2 groups based on 
+what problem statement they selected (i.e. exodus and star).  
+Round 1 submission deadline was on the 20th of September.  
+
+Round 2: On 21st September, round 1 results were out and the shortlisted 
+teams had to make a preliminary design based on their submission in round 
+1. The deadline for this submission was 25th September. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Round 3: On 26th September, round 2 results were announced and the 
+qualified teams had to prepare a presentation based on the submission in 
+round 2 to explain to the judges their final solution for the problem 
+statement. The presentation was then followed by a small question and 
+answer session from the judges. The winners (i.e. winner, 1st runner up, 
+2nd runner up) were announced on 5th October. Each round had a small 
+meeting with the mentors from the company to solve their doubts and to 
+guide towards a perfect solution. 
+
+Guests 
+
+Photo 
+
+Star Exodus Orbitals 
+
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Initiatives 
+
+Event Name 
+
+Wedesday Speaks 
+(Design Thinking: 
+Applications In 
+Architectural 
+Studio) 
+
+Date 
+
+22/09/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  518 
+
+Event Description   
+
+On 22nd September 2021, Wednesdays Speaks was conducted online on the topic 
+‘Design thinking- Applications in Architectural Studio’. The speaker for 
+the event was Mr. Anoop Menon, an Assistant Professor, School of 
+Architecture and interior design, SRMIST, KTR. The speaker provided the 
+participants with keen insights on what is design thinking, explained each 
+stage of it and how we can implement design thinking in problem solving. He 
+also gave some information about architectural studio process and 
+application of design thinking in architectural studio. The participants 
+were also very keen and curious to know all about it. It was a very 
+informative and enlightening session which ended with a Q&A session. 
+
+Guests 
+
+Photo 
+
+Mr. Anoop Menon 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Challenges and Championship  
+
+Event Name 
+
+Nasa Space Apps 
+Challenge Bootcamp 
+
+Date 
+
+26/09/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  723 
+
+Event Description   
+
+On 26th September, an event named "Nasa space apps bootcamp" was conducted 
+on a zoom meeting. The event was about the NASA space apps challenge where 
+Mr. Goutam Chattopahyay shared his experience about the space and this 
+industry. He also shared some on-going missions which are currently being 
+planned and executed at NASA. He further focused on the challenge rules and 
+the general information one should know. This was followed by a Q&A session 
+where the audience asked about the challenge and questions related to outer 
+space and planets. The session concluded by vote of thanks given by the 
+host. 
+
+Guests 
+
+Photo 
+
+Mr. Goutam Chattopahyay 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Challenges and Championship 
+
+Event Name 
+
+NASA Space apps 
+challenge 
+
+Date 
+
+01/10/2021 – 
+03/10/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  1126 
+
+Event Description   
+
+On 2 nd October, an event named "NASA space apps challenge” was organised 
+by Challenges and Championships on a zoom meeting. This challenge was open 
+theme i.e., no theme was needed for registration but the participants had 
+to make a project related to space apps. The themes of the challenge were 
+present on the Aaruush Chennai website. 
+Day 1: After the registrations, 2 mentoring rounds were conducted by the 
+C&C and team envision for the participants to direct them onto how they 
+should update their GitHub depositaries and how they have to push in their 
+records every 2 hours.  
+Day 2: On day 2, out of all the participants only some qualified and had to 
+present their PPT (with the template provided beforehand) and explain their 
+codes, GitHub depositaries that they pushed on GitHub to the international 
+judges. They had to also throw light on the future scopes of their project. 
+
+Guests 
+
+Mr. Jayant Patil 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Workshop series: 
+Introduction to 
+Blockchain, 
+Cryptos and NFTs 
+
+Date 
+
+06/10/2021 
+
+Venue 
+
+Turnout 
+
+670 
+
+Event Description  Zoom Meeting 
+
+On 6th October, an event "Introduction to Block chain, Cryptos and NFTs" 
+was conducted by Workshop. The event focused on the concept of Blockchain, 
+cryptos, and NFTs. The speaker of the event was Alexander Morris Koi, a 
+great Mentor, and Sandeep Singh, a student of the SRM Ramapuram campus. The 
+speakers were very knowledgeable about the topic and explained the concepts 
+of blockchain, cryptos, and NFTs very well. The webinar was highly 
+informative and interactive and left the audience with an urge to learn 
+more about blockchain and crypto. The speakers kept the audience involved 
+in the webinar by offering rewards for those who stay until the end and 
+constantly seeking public participation. The event ended with a Q&A session 
+with the audience. 
+
+Guests 
+
+Photo 
+
+Alexander Morris Koi 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Challenges and Championship 
+
+Event Name 
+
+Hack Summit 
+
+Date 
+
+0/10/2021- 
+12/10/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  240 
+
+Event Description   
+
+Inaugral: On 8 th October, an event named "Hack summit inaugural ceremony” 
+was organised by Challenges & championships on a zoom meeting. The chief 
+guest of the event Mr. Karthik Kadampully, who is the founder & CEO of AEON 
+learning, threw light on the 48 hour long national level hackathon. The 
+inaugural started with a few inspiring words for the participants. The 
+chief guest walked the participants through the stages of the Hackathon and 
+working with a team efficiently. Topics like best practices to follow, 
+design thinking, different prospects of jobs and start-ups were discussed. 
+The participants were addressed and wished luck by the judges Srinidhi Rao, 
+Ravi Jaiswal, Air Commodore Arvind Kumar and Vishnu Patel. The ceremony 
+finally concluded with a motivating address by the Convenor of Aaruush, Dr. 
+A Rathinam Sir, and a vote of thanks by the organiser Pranav Singh.  
+Day 1: On 9th October, the mentoring session was held. The participants had 
+decided their themes and were given 10 mins to pitch their ideas and 
+present their current progress in front of the panellists. The panellists 
+had a Q&A session based on their ideas and were giving solutions to improve 
+them.  
+Day 2: On 10th October, second mentoring session was held for the top 10 
+teams based on the previous mentoring. The top 3 teams were shortlisted 
+based on the judging criteria and their innovative approach. 
+
+Guests 
+
+Photo 
+
+Mr. Karthik Kadampully 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Social Media 
+Marketing 
+
+Date 
+
+16/10/2021 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  453 
+
+Event Description   
+
+On 16th October, an event "Social media marketing" was conducted by 
+Workshop. The event focused on the importance of communication and the 
+reach of social media. The speaker of the event was Sahil Shah, a great 
+Mentor with amazing vocabulary. The speaker was very experienced in this 
+field which was visible by the way he spoke about this topic. The speaker 
+talked about unique marketing techniques used by famous brands which is 
+sometimes what gives these brands their brand value. The webinar was very 
+interactive, participants took part in the discussion through typing in the 
+chat box. Overall turnout for the event was more than expected. 
+
+Guests 
+
+Photo 
+
+Mr. Sahil Shah 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Microsoft Power BI  Date 
+
+16/10/21 
+
+Venue 
+
+Zoom Meeting 
+
+No. of Participants  447 
+
+Event Description   
+
+On 16th October, an event named "Microsoft Power BI" was conducted in a 
+zoom meeting. The event was about Power BI. The speaker of the event was 
+Helen Wall. The speaker is the founder of Helen Data Design. The webinar 
+was highly informative and knowledgeable telling us the benefits of Power 
+BI in the field of Business Analytic and Data Visualization. She also shows 
+us how to use the tool Power Bi and how to manage the data using the 
+software. The session ended with Q/A session. 
+
+Guests 
+
+Photo 
+
+Helen Wall 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+    
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Team Aaruush 
+
+Event Name 
+
+Capture the Flag 
+
+Date 
+
+17/10/2021 
+
+Venue 
+
+Online 
+
+Turnout 
+
+158 
+
+Event Description   
+
+Capture the Flag was conducted by Team Aaruush on 17th October, 2021. The 
+event was a grand success and saw a great response from the audience. 
+
+Guests 
+
+HackersVilla 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST   
+
+Event Report 2021   
+
+Handled By   
+
+Workshop   
+
+Event Name   
+
+Innovative and   
+Strategic Thinking   
+
+Date   
+
+18/10/2021   
+
+Venue   
+
+Online   
+
+Turnout   
+
+350   
+
+Event Description      
+
+On 18th October an even name Innovative and Strategic Thinking was conducted 
+in the zoom meeting. The speaker of the event was Mr. Rituparna Roy  
+Chowdhury. The speaker is the Founder of statement purpose in building minds 
+to well design network for innovation. He is also a great writer and 
+inquisitive learner and a brilliant photographer of scenic beauty. He has 
+inquisitive and innovative thinking. The event deals with the intricacies of 
+bringing transformational change for society by learning the skill to augment 
+Cognition with Imagination. The speaker helped us to understand the 
+difference between education and innovative thinking. The session ended with 
+a Q/A session   
+
+Guests   
+
+Photo   
+
+Mr. Rituparna Roy 
+
+    
+   
+   
+   
+   
+     
+   
+   
+ 
+     
+   
+   
+AARUUSH, SRMIST  
+
+Event Report 2021  
+
+Handled By  
+
+Robogyan  
+
+Event Name  
+
+RoboTicks  
+
+Date  
+
+16/10/2021 – 
+18/10/2021  
+
+Venue  
+
+Online (Gmeet)  
+
+Turnout  
+
+200  
+
+Event Description     
+
+On 16th October, an event named "RoboTicks" was conducted by Robogyan domain 
+on google meet, the event was divided into 2 rounds, the first round was that 
+a random number will be generated (1-5) for the participant. Based on the 
+number the participant has to choose the corresponding topic and to make 
+algorithm out of it using a box of jumbled algorithm steps within 5 mins. The 
+judging criteria was on number of correct steps, correct sequence and time 
+taken    
+On 17th October, round 2 was conducted, in which a mail was sent to all the 
+participants stating that the participant has to make an CAD Model out of the 
+topic they got in round 1. The participant can use whichever software they 
+want and have to submit their work before 18th Oct till 8pm in the GForm. The 
+judging criteria was sensor and actuator placement, design feasibility and 
+design efficiency.  
+
+Guests  
+
+Photo  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Konstruktion 
+
+Event Name 
+
+The Constructor 
+
+Date 
+
+16/10/2021 – 
+19/10/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+50 
+
+Event Description   
+
+On 16th October, an event named "The constructor” was conducted on a google 
+meet. The event had 2 rounds, round 1 & round 2.  
+
+Round 1 (part 1) –  
+
+The participants were shown a PPT which had equipment’s from a construction 
+site and the participants had to guess the image. Each image had 4 options. 
+1 right and 3 wrong. It was a time-based event and there was no negative 
+marking.  
+
+Round 1 (part 2) –  
+
+In part 2, participants were shown images of objects for e.g., table, 
+bench, kitchen, etc. and were given options. Options were such that the 
+participants have to guess the equipment used to make that object. Total 10 
+options were given 5 were right and 5 were wrong. It had negative marking 
+(+2 for right, -1 for wrong). This round was timed.  
+
+Round 2 –  
+
+A total of 11 participants were qualified from the round 1 based on their 
+score and timing. In round 2 the qualified participants were sent an email 
+with a problem statement about ‘house on wheels. The participants were 
+given a small area in which they had to design a layout of a house. The 
+participants have to make the design on any comfortable software. The mail 
+also consisted of a question where they had to explain and justify their 
+design in not more than 200 words. The submissions were taken in the form 
+of pdf, screenshot of the design and the design file. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guests 
+
+Photo 
+
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST  
+
+Event Report 2021  
+
+Handled By  
+
+Electrizite  
+
+Event Name  
+
+De-Circuits  
+
+Date  
+
+16/10/2021  
+
+Venue  
+
+Online (Gmeet)  
+
+Turnout  
+
+50  
+
+Event Description     
+
+On 16th of October, a domain event under Aaruush named “De-Circuits” was 
+organised on Google meet by Electrizite. The event consisted of a single 
+round. The participants were given a problem statement in form of circuit 
+name. They were then asked to make circuits based on the problem statement 
+within 25-30 mins. The participants were allowed to use a software of their 
+choice.  
+
+Guests  
+
+Photo  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Electrizite 
+
+Event Name 
+
+Electrowit 
+
+Date 
+
+17/10/2021 – 
+18/10/2021 
+
+Venue 
+
+Online (Gmeet) 
+
+Turnout 
+
+50 
+
+Event Description   
+
+On 17th of October, a domain event under Aaruush named “Electrowit” was 
+organised on Google meet by Electrizite.  
+
+Round 1 of the events was conducted. The event revolved around logic gates. 
+The participants were given Boolean expressions. They were then asked to 
+log on to an online platform – “logic.ly” to make a circuit on the Boolean 
+expressions within 25 mins. Each participant was given 4 circuits – (2 
+Easy, 1 Medium and 1 Hard). The Participants were required to share their 
+screens and keep their cameras on. Screenshots were sent to the faculty.  
+
+Round 2 of the events was conducted on 18th of October. The participants 
+were given 6 components name and they had to make a circuit using these 6 
+components. Repetition of the components can be done but only sticking to 
+those 6. The participants had to make the circuit on TinkerCAD software. 
+The event was timed for 30 mins. Submissions were in the form of 
+screenshots and pdf. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST  
+
+Event Report 2021  
+
+Handled By  
+
+Yuddhame  
+
+Event Name  
+
+CodeYuddh  
+
+Date  
+
+17/10/2021 – 
+18/10/2021  
+
+Venue  
+
+Online  
+
+Turnout  
+
+50  
+
+Event Description     
+
+On 16th and 17th, event “CodeYuddh” was conducted by Yuddhame. The event took 
+place in three rounds. The first round was quiz round which was a timed game 
+of 3 minutes with indefinite number of questions. The participants with 
+maximum number of correct answers in the stipulated time, moved to next 
+round. In the second round, a codding challenge took place. Participants had 
+to write program and execute the test cases. The third round was about 
+debugging. A faulty code was shared and the participants had to analyze the 
+code given to them and debug it.  
+
+Guests  
+
+Photo  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+AARUUSH, SRMIST  
+
+Event Report 2021  
+
+Handled By  
+
+Yuddhame  
+
+Event Name  
+
+Design Dot Com  
+
+Date  
+
+16/10/2021  
+
+Venue  
+
+Online  
+
+Turnout  
+
+50  
+
+Event Description     
+
+On 16th Oct 2021, event “Design Dot Com” was conducted by Yuddhame. 
+Participants were given a challenge that emphasized them to use their 
+creativity and turn a non-designed and bland web page into a beautiful one by 
+using their UI/UX skills. The challenge had to be submitted in a fixed amount 
+of time. Participants were scored based on their submissions and subsequently 
+were qualified for round 2 of the competition based on their scores  
+
+Guests  
+
+Photo  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Fundaz 
+
+Event Name 
+
+Thinkopedia 
+
+Date 
+
+16/10/2021 – 
+17/10/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+40 
+
+Event Description   
+
+On 16th and 17th October 2021, an competition named “Thinkopedia” by  
+domain Fundaz was held online on the platform Google Meet. For round  
+1, participants had to make a game table of 7x4 and label the columns  
+as tens, ones, number and total. Each time one rolls the dice, they  
+have to decide whether the number represents ones or tens and note it  
+down to make the sum closest to 100. At the end of the game, the  
+participants had to screenshare and show their sum. In round 2, the  
+participants had to solve a crossword with 10 different puzzles.  
+Puzzles include solving morse code, mathematical expression, riddle  
+etc. Participants had to solve multiple riddles and solve their final  
+riddle using the answers of all the previous questions.  
+
+Guests 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Fundaz 
+
+Event Name 
+
+Plethora of 
+Conundrums 
+
+Date 
+
+17/10/2021 – 
+18/10/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+40 
+
+Event Description   
+
+On October 17th & 18th competition named “Plethora of Conundrums” by  
+domain Fundaz was held online on the platform Google Meet. For Round  
+1, The participants were given a math tree puzzle, where one has to  
+find the logical combination of numbers and mathematical operations  
+and place them on a tree format. The participants were given fixed  
+time and had to reach the maximum level they can reach in the given  
+time. For round 2, The participants had to drag and drop the birds so  
+that they can directly fly without crashing each other. There were  
+multiple levels and the difficulty increased as the level moved up.  
+The participant who reached the maximum level in the given time, was  
+declared as the winner. 
+
+Guests 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Magefficie 
+
+Event Name 
+
+Business Conclave 
+
+Date 
+
+17/10/2021 – 
+18/10/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+50 
+
+Event Description   
+
+The first day (17th October 2021) of the event started with welcoming the  
+participants and explaining them the rules. First round was the MCQ which 
+focused on the general knowledge of the participants and how they tackle 
+the questions which are asked to them related to Business. The rules of the  
+challenge were to answer the given amount of question within the time limit 
+in order to proceed to the next round.  
+
+The second day (18th October 2021) went with the second and third rounds of 
+the challenge which were Moot Court where participants debated with each 
+other in the given topic to them and Joint venture where the participants 
+were an objective to work upon. The day ended with results declaration in 
+the end and thanking all the participants for joining the challenge. 
+
+Guests 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST  
+
+Event Report 2021  
+
+Handled By  
+
+Challenges and Championship  
+
+Event Name  
+
+Machine Learning 
+Challenge  
+
+Date  
+
+16/10/2021  
+
+Venue  
+
+Online  
+
+Turnout  
+
+180  
+
+Event Description     
+
+On October 16th, an event named machine learning challenge was organized by 
+the C&C. In this event the participants had to experiment with different 
+techniques and compete against each other to produce the best models on the 
+given problem and dataset. The duration of the event was 12 hours. The 
+submissions were scored immediately in the portal and was summarized on a 
+live scoreboard.  
+
+Guests  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Highlights 
+
+Event Name 
+
+Unconference 
+
+Date 
+
+16/10/2021 
+
+Venue 
+
+Online (Zoom) 
+
+Turnout 
+
+350 
+
+Event Description   
+
+On 16th October, an event named "Unconference” was organised by Highlights 
+on a zoom meeting. The topic of the event was “Impact of Automation on 
+Future Jobs”. The Speakers for the event were Mr. Shaji Titus, Mr. Ninad 
+Deshpande, Mrs. Vritti Khawani, Mr. Sidharth Subramani, Mr. Samir Patel, 
+Mr. Anil Nair, Mr. Uzair Shafiul. The Speakers talked about how Automation 
+will impact the future jobs in the market. The speakers very interestingly, 
+narrated their experience with Automation Technology. They also talked 
+about how automation can help India in future. It was followed by a Q&A 
+session. The questions by the participants were satisfactorily answered. 
+
+Guests 
+
+Photo 
+
+Mr. Shaji Titus, Mr. Ninad 
+Deshpande, Mrs. Vritti Khawani, Mr. 
+Siddarth Subramani, Mr. Samir Patel, 
+Mr. Anil Nair, Mr. Uzair Shafiul 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Highlights 
+
+Event Name 
+
+Industrial 
+Conclave 
+
+Date 
+
+17/10/2021 
+
+Venue 
+
+Online (Zoom) 
+
+Turnout 
+
+515 
+
+Event Description   
+
+On 17th October 2021, an event named Industrial conclave was held  
+online on the Zoom platform.The event was regarding about how  
+entrepreneurship is taking over the world nowadays and how one can  
+become successful. 
+The speakers for the event were Mr. Faisal Farooqui, Mrs. Nikita  
+Baliarsingh, Mr. Subhrajit Chowdhary and Mr. Ramesh. The webinar was  
+knowledgeable and understandable, telling us about entrepreneurship in  
+the field of industries and how it can be work effectively to make it  
+easy. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Highlights 
+
+Event Name 
+
+Luminary Addresses  Date 
+
+17/10/2021 
+
+Venue 
+
+Online (Zoom) 
+
+Turnout 
+
+610 
+
+Event Description   
+
+On October 17th, an event named Luminary Addresses was organized by the  
+Highlights. The chief guest for the event was Miss Jill Tarter, who is an  
+American astronomer, former Director of the Center for SETI Research.  
+The main motto of the session was to talk about some insightful array of  
+topics from various fields. The speaker talked about “Existence of  
+Extraterrestrials: The Possibility of Interstellar Encounter”. The speaker  
+also talked about her personal experiences.  
+Her speech was followed by a Q&A session and the questions asked by the  
+participants were satisfactorily answered. The session ended with a 
+Feedback  
+form. 
+
+Guests 
+
+Photo 
+
+Jill Tarter 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Wednesday Speaks 
+
+Date 
+
+17/11/2021 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+120 
+
+Event Description   
+
+On 16th March, 2022, A Wednesday Speaks event was conducted by Workshop. The 
+event was on the topic: “Enterpreneurial Decision Making”. The guest 
+speaker was Dr. K. D Balaji. 
+
+Guests 
+
+Dr. K. D Balaji 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2021 
+
+Handled By 
+
+Team Envision 
+
+Event Name 
+
+Teach Bot 
+
+Date 
+
+27/11/2021 
+
+Venue 
+
+TP Ganeshan 
+Auditorium, Mini 
+Hall 2 
+
+Event Description   
+
+Turnout 
+
+120 
+
+On 27th of November 2021, an event called “Teachbot” was conducted by Team 
+Envision in TP Ganeshan Auditorium, Mini Hall 2. The event was a web 
+development bootcamp that aimed to give basic knowledge of a MERN Stack Web 
+App to the attendees. The event looked at frontend and backend development, 
+database concepts and the attendees working on a webapp called 
+“Linkskeeper”. The event ended with a QnA session with the audience. 
+
+Guests 
+
+Photo 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Initiatives 
+
+Event Name 
+
+Wednesday Speaks 
+
+Date 
+
+12/01/2022 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+130 
+
+Event Description   
+
+On 12th January, an event “AARUUSH Wednesday Speaks” was conducted 
+by initiatives. The event focused on the concept of mind mapping. The 
+speaker, P Supraja who is a PhD. from Anna University and a faculty, 
+Department of NWC, SRMIST talked about how building mind maps while 
+thinking can increase the productivity of our thoughts. The speaker 
+engaged the crowd with many activities and exercises on the same topic 
+which was effective as the crowd did not lose interest. There were some 
+technical glitches from the speakers end as the screen was not completely 
+visible at times. The event started just five minutes late but it did not 
+affect the flow of the event. 
+
+Guests 
+
+Photos 
+
+Dr. P. Supraja 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Team Aaruush 
+
+Event Name 
+
+Round Table 
+Conference 
+
+Date 
+
+26/01/2022 
+
+Venue 
+
+Online 
+
+Turnout 
+
+150 
+
+Event Description   
+
+The Round Table Conference was conducted by Team Aaruush on 26th January 
+2022. The event was a grand success and saw a great response from the 
+audience. 
+
+Guests 
+
+Brigadier Ajay Gangwar 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST  
+
+Event Report 2022  
+
+Handled By  
+
+Workshop  
+
+Event Name  
+
+Wednesday Speaks  
+
+Date  
+
+09/02/2022  
+
+Venue  
+
+Online (GMeet)  
+
+Turnout  
+
+149  
+
+Event Description     
+
+On 16th March, 2022, A Wednesday Speaks event was conducted by Workshop. The 
+event was on the topic: “Role of Nano Technology In Iot Applications”. The 
+guest speaker was Dr. M. G. Bhaskar.  
+
+Guests  
+
+Dr. A. Kar Igeyan  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AARUUSH, SRMIST  
+
+Event Report 2022  
+
+Handled By  
+
+IET 
+
+Event Name  
+
+E-Simulate 5.0  
+
+Date  
+
+17/02/2022- 
+19/02/2022  
+
+Venue  
+
+Total Turnout  
+
+124  
+
+Online(Zoom Meet)  
+
+Event Description     
+
+ On 19th February, an event named "E-Simulate 5.0" was conducted in a 
+zoom meeting. The event was about “Challenges in the field of Machine  
+Learning and Deep Learning”. The speaker of the event was Prof. 
+Biplab Banerjee. In the event, he talked about application of 
+deep learning using everyday examples as well as its future 
+scopes in various fields such as automated surgeries. The event 
+was highly informative and interactive. He also spoke about his 
+projects currently in development in field of deep learning. The 
+event concluded with QnA session with the participants.   
+
+Guests  
+
+Photo  
+
+ Mr. Arpan K. Kar  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Workshop 
+
+Event Name 
+
+Wednesday Speaks 
+
+Date 
+
+16/03/2022 
+
+Venue 
+
+Online (GMeet) 
+
+Turnout 
+
+120 
+
+Event Description   
+
+On 16th March, 2022, A Wednesday Speaks event was conducted by Workshop. The 
+event was on the topic: “The Brand Called You”. The guest speaker was Dr. 
+M. G. Bhaskar. 
+
+Guests 
+
+Dr. M. G. Bhaskar 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Bluebook 
+
+Event Name 
+
+Domain Academics  Date 
+
+23/03/2022 
+
+Venue 
+
+ Online (Zoom 
+Meet) 
+
+Total Turnout 
+
+95 
+
+Event Description   
+
+On 23th March, an event on "Covid 19:Its Hacking Mechanisms" was 
+conducted in a zoom meeting. The speaker of the event was 
+Dr.N.Kumarasamy .He is the Chief and Director of Infectious Diseases 
+Medical Center at Voluntary Health Services(VHS) Hospital, as well as 
+the Director and Site Leader for the Chennai Antiviral Research and 
+Treatment. The webinar was very informative specially for the 
+students of Biotech department and other similar domains. There he 
+discusses  various variants of COVID and their symptoms, gives 
+information about various diagnostic techniques and how different 
+variants are detected. ,how India came forward to fight with this 
+pandemic by sharing stats. Also he Talked about his own experience 
+and how their team tackled the problem .The event ended with a Q&A 
+session with the audience. 
+
+Guests 
+
+Photo 
+
+Dr. N. Kumarasamy 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+FUNDAZ 
+
+Event Name 
+
+Domain Academics  Date 
+
+09/05/2022 
+
+Venue 
+
+ Mini Hall 2,T.P 
+Ganesan 
+Auditorium 
+
+Total Turnout 
+
+Event Description   
+
+On 9th May 2022, an event named “Domain Academics” was conducted at 
+Mini Hall 2, T.P Ganesan Auditorium. The event was on the topic “The 
+String Theory Multiverse and Reality”. The speaker of the event was     
+Dr. Ayan Mukhopadhyay, a distinguished String Theorist and assistant 
+professor at the Department of Physics, IIT Madras. In his lecture, 
+he delved into the very fabrics of space and time and explained the 
+concepts of light cones, black holes, the infamous string theory, and 
+the multiverse theory. Several topics that left many great minds in 
+awe were explained in a very elegant manner. The speaker made sure 
+that no doubts were left unattended and answered queries till the 
+very end. The speaker used various common science-fiction references 
+and made the session interesting. Astrophysics was made interesting 
+and mesmerized the audience at every turn. The event ended with a QnA 
+session with the Audience. 
+
+Guests 
+
+Photo 
+
+Dr. Ayan Mukhopadhya 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+Initiatives 
+
+Event Name 
+
+WEDNESDAY SPEAKS  Date 
+
+11/05/22 
+
+Venue 
+
+TECH PARK 
+401/402 
+
+Event Description   
+
+Total Turnout 
+
+93 
+
+On 11th May 2022, an event on "Emotional Intelligence -Thinking about 
+Feelings" was conducted in Tech Park. The speaker of the event was 
+Mr. P.Priyanand .He is an assistant professor in SRM Institute of 
+Science and Technology KTR and holds expertise in his field. The 
+event was very informative as it helped students to understand their 
+emotions in a better way and react accordingly. The speaker talked 
+about the importance of understanding the difference between our 
+response and our reaction hereafter. He helped us get acquainted with 
+the idea of emotional intelligence being as important as intelligent 
+quotient for all round development of an individual. He even shared 
+his own experience to make the session more indulging. The event 
+ended with a Q&A session with the audience. 
+
+Guests 
+
+Photo 
+
+Mr. Priyanand P 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST 
+
+Event Report 2022 
+
+Handled By 
+
+X-Zone 
+
+Event Name 
+
+Anigma 
+
+Date 
+
+18/05/2022 – 
+05/06/2022 
+
+Venue 
+
+Online 
+
+Turnout 
+
+150 
+
+Event Description   
+
+On 18th of May 2022, an 18-day event called “Anigma” was started. The event 
+saw a great response on the first day and is yet to be concluded. 
+
+‘Anigma’ seeks to appeal to all creative minds and take them into uncharted 
+territory. Participants will participate online and must utilize their 
+imagination and design talents to build an animated character, and then use 
+that character to create an animated story. 
+
+Guests 
+
+Mr. Taranveer Singh 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AARUUSH, SRMIST  
+
+Event Report 2022  
+
+Handled By  
+
+Initiatives, Team Envision  
+
+Event Name  
+
+Date  
+
+T-SUMMIT  
+
+23/04/2022- 
+24/04/ 2022  
+
+Venue  
+
+Online (Zoom)  
+
+Total Turnout  
+
+150   
+
+Event Description     
+
+Over the two days of April 23rd and 24th 2022, the technical event 
+named “T-SUMMIT” brought together a good amount of intellectuals for a 
+critical discussion on some prominent agendas and initiatives by the 
+youths.  
+On 24th April 2022, the continuation of this event took place. The 
+delegates enthusiastically continued the event after an inspirational 
+and very productive first day of the summit.   
+
+The day started off with alumni moderator explaining the four agendas 
+to the delegates and mode consisted of Operative Mandate Session, 
+Voting Session and Closing ceremony. The delegates started off with a 
+thorough reading of the operative mandate, following by a healthy 
+discussion on the points they felt were wrongly stated. After which a 
+voting session took place to validate abstain or edit the agendas 
+mentioned in the mandate wherein, the final amended document was 
+passed with the approval of all the six signatories and the closing 
+ceremony was held. Overall, the event was quite engaging with present 
+delegates taking a lot of interest.  
+
+T-Summit 6.0 was concluded with all the participants and 
+organizers joining on the meet and a vote of thanks.    
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+Guests  
+
+Photo  
+
+ Mr. E. D. Jemmis  
+
+ 
+ 
+  
+  
+AARUUSH, SRMIST
+
+Event Report 2022
+
+Handled By
+
+CSI, ORM
+
+Event Name
+
+Venue
+
+Workshop Series-
+Blockchain,
+Crypto And All
+The Things Web
+3.0
+
+Mini Hall 2, T.P
+Ganesan
+Auditorium
+
+Event Description
+
+Date
+
+14/05/2022
+
+TURNOUT
+
+210
+
+On May 14th, a workshop titled "Blockchain, Crypto And All Things Web
+3.0" conducted in TP Ganesan auditorium-Mini Hall 2. The speaker of the
+workshop was Mr. Sandeep Singh. He is the developer relations manager
+at Koii. He is an open source enthusiast who writes code out of the
+profession and loves to engage in tech communities out of passion.
+The event tells us about the framework for the new internet, a
+protocol made for and by the people where one is rewarded for using
+the internet.
+The speaker emphasized the potential of blockchain to transform how
+we exchange value and data, as well as ownership and transactions.The
+speaker also had very good interaction with the participants, and all
+the questions from them were answered.
+
+Guests
+
+Photo
+
+Mr. Sandeep Singh
+
+

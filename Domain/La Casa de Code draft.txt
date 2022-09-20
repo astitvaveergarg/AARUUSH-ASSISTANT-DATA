@@ -1,0 +1,151 @@
+
+DOMAIN NAME: YUDDHAME
+
+Event name:  La Casa de Code
+Introduction: The innovative improvements in the IT sector are growing closer to technical modernization and, ultimately, a better future. Coding is now described as "the world's competitive edge," as it is the world's fastest growing industry. It is currently the largest job-offering sector prospective potential growth and it prioritizes veracious potential and quality.
+Objective: 
+This event offers a compelling opportunity to outcast their coding skills along with their problem-solving mastery to all the people who are code enthusiasts, through a set of competitions which includes absorbing rounds of quizzes, blind coding challenges and a coding faceoff. It will also give a stage for beginners to lead their way into the IT world. 
+Event Description:
+* Topic: Coding, Debugging, Problem-Solving
+* Poster release date: Yet to be Decided
+* Event date: 28.09.2022, 29.09.2022, 30.09.2022
+* No. of days: 3
+* Event timing:  Yet to be Decided
+* Duration: 6 hours on Day 1, 3 hours on Day 2, 3 hours on Day 3
+* Mode: Both Offline & Online 
+* Location: Offline- Yet to be confirmed from ORM, Online- Zoom/Hackerearth 
+* Will a certificate be provided or not?: Yes 
+* Expected participants: 
+
+Event Flow:
+The event will be conducted in both Offline and Online Mode. For students in SRM i.e the Intra-College Event, the event would be conducted in Offline Mode in our college.
+For the Inter-College Club Competition, we will be having coding clubs from our college as well as technical clubs from different colleges across the nation to connect virtually and take part in the event through Zoom and using online coding platform for event conduction.
+
+Intra-College Event:
+It will be conducted in 3 rounds as follows: 
+Round 1: Quizcapable Me (Quiz Round)
+This round will be the Quiz Round. Participants will participate in teams of two. This round will check the participants basic knowledge of coding and their presence of mind, questions will be framed accordingly. It will have sub-rounds A and B. In round A, 25-30 questions will be given to the teams. Each team will be given questions in an orderly manner. If they answer the questions correctly, they will be given 5 points, however, if their answer is incorrect, they will lose 1 point. If they do not answer the question, they will get 0 points and the question will pass to the next team and so on. In the end, top teams with the highest scores will proceed to Round B. In Round B, we will ask 15-20 debugging questions in the form of a quiz, and those who qualify will move on to Round 2.
+• Will be conducted on the Day 1 of the event after its inauguration.
+• Will be conducted in offline mode in a classrooms or Mini Hall.
+• In case we have optimum number of registrations, for Round A, for ease of conduction, we will be dividing them into groups and accommodate them in separate classrooms.
+For example, if we have 50 teams, we will have 5 groups each having 10 teams at a time. 5 CHs along with 10 CMs will be assigned to each group for conducting the quiz. The quiz of all the groups will be conducted simultaneously and the teams (4-5) with highest score will be taken to Round B where we will have debugging quizzes.
+* The questions will be presented with the help of projectors in all the classrooms.
+• In Round A,1 minute time will be allotted for each question.
+• In case of passing, 15 seconds will be given for the next team to guess. A question can be only passed once.
+• Round B (Debugging Quiz Round) will be held for all the teams together at once. The question would be presented on the screen and the team who comes up with the correct answer at first will be considered and rewarded with points. Each question will have a time limit of maximum 5 mins. 
+• Top 30 participants will be shortlisted for Round 2 after this round.
+
+Round 2: Runtime Terror (Blind Coding Challenge)
+This round will be a Blind Coding Challenge. This round will check the participants' thorough knowledge in the field of coding. Each Qualified Team would be given 4 problem statements/coding questions in this round. They will be given a time constraint of 2 hours. They will first write the code of the solution in a paper/Google Document. After a time of 1.5 hours, they will be allowed to switch on the system and write the same code written on the paper in it. Next, they will compile the code and run it. The team with the least errors and correct problem statement solution will advance to the next round. If the team tries to change the code while typing and make it different from the one written in the paper, they would be disqualified.
+• Will be conducted on the Day 2 of the event.
+• 2 hours will be a time constraint on the entire question set, participants can switch to any question.
+• After the participants complete writing the code on paper, the volunteers from Team Aarush would click pictures of the original code which are written following which the participants would be allowed to type the code on the compiler. 
+• Since, there can be constraints of programming languages, we will be judging the candidates on the basis of the logic they apply to solve and any logical or silly errors they make while writing the codes.
+• We will be having a judge, someone who will be a coding expert, who would be going through all the code and logic and make the final score sheet for the teams.
+• Top 10 participants will be shortlisted for Round 3 after this round.
+
+
+Round 3: CodeYuddh (Coding Faceoff) 
+At the end of Day 2, qualified teams will be shortlisted. Round 3 will be a knockout stage. Next morning, pairs will be made among the qualified teams and each pair will receive unique problem statements related to Data Structures and Algorithms. Each team has 30 minutes to come up with a solution to the problem statement. First team, in the pair, to successfully complete the challenge advances to the next stage. In the next stage, time will be increased to 1 hour. This goes on until one team is the final winner. The judge would decide the Final Winner.
+• Will be conducted on the Day 3 of the event, after the representative speech.
+• Final Codes will be evaluated.
+• Team would have to present their solution and they would be asked questions about their approach towards the solution of the problem statement.
+• Winners will advance to the next stage.
+• Final winner(s) will be decided in this round.
+
+Inter-College Club Event:
+It will be conducted in 3 rounds as follows:
+
+Round 1: Quizcapable Me (Quiz Round)
+This round will be the Quiz Round. Participants will participate in teams of two. Team members need to be from the same college. This round will check the participants basic knowledge of coding and their presence of mind, questions will be framed accordingly. The quiz will be conducted on Kahoot/HackerEarth. 25 questions will be given to the teams. They will get a total time of 30 minutes. If they answer the questions correctly, they will be given 5 points, however, if they answer incorrectly, they will lose 1 point. If they do not answer the question, they will get 0 points. In the end, top teams with the highest scores will proceed to Round 2.
+• Will be conducted on the Day 1 of the event.
+• Will be conducted in online mode through Kahoot/HackerEarth.
+• 30 mins will be allotted to solve a total of 25 questions.
+• Top 30 clubs will qualify for Round 2.
+
+
+Round 2: Dauntless Debugging (Debugging Challenge)
+
+This round will be the Debugging round. We will provide the teams with codes with a higher number of SLOC which will have many errors in them. The teams will have to correct these errors and type the correct code on a proctored platform and then submit the code. They will also have to share their entire screen via Google Meet/Zoom. The teams whose submitted code will have the least errors will proceed to the next round.
+* Total of 3-5 questions will be given to each team with a time of 1 hour.
+* Teams will be shortlisted on the basis of the least number of errors and the time of submission in case of teams with same score.
+* Will be conducted on HackerEarth.
+* Top 10 clubs will qualify for Round 3.
+
+
+Round 3: CodeYuddh (Coding Faceoff)
+At the end of Day1, qualified teams will be shortlisted. Round 3 will be a knockout stage. Next morning, the qualified teams will receive unique problem statements related to Data Structures and Algorithms. This challenge will be conducted on HackerEarth. Each team has 30 minutes to come up with a solution to the problem statement. First team, in the pair, to successfully complete the challenge advances to the next stage. In the next stage, time will be increased to 1 hour. This goes on until one team is the final winner. A judge would also be needed to decide the final winner.
+* Will be conducted on the Day 3 of the event, after the representative speech.
+* Final Codes will be evaluated.
+* Team would have to present their solution and they would be asked questions about their approach towards the solution of the problem statement.
+* Winners will advance to the next stage.
+* Final winner(s) will be decided in this round.
+
+DayTimeActivity28.09.2022 (Day 1)2pm- 7pm    Round 1 (Intra College Competition)28.09.2022 (Day 1)6pm-7pmRound 1 (Inter College Club Competition)29.09.2022 (Day 2)5.30pm- 8.30pm   Round 2 (Intra College Competition)29.09.2022 (Day 2)6pm-7.30pmRound 2 (Inter College Club Competition)30.09.2022 (Day 3)2pm- 6pm    Round 3 (Intra College Competition)30.09.2022 (Day 3)2pm-6pmRound 3 (Inter College Club Competition)
+Requirement List: 
+Budget:  Yet to be decided by Finance
+Poster: By Creatives
+Content:  From PR – for posters, mail content, all necessary documents/ content related to the event.
+Registration form:  Google Forms from CSI
+Feedback form: Google Forms from QA
+Publicity:  By CSI and Outreach
+Moderator/Emcee:  BY PR 
+Brochures:  Posters to be made by Creatives for Social-Media and Offline Publicity
+Sponsors:  Yet to be decided by S&M
+OD Permission: Admins, PRO
+Late Permission for girls: Admins, PROs
+
+Judging criteria (Tentative):
+1. The number of test cases passed. The team to complete maximum number of test cases in the least amount of time will be declared as winner.
+The participants will be given 2 test cases to understand the working of the problem
+Upon completion, 8 hidden test cases will be tested by the judges:
+I.	If 2 teams successfully pass all the test cases, the team which completes the program with the least amount of time is declared winner
+II.	If not all test cases run successfully, the result is passed on to the participating teams The teams can modify their code and try to get complete output.
+Example: 
+I.	Team1: Passed all test cases in 45mins
+Team2: Passed all test cases in 49mins
+Team1 will be the winner
+II.	Team1: Passed 8 test cases
+Team2: Passed 6 test cases
+Team1 will be the winner
+2. Prioritized test case. At the end of the round, if 2 or more than 2 teams have completed the same number of partial test cases, then, the test cases are prioritized, and the team which runs the higher priority test case, will be the winner.
+Example:
+Team1: Successfully ran test case 1, 3, 6.
+Team2: Successfully ran test case 2, 5, 7.
+Team2 will be declared winner since Team2 has completed test case 7, which is of higher priority compared to that of Team1(i.e.  6)
+
+3. Time complexity: If 2 or more teams runs the same higher priority test case, then the next criteria for judging will be the time complexity of their program. The team with the lesser time complexity will be declared winner.
+Example:
+	Team1: Has time complexity O(log(n))
+	Team2: Has time complexity O(n2)
+	Team1 will be declared winner.
+ 
+Shortlisting of participants:
+• After Round 1, Top 30 participants will be shortlisted based on the number of correct answers. 
+• After Round 2, Top 10 participants will be shortlisted based on the number of correct answers.
+• After Round 3, Winner will be declared.
+
+Prizes and deliverables:
+* Certificate of Participation for all the teams that would be showing up for the Quiz Round.
+* Certificate of Appreciation for the winners.
+* Deliverables and Goodies- Yet to be decided by Sponsors.
+* Prize Money- Only for the Winners for Intra-College Competition and Inter-Club Competition (Yet to be decided by Finance)
+
+Pros:
+• Beefing up your resume.
+• The Blind Coding Challenge and Coding Face-Off will enhance your coding and problem-solving skills.
+• It will provide a significant technical edge during job interview.
+• In this event, following the methodology will help you to lead to better results than simply jumping into coding the solution.
+• Participants will get a break from their usual academic schedule and will learn something new.
+Cons: 
+* Number of teams more than expected can lead to a difficulty in management in the Offline Quiz Round.
+* Getting College Clubs from other colleges to participate.
+
+
+
+
+
+
+
+
+

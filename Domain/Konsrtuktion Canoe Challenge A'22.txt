@@ -1,0 +1,131 @@
+Concrete Canoe Challenge
+
+This document is to propose the idea for Canoe Challenge.
+
+For a considerable period of time, the development of canoes was stagnant. However, after years of stagnation, early signs suggest canoeing is peaking people’s interest again. For the first time in more than two decades, the future of canoeing looks bright.
+
+Hence, the Canoe Challenge needs to be developed to International Standards over the coming years. 
+
+Abstract: 
+* A team of 5-10 members will have to be formed and registered as per the details below. Each team has to follow a timeline as given below. The team must design, analyze, model and cast a light weight concrete canoe which will compete against other teams in a single rowing race.
+
+Specifications of canoe
+* The canoe should have a length of 2m i.e. 2000mm and a depth not more than 0.4m i.e. 400mm and the width should not be more than 0.8m i.e. 800mm must be designed by the team.
+
+Specification of the racing track
+* The race track for the canoe race will be will be 70m long .
+* The width of the track is 2.8m.
+
+Time Frame:
+1) 11th JUNE: Registration link will open
+2) 2nd AUGUST:  Last date for Registration 
+3) 8th AUGUST: A detailed plan for execution must be submitted by the team in the form of a timeline using software’s like Primavera or Microsoft Project (MSP).
+4) 29th AUGUST: Last date to submit Mix Design Report 
+5) 9th SEPTEMBER: Last date to submit the modelling and stability analysis.
+6) 10th SEPTEMBER: A call will be given after scrutiny of those submitting Mix Design Report regarding qualification of the team to the next round. Teams will have to cast the canoe on or after 10TH SEPTEMBER. A unique 3-digit number will be given to each team on 10TH SEPTEMBER which will have to be engraved in the concrete cube and canoe to make sure that all teams cast their cubes and canoes at the same time.
+The canoe will be cured for a period of 28 days.
+7) 15th OCTOBER: Arrival of team’s members with canoe at SRM along with a detailed final report
+
+NOTE: All the submissions and communication will be done via email.
+
+Team Registration and Event conduction:
+? Each team must contain a minimum of 5 members and a maximum of 10 members.
+? Registration fee 2500/- per team
+
+Stage 1:
+? Stage 1 requires the team to submit their details.
+? Team Requirements:
+? Name of the team
+? Logo of the team 
+? Names and details of the members     
+? A detailed plan for execution must be submitted by the team in the form of a timeline using software’s like Primavera or Microsoft Project (MSP). [Deadline 8th AUGUST]
+
+Stage 2:
+? The team will have to send a soft copy of the Mix Design which will be implemented to construct the concrete canoe along with the strength attained by the concrete mix (after casting of a minimum of 3 concrete cubes and testing strength after 28 days).
+? This will be the final mix which will be implemented for casting of the canoe.
+? Reports will be scrutinized and the reports qualifying the set criteria will be selected and asked to proceed with modelling of the canoe.
+? The last day for submission of Report 2 will be [29th AUGUST]
+
+Stage 3:
+? The teams qualifying for Stage 3 will be given a period of 25 days for modelling and stability analysis of the canoe having design of their choice. 
+? Stability Analysis and modelling can be done in two ways, either manually or using software’s like Prolines, Rhino, Maxsurf etc. 
+? The progress made in this stage will be documented into a report. 
+? The report for Stage 3 should contain a detailed description of the modelling and stability analysis of the design used. 
+? The deadline for Report 3 will be [9th SEPTEMBER].
+? Top teams will be selected for the final event based on Report 3.
+? These teams will be intimated about their success on the [10th SEPTEMBER]. Teams can then proceed with casting of the canoe.
+
+
+
+
+
+
+
+     Stage 4:
+? The canoe will have to be cast by the 10th SEPTEMBER. It will have to be cured for a period of 28 days.
+? A unique 3-digit number will be given to each team on 10th SEPTEMBER which will have to be engraved on the concrete cube and the canoe to make sure that all teams cast their cubes and canoes at the same time
+? A detailed FINAL REPORT will have to be submitted on the day of the event i.e., 15th October. This report should contain the following: 
+a. Name of the team
+b. Name/s of the member/s of the team
+c. Abstract 
+d. Introduction
+e. Materials and specifications
+f. Mix design
+g. Compressive strength 
+h. Modelling
+i. Stability analysis
+j. Mould making and casting
+k. Curing 
+l. Aesthetics of the canoe
+m. Cost estimation for the canoe
+n. Conclusion 
+
+
+      Final Stage:
+? The LIGHT WEIGHT CONCRETE CANOE has to be brought to SRM University on the day of the event where it will be tested and the teams need to come along with their final report. This will be the final stage. Teams with the best canoe as per the judgement criteria will win the prizes.
+
+
+NOTE: All the submissions and communication will be via email. 
+
+
+
+
+
+
+
+
+Judgement Criteria:
+1. Light weight
+2. Loading
+3. Oral presentation
+4. Free board
+5. Advanced materials used
+6. Economical
+7. Stability analysis
+8. Mould
+9. Aesthetic value
+10. Dunk test 
+11. Single Rowing Race (time based): 
+a. Boy 
+
+
+MARKS DISTRIBUTION 
+25% will be allocated for the canoe race and remaining 75% will be for the technical aspects such as adequate design, report submission, research and aesthetics of the canoe. 
+
+Total prizes worth 1.2 lakh for the winners to take away 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
